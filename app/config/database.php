@@ -116,7 +116,7 @@ class DATABASE_CONFIG {
     function __construct() {
         //check to see if server name is set (thanks Frank)
 
-echo $_SERVER['APPLICATION_ENV'];die();
+
         if (array_key_exists('APPLICATION_ENV', $_SERVER) ){
 			
             switch ($_SERVER['APPLICATION_ENV']) {
