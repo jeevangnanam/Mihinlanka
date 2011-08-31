@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Mihin Lanka"
+msgstr "Mihin Lanka"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Destination"
+msgstr "Destination"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight Destinations"
+msgstr "Flight Destinations"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight Schedule"
+msgstr "Flight Schedule"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight schedules"
+msgstr "Flight schedules"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight schedules det.."
+msgstr "The world beyond is within reach with Mihin Lanka as we provide you with many options to fly to a destination of your choice, precisely at your convenience"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Please select the location"
+msgstr "Please select the location"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Search in locations"
+msgstr "Search in locations"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight No"
+msgstr "Flight No"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Dep Airport"
+msgstr "Dep Airport"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Dep Terminal"
+msgstr "Dep Terminal"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Dep Time"
+msgstr "Dep Time"
+
+#: pages.............................................
+#: \controllers\groups_controller.php:13;33
+msgid "Arr Terminal"
+msgstr "Arr Terminal"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Arr Airport"
+msgstr "Arr Airport"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Arr Time"
+msgstr "Arr Time"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Frequency"
+msgstr "Frequency"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Period"
+msgstr "Period"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Stops"
+msgstr "Stops"
+
+#: Baggage allowance.............................
+#: \controllers\groups_controller.php:13;33
+msgid "Baggage allowance"
+msgstr "Baggage allowance"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Baggage allowance desc"
+msgstr "You don’t have to worry about traveling light, as we provide you the opportunity of feeling right at home wherever you go…be it a business trip, a nice long holiday or even a lifetime venture.We offer substantial free baggage allowance to and from all destinations, taking into consideration your possible requirements, while further providing you with the option of taking baggage (limited) in excess of such allowance."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Amount"
+msgstr "Amount"
+
+#: \controllers\groups_controller.php:13;33
+msgid "PER KG"
+msgstr "PER KG"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Remarks"
+msgstr "Remarks"
+
+#: \controllers\groups_controller.php:13;33
+msgid "On-Board Service"
+msgstr "On-Board Service"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Meals"
+msgstr "Meals"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Meals desc"
+msgstr "Traveling with Mihin is not only a means to an end… we give you a total travel experience. In fact, we are the only budget airline that is happy to serve you with some complimentary goodies to nibble on, to keep those hunger pangs at bay, as you enjoy the journey.<br /><br />On board, we provide you with delectable cuisine including refreshments or light meals (halal) as per the duration of the flight, to ensure you are comfortable."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Day Time Operations (Main Meal)"
+msgstr "Day Time Operations (Main Meal)"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Choice"
+msgstr "Choice"
+
+#: \controllers\groups_controller.php:13;33
+msgid "NASIGORENG WITH VEGETABLE IN CHILLI SAUCE"
+msgstr "Indonesian style Nasi Goreng with hot chillie sauce, garnished with vegetables"
+
+#: \controllers\groups_controller.php:13;33
+msgid "MILK CHOCOLATE"
+msgstr "Milk chocolate"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RICE &amp; DHAL KHICHADI with SOYA CURRY"
+msgstr "Traditional Rice and Dhal Khichdi served with spice laden soya curry"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Morning Operations (Breakfast)"
+msgstr "Morning Operations (Breakfast)"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RED KIRIBUTH WITH TEMPERED ONIONS &amp; MALU MIRIS"
+msgstr "Typical Sri Lankan Red Milk Rice with tempered onions and spicy capsicum"
+
+#: \controllers\groups_controller.php:13;33
+msgid "SEASONAL FRESH FRUITS"
+msgstr "Tropical Fresh Fruits"
+
+#: \controllers\groups_controller.php:13;33
+msgid "KADALA TEMPERED WITH ONIONS, GREEN CHILLIES &amp; KARAPINCHA"
+msgstr "Lightly tempered dhal with spicy onions, green chillie and curry leaves"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Fruit drink will be served in all flights."
+msgstr "Additionally, fruit drinks will be served on all our flights and tea or coffee is served on request. Alcoholic/ non alcoholic beverages may be purchased at reasonable prices."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Tea & Coffee is served on request."
+msgstr "Tea & Coffee is served on request."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Yours to Enjoy on-board"
+msgstr "Yours to Enjoy on-board"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RED WINE"
+msgstr "RED WINE"
+
+#: \controllers\groups_controller.php:13;33
+msgid "WHISKY - GRANT'S"
+msgstr "WHISKY - GRANT'S"
+
+#: \controllers\groups_controller.php:13;33
+msgid "WHITE WINE"
+msgstr "WHITE WINE"
+
+#: \controllers\groups_controller.php:13;33
+msgid "BRANDY - HENNESSY"
+msgstr "BRANDY - HENNESSY"
+
+#: \controllers\groups_controller.php:13;33
+msgid "GIN-GORDON'S"
+msgstr "GIN-GORDON'S"
+
+#: \controllers\groups_controller.php:13;33
+msgid "BEER - HEINEKEN CAN"
+msgstr "BEER - HEINEKEN CAN"
+
+#: \controllers\groups_controller.php:13;33
+msgid "VODKA - SMIRNOFF"
+msgstr "VODKA - SMIRNOFF"
+
+#: \controllers\groups_controller.php:13;33
+msgid "மென்பானங்கள்"
+msgstr "பயணங்களில் களிப்புடன் இருக்க"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RUM - BACARDI"
+msgstr "RUM - BACARDI"
+
+msgid "SOFT DRINKS"
+msgstr "SOFT DRINKS"
+
+msgid "COCA COLA"
+msgstr "COCA COLA"
+
+msgid "7UP"
+msgstr "7UP"
+
+msgid "TONIC"
+msgstr "TONIC"
+
+msgid "SODA"
+msgstr "SODA"
+
+#: \controllers\groups_controller.php:13;33
+msgid "xxx"
+msgstr "பயணங்களில் களிப்புடன் இருக்க"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Vegetable Calzone is served on MLE flights."
+msgstr "Vegetable Calzone will be served on flights to the Maldives and a cookie biscuit will be served on our flights to Tiruchirapalli."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Cookie Biscuit is served on TRZ flights."
+msgstr "Cookie Biscuit is served on TRZ flights."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Arrivals Departures"
+msgstr "Arrivals Departures"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Duty Free"
+msgstr "Duty Free"
+
+#: \controllers\groups_controller.php:13;33
+msgid "FAQ"
+msgstr "FAQ"
+
+#: \controllers\groups_controller.php:13;33
+msgid "How to book"
+msgstr "How to book"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Payment options"
+msgstr "Payment options"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Regulations"
+msgstr "Travel Regulations"
+
+msgid "Travel Regulations desc"
+msgstr "Travel Regulations vary from destination to destination and can be obtained from the relevant authorities of each country.  <br />Listed below for your convenience are some links to the official websites of some of the destinations we travel to."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Packages"
+msgstr "Packages"
+
+#: \controllers\groups_controller.php:13;33
+msgid "BUDHGAYA TOUR OPERATORS"
+msgstr "BUDHGAYA TOUR OPERATORS"
+
+#: \controllers\groups_controller.php:13;33
+msgid "BUDHGAYA TOUR OPERATORS desc"
+msgstr "Agents who are exclusively promoting MIHIN LANKA with their Dambadiva Tours."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Agents"
+msgstr "Travel Agents"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Agents desc"
+msgstr "You have the option of obtaining the services of one of our preferred Travel Agents listed out below, in order to facilitate your travel arrangements."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Our offices"
+msgstr "Our offices"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Call center"
+msgstr "Call center"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Call center desc"
+msgstr "Please contact our Call Centre should you need further clarification or information on anything pertaining to your travel arrangements."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Feedback center"
+msgstr "Feedback center"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Feedback center desc"
+msgstr "Please forward all your feedback to us as we will be happy to accept same."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Downloads"
+msgstr "Downloads"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Downloads desc"
+msgstr "Please find below, documents which may be accessible for your convenience."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Mihinlanka"
+msgstr "Mihinlanka"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Careers"
+msgstr "Careers"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Itinerary"
+msgstr "Travel Itinerary"
+
+#: \controllers\groups_controller.php:13;33
+msgid "From"
+msgstr "From"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Depart"
+msgstr "Depart"
+
+#: \controllers\groups_controller.php:13;33
+msgid "To"
+msgstr "To"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Return"
+msgstr "Return"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Number of passengers"
+msgstr "Number of passengers"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Adults"
+msgstr "Adults"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Children"
+msgstr "Children"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Infants"
+msgstr "Infants"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Return trip"
+msgstr "Return trip"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Search preferences"
+msgstr "Search preferences"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Schedule"
+msgstr "Schedule"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Price"
+msgstr "Price"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flexible date"
+msgstr "Flexible date"
+
+#: \controllers\groups_controller.php:13;33
+msgid "baggage allawance det.."
+msgstr "With our exclusive baggage allowance, you can feel right at home wherever you are and carry your world around with you."
+
+#: \controllers\groups_controller.php:13;33
+msgid "30 kilos baggage"
+msgstr "Free Baggage Allowance"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Be the first to know"
+msgstr "Be the first to know"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Be the first to know det.."
+msgstr "Don’t miss out on any of our special offers and promotions to any of your favourite destinations."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Be the first to know det more"
+msgstr "Subscribe now and await more information on our exciting special offers and promotions. The world beyond is certainly within reach!"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Agent Login"
+msgstr "Agent Login"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Agent Login det.."
+msgstr "Travel Agents, Click here to login to our secured Agent Access System"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Conditions of Carriage"
+msgstr "Conditions of Carriage"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Download forms"
+msgstr "Download forms"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Download"
+msgstr "Download"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Invalid group"
+msgstr ""
+
+#: \controllers\groups_controller.php:13;33
+msgid "Promotions"
+msgstr "Promotions"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Mihin Lanka Careers"
+msgstr "Mihin Lanka Careers"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Mihin Lanka Careers desc"
+msgstr "We regret that currently there are no vacancies available. However, please do forward your curriculum vitae to below mention address."
+
+#: \controllers\groups_controller.php:23;38
+msgid "The group has been saved"
+msgstr "The group has been saved"
+
+#: \controllers\groups_controller.php:26;41
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\groups_controller.php:51
+msgid "Invalid id for group"
+msgstr ""
+
+#: \controllers\groups_controller.php:55
+msgid "Group deleted"
+msgstr ""
+
+#: \controllers\groups_controller.php:58
+msgid "Group was not deleted"
+msgstr ""
+
+#: \controllers\notes_controller.php:13;33
+msgid "Invalid note"
+msgstr ""
+
+#: \controllers\notes_controller.php:23;38
+msgid "The note has been saved"
+msgstr ""
+
+#: \controllers\notes_controller.php:26;41
+msgid "The note could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\notes_controller.php:51
+msgid "Invalid id for note"
+msgstr ""
+
+#: \controllers\notes_controller.php:55
+msgid "Note deleted"
+msgstr ""
+
+#: \controllers\notes_controller.php:58
+msgid "Note was not deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:51;73
+msgid "Invalid user"
+msgstr ""
+
+#: \controllers\users_controller.php:61;78
+msgid "The user has been saved"
+msgstr ""
+
+#: \controllers\users_controller.php:64;81
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\users_controller.php:93
+msgid "Invalid id for user"
+msgstr ""
+
+#: \controllers\users_controller.php:97
+msgid "User deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:100
+msgid "User was not deleted"
+msgstr ""
+
+#: \views\groups\add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: \views\groups\add.ctp:9
+#: \views\groups\edit.ctp:10
+#: \views\notes\add.ctp:10
+#: \views\notes\edit.ctp:11
+#: \views\users\add.ctp:11
+#: \views\users\edit.ctp:12
+msgid "Submit"
+msgstr ""
+
+#: \views\groups\add.ctp:12
+#: \views\groups\edit.ctp:13
+#: \views\groups\index.ctp:7;43
+#: \views\groups\view.ctp:17;36
+#: \views\notes\add.ctp:13
+#: \views\notes\edit.ctp:14
+#: \views\notes\index.ctp:8;45
+#: \views\notes\view.ctp:22
+#: \views\users\add.ctp:14
+#: \views\users\edit.ctp:15
+#: \views\users\index.ctp:9;49
+#: \views\users\view.ctp:27
+msgid "Actions"
+msgstr ""
+
+#: \views\groups\add.ctp:15
+#: \views\groups\edit.ctp:17
+#: \views\groups\view.ctp:21
+#: \views\users\add.ctp:18
+#: \views\users\edit.ctp:20
+#: \views\users\index.ctp:52
+#: \views\users\view.ctp:33
+msgid "List Groups"
+msgstr ""
+
+#: \views\groups\add.ctp:16
+#: \views\groups\edit.ctp:18
+#: \views\groups\index.ctp:46
+#: \views\groups\view.ctp:23
+#: \views\users\add.ctp:17
+#: \views\users\edit.ctp:19
+#: \views\users\view.ctp:31
+msgid "List Users"
+msgstr ""
+
+#: \views\groups\add.ctp:17
+#: \views\groups\edit.ctp:19
+#: \views\groups\index.ctp:47
+#: \views\groups\view.ctp:24;63
+#: \views\users\index.ctp:51
+#: \views\users\view.ctp:32
+msgid "New User"
+msgstr ""
+
+#: \views\groups\edit.ctp:4
+#: \views\groups\view.ctp:19
+msgid "Edit Group"
+msgstr ""
+
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:23
+#: \views\groups\view.ctp:54
+#: \views\notes\edit.ctp:17
+#: \views\notes\index.ctp:25
+#: \views\users\edit.ctp:18
+#: \views\users\index.ctp:29
+msgid "Delete"
+msgstr ""
+
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:23
+#: \views\groups\view.ctp:20;54
+#: \views\notes\edit.ctp:17
+#: \views\notes\index.ctp:25
+#: \views\notes\view.ctp:25
+#: \views\users\edit.ctp:18
+#: \views\users\index.ctp:29
+#: \views\users\view.ctp:30
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \views\groups\index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: \views\groups\index.ctp:21
+#: \views\groups\view.ctp:52
+#: \views\notes\index.ctp:23
+#: \views\users\index.ctp:27
+msgid "View"
+msgstr ""
+
+#: \views\groups\index.ctp:22
+#: \views\groups\view.ctp:53
+#: \views\notes\index.ctp:24
+#: \views\users\index.ctp:28
+msgid "Edit"
+msgstr ""
+
+#: \views\groups\index.ctp:31
+#: \views\notes\index.ctp:33
+#: \views\users\index.ctp:37
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: \views\groups\index.ctp:36
+#: \views\notes\index.ctp:38
+#: \views\users\index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: \views\groups\index.ctp:39
+#: \views\notes\index.ctp:41
+#: \views\users\index.ctp:45
+msgid "next"
+msgstr ""
+
+#: \views\groups\index.ctp:45
+#: \views\groups\view.ctp:22
+#: \views\users\add.ctp:19
+#: \views\users\edit.ctp:21
+#: \views\users\index.ctp:53
+#: \views\users\view.ctp:34
+msgid "New Group"
+msgstr ""
+
+#: \views\groups\view.ctp:2
+#: \views\users\view.ctp:19
+msgid "Group"
+msgstr ""
+
+#: \views\groups\view.ctp:4;32
+#: \views\notes\view.ctp:4
+#: \views\users\view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: \views\groups\view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: \views\groups\view.ctp:20
+msgid "Delete Group"
+msgstr ""
+
+#: \views\groups\view.ctp:28
+msgid "Related Users"
+msgstr ""
+
+#: \views\groups\view.ctp:33
+#: \views\users\view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: \views\groups\view.ctp:34
+#: \views\users\view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: \views\groups\view.ctp:35
+msgid "Group Id"
+msgstr ""
+
+#: \views\notes\add.ctp:4
+msgid "Add Note"
+msgstr ""
+
+#: \views\notes\add.ctp:16
+#: \views\notes\edit.ctp:18
+#: \views\notes\view.ctp:26
+msgid "List Notes"
+msgstr ""
+
+#: \views\notes\edit.ctp:4
+#: \views\notes\view.ctp:24
+msgid "Edit Note"
+msgstr ""
+
+#: \views\notes\index.ctp:2
+msgid "Notes"
+msgstr ""
+
+#: \views\notes\index.ctp:47
+#: \views\notes\view.ctp:27
+msgid "New Note"
+msgstr ""
+
+#: \views\notes\view.ctp:2
+msgid "Note"
+msgstr ""
+
+#: \views\notes\view.ctp:9
+msgid "Title"
+msgstr ""
+
+#: \views\notes\view.ctp:14
+msgid "Body"
+msgstr ""
+
+#: \views\notes\view.ctp:25
+msgid "Delete Note"
+msgstr ""
+
+#: \views\users\add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: \views\users\edit.ctp:4
+#: \views\users\view.ctp:29
+msgid "Edit User"
+msgstr ""
+
+#: \views\users\index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: \views\users\login.ctp:5
+msgid "Login"
+msgstr ""
+
+#: \views\users\view.ctp:2
+msgid "User"
+msgstr ""
+
+#: \views\users\view.ctp:30
+msgid "Delete User"
+msgstr ""
+
+#: \webroot\test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: \webroot\test.php:88
+msgid "Multiple destinations"
+msgstr "Multiple destinations"
+

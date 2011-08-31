@@ -1,0 +1,2390 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-07-27 13:54+0300\n"
+"PO-Revision-Date: 2011-08-29 13:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\subscriptions_controller.php:34
+#: \plugins\admin\controllers\subscriptions_controller.php:23;40
+msgid "The subscription has been saved"
+msgstr ""
+
+#: \controllers\subscriptions_controller.php:37
+#: \plugins\admin\controllers\subscriptions_controller.php:26;43
+msgid "The subscription could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\survey_users_controller.php:19
+msgid "The survey user has been saved"
+msgstr ""
+
+#: \controllers\survey_users_controller.php:25
+msgid "The survey user could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\users_controller.php:14;39
+#: \plugins\admin\controllers\users_controller.php:31;57
+msgid "Invalid user"
+msgstr ""
+
+#: \controllers\users_controller.php:24;44
+#: \plugins\admin\controllers\users_controller.php:42;62
+msgid "The user has been saved"
+msgstr ""
+
+#: \controllers\users_controller.php:27;47
+#: \plugins\admin\controllers\users_controller.php:45;65
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\users_controller.php:59
+#: \plugins\admin\controllers\users_controller.php:77
+msgid "Invalid id for user"
+msgstr ""
+
+#: \controllers\users_controller.php:63
+#: \plugins\admin\controllers\users_controller.php:81
+msgid "User deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:66
+#: \plugins\admin\controllers\users_controller.php:84
+msgid "User was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\alert_messages_controller.php:13;33
+msgid "Invalid alert message"
+msgstr ""
+
+#: \plugins\admin\controllers\alert_messages_controller.php:23;38
+msgid "The alert message has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\alert_messages_controller.php:26;41
+msgid "The alert message could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\alert_messages_controller.php:51
+msgid "Invalid id for alert message"
+msgstr ""
+
+#: \plugins\admin\controllers\alert_messages_controller.php:55
+msgid "Alert message deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\alert_messages_controller.php:58
+msgid "Alert message was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\banners_controller.php:14;60
+msgid "Invalid banner"
+msgstr ""
+
+#: \plugins\admin\controllers\banners_controller.php:45;73
+msgid "The banner has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\banners_controller.php:48;76
+msgid "The banner could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\banners_controller.php:90
+msgid "Invalid id for banner"
+msgstr ""
+
+#: \plugins\admin\controllers\banners_controller.php:94
+msgid "Banner deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\banners_controller.php:97
+msgid "Banner was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\countries_controller.php:13;33
+msgid "Invalid country"
+msgstr ""
+
+#: \plugins\admin\controllers\countries_controller.php:23;38
+msgid "The country has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\countries_controller.php:26;41
+msgid "The country could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\countries_controller.php:51
+msgid "Invalid id for country"
+msgstr ""
+
+#: \plugins\admin\controllers\countries_controller.php:55
+msgid "Country deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\countries_controller.php:58
+msgid "Country was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\currencies_controller.php:13;33
+msgid "Invalid currency"
+msgstr ""
+
+#: \plugins\admin\controllers\currencies_controller.php:23;38
+msgid "The currency has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\currencies_controller.php:26;41
+msgid "The currency could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\currencies_controller.php:51
+msgid "Invalid id for currency"
+msgstr ""
+
+#: \plugins\admin\controllers\currencies_controller.php:55
+msgid "Currency deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\currencies_controller.php:58
+msgid "Currency was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\destinations_controller.php:16;38
+msgid "Invalid destination"
+msgstr ""
+
+#: \plugins\admin\controllers\destinations_controller.php:26;43
+msgid "The destination has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\destinations_controller.php:29;46
+msgid "The destination could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\destinations_controller.php:58
+msgid "Invalid id for destination"
+msgstr ""
+
+#: \plugins\admin\controllers\destinations_controller.php:62
+msgid "Destination deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\destinations_controller.php:65
+msgid "Destination was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\downloads_controller.php:14;48
+msgid "Invalid download"
+msgstr ""
+
+#: \plugins\admin\controllers\downloads_controller.php:29;37;60;67
+msgid "The download has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\downloads_controller.php:32;63
+msgid "The download could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\downloads_controller.php:82
+msgid "Invalid id for download"
+msgstr ""
+
+#: \plugins\admin\controllers\downloads_controller.php:86
+msgid "Download deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\downloads_controller.php:89
+msgid "Download was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\file_types_controller.php:13;33
+msgid "Invalid file type"
+msgstr ""
+
+#: \plugins\admin\controllers\file_types_controller.php:23;38
+msgid "The file type has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\file_types_controller.php:26;41
+msgid "The file type could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\file_types_controller.php:51
+msgid "Invalid id for file type"
+msgstr ""
+
+#: \plugins\admin\controllers\file_types_controller.php:55
+msgid "File type deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\file_types_controller.php:58
+msgid "File type was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_routes_controller.php:13;33
+msgid "Invalid flight route"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_routes_controller.php:23;38
+msgid "The flight route has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_routes_controller.php:26;41
+msgid "The flight route could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\flight_routes_controller.php:51
+msgid "Invalid id for flight route"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_routes_controller.php:55
+msgid "Flight route deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_routes_controller.php:58
+msgid "Flight route was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_schedules_controller.php:14;42
+msgid "Invalid flight schedule"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_schedules_controller.php:24;47
+msgid "The flight schedule has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_schedules_controller.php:27;50
+msgid "The flight schedule could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\flight_schedules_controller.php:67
+msgid "Invalid id for flight schedule"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_schedules_controller.php:71
+msgid "Flight schedule deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\flight_schedules_controller.php:74
+msgid "Flight schedule was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\flights_controller.php:13;33
+msgid "Invalid flight"
+msgstr ""
+
+#: \plugins\admin\controllers\flights_controller.php:23;38
+msgid "The flight has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\flights_controller.php:26;41
+msgid "The flight could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\flights_controller.php:51
+msgid "Invalid id for flight"
+msgstr ""
+
+#: \plugins\admin\controllers\flights_controller.php:55
+msgid "Flight deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\flights_controller.php:58
+msgid "Flight was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:13
+msgid "Invalid lowfair search"
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:23;38
+msgid "The lowfare search has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:26;41
+msgid "The lowfare search could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:33
+msgid "Invalid lowfare search"
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:51
+msgid "Invalid id for lowfare search"
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:55
+msgid "Lowfare search deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\lowfair_searches_controller.php:58
+msgid "Lowfare search was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\messages_controller.php:13;33
+msgid "Invalid message"
+msgstr ""
+
+#: \plugins\admin\controllers\messages_controller.php:23;38
+msgid "The message has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\messages_controller.php:26;41
+msgid "The message could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\messages_controller.php:51
+msgid "Invalid id for message"
+msgstr ""
+
+#: \plugins\admin\controllers\messages_controller.php:55
+msgid "Message deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\messages_controller.php:58
+msgid "Message was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\promotions_controller.php:18;82
+msgid "Invalid promotion"
+msgstr ""
+
+#: \plugins\admin\controllers\promotions_controller.php:66;87
+msgid "The promotion has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\promotions_controller.php:69;90
+msgid "The promotion could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\promotions_controller.php:106
+msgid "Invalid id for promotion"
+msgstr ""
+
+#: \plugins\admin\controllers\promotions_controller.php:110
+msgid "Promotion deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\promotions_controller.php:113
+msgid "Promotion was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\shopping_orders_controller.php:16;36
+msgid "Invalid shopping order"
+msgstr ""
+
+#: \plugins\admin\controllers\shopping_orders_controller.php:26;41
+msgid "The shopping order has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\shopping_orders_controller.php:29;44
+msgid "The shopping order could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\shopping_orders_controller.php:54
+msgid "Invalid id for shopping order"
+msgstr ""
+
+#: \plugins\admin\controllers\shopping_orders_controller.php:58
+msgid "Shopping order deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\shopping_orders_controller.php:61
+msgid "Shopping order was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\site_sections_controller.php:13;33
+msgid "Invalid site section"
+msgstr ""
+
+#: \plugins\admin\controllers\site_sections_controller.php:23;38
+msgid "The site section has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\site_sections_controller.php:26;41
+msgid "The site section could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\site_sections_controller.php:51
+msgid "Invalid id for site section"
+msgstr ""
+
+#: \plugins\admin\controllers\site_sections_controller.php:55
+msgid "Site section deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\site_sections_controller.php:58
+msgid "Site section was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\subscriptions_controller.php:13;35
+msgid "Invalid subscription"
+msgstr ""
+
+#: \plugins\admin\controllers\subscriptions_controller.php:55
+msgid "Invalid id for subscription"
+msgstr ""
+
+#: \plugins\admin\controllers\subscriptions_controller.php:59
+msgid "Subscription deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\subscriptions_controller.php:62
+msgid "Subscription was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\terminals_controller.php:13;35
+msgid "Invalid terminal"
+msgstr ""
+
+#: \plugins\admin\controllers\terminals_controller.php:23;40
+msgid "The terminal has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\terminals_controller.php:26;43
+msgid "The terminal could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\terminals_controller.php:55
+msgid "Invalid id for terminal"
+msgstr ""
+
+#: \plugins\admin\controllers\terminals_controller.php:59
+msgid "Terminal deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\terminals_controller.php:62
+msgid "Terminal was not deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\travel_agents_controller.php:19;41
+msgid "Invalid travel agent"
+msgstr ""
+
+#: \plugins\admin\controllers\travel_agents_controller.php:29;46
+msgid "The travel agent has been saved"
+msgstr ""
+
+#: \plugins\admin\controllers\travel_agents_controller.php:32;49
+msgid "The travel agent could not be saved. Please, try again."
+msgstr ""
+
+#: \plugins\admin\controllers\travel_agents_controller.php:61
+msgid "Invalid id for travel agent"
+msgstr ""
+
+#: \plugins\admin\controllers\travel_agents_controller.php:65
+msgid "Travel agent deleted"
+msgstr ""
+
+#: \plugins\admin\controllers\travel_agents_controller.php:68
+msgid "Travel agent was not deleted"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\add.ctp:4
+msgid "Add Alert Message"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\add.ctp:22
+#: \plugins\admin\views\alert_messages\edit.ctp:23
+#: \plugins\admin\views\banners\add.ctp:14
+#: \plugins\admin\views\banners\edit.ctp:17
+#: \plugins\admin\views\countries\add.ctp:26
+#: \plugins\admin\views\countries\edit.ctp:18
+#: \plugins\admin\views\destinations\edit.ctp:29
+#: \plugins\admin\views\downloads\add.ctp:33
+#: \plugins\admin\views\downloads\edit.ctp:33
+#: \plugins\admin\views\flight_routes\add.ctp:27
+#: \plugins\admin\views\flight_routes\edit.ctp:19
+#: \plugins\admin\views\flight_schedules\add.ctp:47
+#: \plugins\admin\views\flight_schedules\edit.ctp:47
+#: \plugins\admin\views\flights\edit.ctp:16
+#: \plugins\admin\views\promotions\add.ctp:27
+#: \plugins\admin\views\promotions\edit.ctp:30
+#: \plugins\admin\views\shopping_orders\edit.ctp:84
+#: \plugins\admin\views\terminals\add.ctp:26
+#: \plugins\admin\views\travel_agents\edit.ctp:47
+msgid "Save"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\add.ctp:25
+#: \plugins\admin\views\alert_messages\edit.ctp:26
+#: \plugins\admin\views\alert_messages\index.ctp:10;49
+#: \plugins\admin\views\alert_messages\view.ctp:31
+#: \plugins\admin\views\banners\add.ctp:17
+#: \plugins\admin\views\banners\edit.ctp:20
+#: \plugins\admin\views\banners\index.ctp:11;56
+#: \plugins\admin\views\banners\view.ctp:17
+#: \plugins\admin\views\countries\add.ctp:29
+#: \plugins\admin\views\countries\edit.ctp:21
+#: \plugins\admin\views\countries\index.ctp:8;45
+#: \plugins\admin\views\countries\view.ctp:25;50;98;151
+#: \plugins\admin\views\currencies\add.ctp:15
+#: \plugins\admin\views\currencies\edit.ctp:16
+#: \plugins\admin\views\currencies\index.ctp:10;49
+#: \plugins\admin\views\currencies\view.ctp:32;57
+#: \plugins\admin\views\destinations\add.ctp:46
+#: \plugins\admin\views\destinations\edit.ctp:32
+#: \plugins\admin\views\destinations\index.ctp:12;54
+#: \plugins\admin\views\destinations\view.ctp:29;49
+#: \plugins\admin\views\downloads\add.ctp:36
+#: \plugins\admin\views\downloads\edit.ctp:36
+#: \plugins\admin\views\downloads\index.ctp:13;59
+#: \plugins\admin\views\file_types\add.ctp:13
+#: \plugins\admin\views\file_types\edit.ctp:14
+#: \plugins\admin\views\file_types\index.ctp:8;45
+#: \plugins\admin\views\file_types\view.ctp:22;44
+#: \plugins\admin\views\flight_routes\add.ctp:30
+#: \plugins\admin\views\flight_routes\edit.ctp:22
+#: \plugins\admin\views\flight_routes\index.ctp:8;45
+#: \plugins\admin\views\flight_routes\view.ctp:25
+#: \plugins\admin\views\flight_schedules\add.ctp:50
+#: \plugins\admin\views\flight_schedules\edit.ctp:50
+#: \plugins\admin\views\flight_schedules\index.ctp:18;72
+#: \plugins\admin\views\flight_schedules\view.ctp:62
+#: \plugins\admin\views\flights\add.ctp:12
+#: \plugins\admin\views\flights\edit.ctp:19
+#: \plugins\admin\views\flights\index.ctp:9;45
+#: \plugins\admin\views\flights\view.ctp:18;46
+#: \plugins\admin\views\lowfair_searches\add.ctp:49
+#: \plugins\admin\views\lowfair_searches\edit.ctp:51
+#: \plugins\admin\views\lowfair_searches\index.ctp:10;49
+#: \plugins\admin\views\lowfair_searches\view.ctp:32
+#: \plugins\admin\views\messages\add.ctp:15
+#: \plugins\admin\views\messages\edit.ctp:16
+#: \plugins\admin\views\messages\index.ctp:11
+#: \plugins\admin\views\messages\view.ctp:26
+#: \plugins\admin\views\promotions\add.ctp:30
+#: \plugins\admin\views\promotions\edit.ctp:33
+#: \plugins\admin\views\promotions\index.ctp:13;55
+#: \plugins\admin\views\promotions\view.ctp:50
+#: \plugins\admin\views\shopping_orders\add.ctp:20
+#: \plugins\admin\views\shopping_orders\edit.ctp:88
+#: \plugins\admin\views\shopping_orders\index.ctp:16
+#: \plugins\admin\views\shopping_orders\view.ctp:90
+#: \plugins\admin\views\site_sections\add.ctp:13
+#: \plugins\admin\views\site_sections\edit.ctp:14
+#: \plugins\admin\views\site_sections\index.ctp:8;45
+#: \plugins\admin\views\site_sections\view.ctp:22
+#: \plugins\admin\views\subscriptions\add.ctp:44
+#: \plugins\admin\views\subscriptions\edit.ctp:46
+#: \plugins\admin\views\subscriptions\index.ctp:14;59
+#: \plugins\admin\views\subscriptions\view.ctp:75
+#: \plugins\admin\views\terminals\add.ctp:29
+#: \plugins\admin\views\terminals\edit.ctp:33
+#: \plugins\admin\views\terminals\index.ctp:8;47
+#: \plugins\admin\views\terminals\view.ctp:22
+#: \plugins\admin\views\travel_agents\add.ctp:21
+#: \plugins\admin\views\travel_agents\edit.ctp:50
+#: \plugins\admin\views\travel_agents\index.ctp:21;66
+#: \plugins\admin\views\travel_agents\view.ctp:93
+#: \plugins\admin\views\users\add.ctp:15
+#: \plugins\admin\views\users\edit.ctp:16
+#: \plugins\admin\views\users\view.ctp:34
+#: \views\groups\add.ctp:13
+#: \views\groups\edit.ctp:14
+#: \views\groups\index.ctp:8;45
+#: \views\groups\view.ctp:22;42
+#: \views\survey_users\index.ctp:11;53
+#: \views\users\add.ctp:15
+#: \views\users\edit.ctp:16
+#: \views\users\index.ctp:10;49
+#: \views\users\view.ctp:32
+msgid "Actions"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\add.ctp:28
+#: \plugins\admin\views\alert_messages\edit.ctp:30
+#: \plugins\admin\views\alert_messages\view.ctp:35
+msgid "List Alert Messages"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\edit.ctp:4
+#: \plugins\admin\views\alert_messages\view.ctp:33
+msgid "Edit Alert Message"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\edit.ctp:29
+#: \plugins\admin\views\banners\edit.ctp:23
+#: \plugins\admin\views\countries\edit.ctp:24
+#: \plugins\admin\views\countries\view.ctp:121;176
+#: \plugins\admin\views\currencies\edit.ctp:19
+#: \plugins\admin\views\currencies\index.ctp:29
+#: \plugins\admin\views\currencies\view.ctp:81
+#: \plugins\admin\views\destinations\edit.ctp:35
+#: \plugins\admin\views\downloads\edit.ctp:39
+#: \plugins\admin\views\file_types\edit.ctp:17
+#: \plugins\admin\views\file_types\view.ctp:65
+#: \plugins\admin\views\flight_routes\edit.ctp:25
+#: \plugins\admin\views\flight_schedules\edit.ctp:53
+#: \plugins\admin\views\flights\edit.ctp:22
+#: \plugins\admin\views\lowfair_searches\edit.ctp:54
+#: \plugins\admin\views\messages\edit.ctp:19
+#: \plugins\admin\views\promotions\edit.ctp:36
+#: \plugins\admin\views\shopping_orders\edit.ctp:91
+#: \plugins\admin\views\site_sections\edit.ctp:17
+#: \plugins\admin\views\subscriptions\edit.ctp:49
+#: \plugins\admin\views\terminals\edit.ctp:36
+#: \plugins\admin\views\travel_agents\edit.ctp:53
+#: \plugins\admin\views\users\edit.ctp:19
+#: \views\groups\edit.ctp:17
+#: \views\groups\index.ctp:25
+#: \views\groups\view.ctp:61
+#: \views\survey_users\index.ctp:33
+#: \views\users\edit.ctp:19
+#: \views\users\index.ctp:29
+msgid "Delete"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\edit.ctp:29
+#: \plugins\admin\views\alert_messages\view.ctp:34
+#: \plugins\admin\views\banners\edit.ctp:23
+#: \plugins\admin\views\banners\view.ctp:20
+#: \plugins\admin\views\countries\edit.ctp:24
+#: \plugins\admin\views\countries\view.ctp:28;121;176
+#: \plugins\admin\views\currencies\edit.ctp:19
+#: \plugins\admin\views\currencies\index.ctp:29
+#: \plugins\admin\views\currencies\view.ctp:35;81
+#: \plugins\admin\views\destinations\edit.ctp:35
+#: \plugins\admin\views\destinations\view.ctp:32
+#: \plugins\admin\views\downloads\edit.ctp:39
+#: \plugins\admin\views\downloads\view.ctp:46
+#: \plugins\admin\views\file_types\edit.ctp:17
+#: \plugins\admin\views\file_types\view.ctp:25;65
+#: \plugins\admin\views\flight_routes\edit.ctp:25
+#: \plugins\admin\views\flight_routes\view.ctp:28
+#: \plugins\admin\views\flight_schedules\edit.ctp:53
+#: \plugins\admin\views\flight_schedules\view.ctp:65
+#: \plugins\admin\views\flights\edit.ctp:22
+#: \plugins\admin\views\flights\view.ctp:21
+#: \plugins\admin\views\lowfair_searches\edit.ctp:54
+#: \plugins\admin\views\lowfair_searches\view.ctp:35
+#: \plugins\admin\views\messages\edit.ctp:19
+#: \plugins\admin\views\messages\view.ctp:29
+#: \plugins\admin\views\promotions\edit.ctp:36
+#: \plugins\admin\views\promotions\view.ctp:53
+#: \plugins\admin\views\shopping_orders\edit.ctp:91
+#: \plugins\admin\views\shopping_orders\view.ctp:93
+#: \plugins\admin\views\site_sections\edit.ctp:17
+#: \plugins\admin\views\site_sections\view.ctp:25
+#: \plugins\admin\views\subscriptions\edit.ctp:49
+#: \plugins\admin\views\subscriptions\view.ctp:78
+#: \plugins\admin\views\terminals\edit.ctp:36
+#: \plugins\admin\views\terminals\view.ctp:25
+#: \plugins\admin\views\travel_agents\edit.ctp:53
+#: \plugins\admin\views\travel_agents\view.ctp:96
+#: \plugins\admin\views\users\edit.ctp:19
+#: \plugins\admin\views\users\view.ctp:37
+#: \views\groups\edit.ctp:17
+#: \views\groups\index.ctp:25
+#: \views\groups\view.ctp:25;61
+#: \views\survey_users\index.ctp:33
+#: \views\users\edit.ctp:19
+#: \views\users\index.ctp:29
+#: \views\users\view.ctp:35
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\index.ctp:2
+msgid "Alert Messages"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\index.ctp:29
+#: \plugins\admin\views\banners\index.ctp:31
+#: \plugins\admin\views\countries\index.ctp:25
+#: \plugins\admin\views\countries\view.ctp:70
+#: \plugins\admin\views\destinations\index.ctp:34
+#: \plugins\admin\views\destinations\view.ctp:66
+#: \plugins\admin\views\downloads\index.ctp:39
+#: \plugins\admin\views\file_types\index.ctp:25
+#: \plugins\admin\views\flight_routes\index.ctp:25
+#: \plugins\admin\views\flight_schedules\index.ctp:52
+#: \plugins\admin\views\flights\index.ctp:25
+#: \plugins\admin\views\flights\view.ctp:73
+#: \plugins\admin\views\lowfair_searches\index.ctp:29
+#: \plugins\admin\views\messages\index.ctp:30
+#: \plugins\admin\views\promotions\index.ctp:35
+#: \plugins\admin\views\shopping_orders\index.ctp:40
+#: \plugins\admin\views\site_sections\index.ctp:25
+#: \plugins\admin\views\subscriptions\index.ctp:39
+#: \plugins\admin\views\terminals\index.ctp:27
+#: \plugins\admin\views\travel_agents\index.ctp:46
+msgid "Are you sure you want to delete  %s?"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\index.ctp:37
+#: \plugins\admin\views\banners\index.ctp:44
+#: \plugins\admin\views\countries\index.ctp:33
+#: \plugins\admin\views\currencies\index.ctp:37
+#: \plugins\admin\views\destinations\index.ctp:42
+#: \plugins\admin\views\downloads\index.ctp:47
+#: \plugins\admin\views\file_types\index.ctp:33
+#: \plugins\admin\views\flight_routes\index.ctp:33
+#: \plugins\admin\views\flight_schedules\index.ctp:60
+#: \plugins\admin\views\flights\index.ctp:33
+#: \plugins\admin\views\lowfair_searches\index.ctp:37
+#: \plugins\admin\views\messages\index.ctp:38
+#: \plugins\admin\views\promotions\index.ctp:43
+#: \plugins\admin\views\shopping_orders\index.ctp:48
+#: \plugins\admin\views\site_sections\index.ctp:33
+#: \plugins\admin\views\subscriptions\index.ctp:47
+#: \plugins\admin\views\terminals\index.ctp:35
+#: \plugins\admin\views\travel_agents\index.ctp:54
+#: \views\groups\index.ctp:33
+#: \views\survey_users\index.ctp:41
+#: \views\users\index.ctp:37
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\index.ctp:42
+#: \plugins\admin\views\banners\index.ctp:49
+#: \plugins\admin\views\countries\index.ctp:38
+#: \plugins\admin\views\currencies\index.ctp:42
+#: \plugins\admin\views\destinations\index.ctp:47
+#: \plugins\admin\views\downloads\index.ctp:52
+#: \plugins\admin\views\file_types\index.ctp:38
+#: \plugins\admin\views\flight_routes\index.ctp:38
+#: \plugins\admin\views\flight_schedules\index.ctp:65
+#: \plugins\admin\views\flights\index.ctp:38
+#: \plugins\admin\views\lowfair_searches\index.ctp:42
+#: \plugins\admin\views\messages\index.ctp:43
+#: \plugins\admin\views\promotions\index.ctp:48
+#: \plugins\admin\views\shopping_orders\index.ctp:53
+#: \plugins\admin\views\site_sections\index.ctp:38
+#: \plugins\admin\views\subscriptions\index.ctp:52
+#: \plugins\admin\views\terminals\index.ctp:40
+#: \plugins\admin\views\travel_agents\index.ctp:59
+#: \views\groups\index.ctp:38
+#: \views\survey_users\index.ctp:46
+#: \views\users\index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\index.ctp:45
+#: \plugins\admin\views\banners\index.ctp:52
+#: \plugins\admin\views\countries\index.ctp:41
+#: \plugins\admin\views\currencies\index.ctp:45
+#: \plugins\admin\views\destinations\index.ctp:50
+#: \plugins\admin\views\downloads\index.ctp:55
+#: \plugins\admin\views\file_types\index.ctp:41
+#: \plugins\admin\views\flight_routes\index.ctp:41
+#: \plugins\admin\views\flight_schedules\index.ctp:68
+#: \plugins\admin\views\flights\index.ctp:41
+#: \plugins\admin\views\lowfair_searches\index.ctp:45
+#: \plugins\admin\views\messages\index.ctp:46
+#: \plugins\admin\views\promotions\index.ctp:51
+#: \plugins\admin\views\shopping_orders\index.ctp:56
+#: \plugins\admin\views\site_sections\index.ctp:41
+#: \plugins\admin\views\subscriptions\index.ctp:55
+#: \plugins\admin\views\terminals\index.ctp:43
+#: \plugins\admin\views\travel_agents\index.ctp:62
+#: \views\groups\index.ctp:41
+#: \views\survey_users\index.ctp:49
+#: \views\users\index.ctp:45
+msgid "next"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\index.ctp:51
+#: \plugins\admin\views\alert_messages\view.ctp:36
+msgid "New Alert Message"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:2
+msgid "Alert Message"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:7
+#: \plugins\admin\views\countries\view.ctp:44;89;140
+#: \plugins\admin\views\currencies\view.ctp:4;47
+#: \plugins\admin\views\destinations\view.ctp:46
+#: \plugins\admin\views\downloads\view.ctp:9
+#: \plugins\admin\views\file_types\view.ctp:4;37
+#: \plugins\admin\views\flights\view.ctp:33
+#: \plugins\admin\views\lowfair_searches\view.ctp:4
+#: \plugins\admin\views\site_sections\view.ctp:4
+#: \plugins\admin\views\terminals\view.ctp:4
+#: \plugins\admin\views\users\view.ctp:6
+#: \views\groups\view.ctp:4;37
+#: \views\users\view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:11
+#: \plugins\admin\views\messages\view.ctp:2
+msgid "Message"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:15
+msgid "Link"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:19
+msgid "Color"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:23
+#: \plugins\admin\views\countries\view.ctp:48;97;149
+#: \plugins\admin\views\currencies\view.ctp:24;56
+#: \plugins\admin\views\destinations\view.ctp:19
+#: \plugins\admin\views\downloads\view.ctp:35
+#: \plugins\admin\views\file_types\view.ctp:14;43
+#: \plugins\admin\views\travel_agents\view.ctp:73
+#: \plugins\admin\views\users\view.ctp:26
+#: \views\groups\view.ctp:14;41
+#: \views\users\view.ctp:24
+msgid "Status"
+msgstr ""
+
+#: \plugins\admin\views\alert_messages\view.ctp:34
+msgid "Delete Alert Message"
+msgstr ""
+
+#: \plugins\admin\views\banners\add.ctp:4
+msgid "Add Banner"
+msgstr ""
+
+#: \plugins\admin\views\banners\add.ctp:20
+#: \plugins\admin\views\banners\edit.ctp:24
+#: \plugins\admin\views\banners\view.ctp:21
+msgid "List Banners"
+msgstr ""
+
+#: \plugins\admin\views\banners\edit.ctp:2
+#: \plugins\admin\views\banners\index.ctp:2
+msgid "Banners"
+msgstr ""
+
+#: \plugins\admin\views\banners\edit.ctp:5
+#: \plugins\admin\views\banners\view.ctp:19
+msgid "Edit Banner"
+msgstr ""
+
+#: \plugins\admin\views\banners\index.ctp:33
+msgid "Are you sure you want to stop  %s?"
+msgstr ""
+
+#: \plugins\admin\views\banners\index.ctp:35
+msgid "Are you sure you want to start  %s?"
+msgstr ""
+
+#: \plugins\admin\views\banners\index.ctp:58
+#: \plugins\admin\views\banners\view.ctp:22
+msgid "New Banner"
+msgstr ""
+
+#: \plugins\admin\views\banners\view.ctp:20
+msgid "Delete Banner"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:4
+msgid "Add Country"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:32
+#: \plugins\admin\views\countries\edit.ctp:25
+#: \plugins\admin\views\countries\view.ctp:29
+#: \plugins\admin\views\destinations\add.ctp:50
+#: \plugins\admin\views\destinations\edit.ctp:37
+#: \plugins\admin\views\destinations\index.ctp:57
+#: \plugins\admin\views\destinations\view.ctp:35
+#: \plugins\admin\views\subscriptions\add.ctp:48
+#: \plugins\admin\views\subscriptions\edit.ctp:51
+#: \plugins\admin\views\subscriptions\index.ctp:62
+#: \plugins\admin\views\subscriptions\view.ctp:81
+#: \plugins\admin\views\travel_agents\add.ctp:25
+#: \plugins\admin\views\travel_agents\edit.ctp:55
+#: \plugins\admin\views\travel_agents\index.ctp:69
+#: \plugins\admin\views\travel_agents\view.ctp:99
+#: \views\survey_users\index.ctp:56
+msgid "List Countries"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:33
+#: \plugins\admin\views\countries\edit.ctp:26
+#: \plugins\admin\views\countries\index.ctp:48
+#: \plugins\admin\views\countries\view.ctp:31
+#: \plugins\admin\views\destinations\add.ctp:49
+#: \plugins\admin\views\destinations\edit.ctp:36
+#: \plugins\admin\views\destinations\view.ctp:33
+#: \plugins\admin\views\flight_schedules\add.ctp:56
+#: \plugins\admin\views\flight_schedules\edit.ctp:57
+#: \plugins\admin\views\flight_schedules\index.ctp:77
+#: \plugins\admin\views\flight_schedules\view.ctp:70
+#: \plugins\admin\views\terminals\add.ctp:33
+#: \plugins\admin\views\terminals\edit.ctp:38
+#: \plugins\admin\views\terminals\index.ctp:50
+#: \plugins\admin\views\terminals\view.ctp:28
+msgid "List Destinations"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:34
+#: \plugins\admin\views\countries\edit.ctp:27
+#: \plugins\admin\views\countries\index.ctp:49
+#: \plugins\admin\views\countries\view.ctp:32;79
+#: \plugins\admin\views\destinations\index.ctp:56
+#: \plugins\admin\views\destinations\view.ctp:34
+#: \plugins\admin\views\terminals\add.ctp:34
+#: \plugins\admin\views\terminals\edit.ctp:39
+#: \plugins\admin\views\terminals\index.ctp:51
+#: \plugins\admin\views\terminals\view.ctp:29
+msgid "New Destination"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:35
+#: \plugins\admin\views\countries\edit.ctp:28
+#: \plugins\admin\views\countries\index.ctp:50
+#: \plugins\admin\views\countries\view.ctp:33
+#: \plugins\admin\views\subscriptions\add.ctp:47
+#: \plugins\admin\views\subscriptions\edit.ctp:50
+#: \plugins\admin\views\subscriptions\view.ctp:79
+msgid "List Subscriptions"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:36
+#: \plugins\admin\views\countries\edit.ctp:29
+#: \plugins\admin\views\countries\index.ctp:51
+#: \plugins\admin\views\countries\view.ctp:34;130
+#: \plugins\admin\views\subscriptions\index.ctp:61
+#: \plugins\admin\views\subscriptions\view.ctp:80
+msgid "New Subscription"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:37
+#: \plugins\admin\views\countries\edit.ctp:30
+#: \plugins\admin\views\countries\index.ctp:52
+#: \plugins\admin\views\countries\view.ctp:35
+#: \plugins\admin\views\travel_agents\add.ctp:24
+#: \plugins\admin\views\travel_agents\edit.ctp:54
+#: \plugins\admin\views\travel_agents\view.ctp:97
+msgid "List Travel Agents"
+msgstr ""
+
+#: \plugins\admin\views\countries\add.ctp:38
+#: \plugins\admin\views\countries\edit.ctp:31
+#: \plugins\admin\views\countries\index.ctp:53
+#: \plugins\admin\views\countries\view.ctp:36;186
+#: \plugins\admin\views\travel_agents\index.ctp:68
+#: \plugins\admin\views\travel_agents\view.ctp:98
+msgid "New Travel Agent"
+msgstr ""
+
+#: \plugins\admin\views\countries\edit.ctp:4
+#: \plugins\admin\views\countries\view.ctp:27
+msgid "Edit Country"
+msgstr ""
+
+#: \plugins\admin\views\countries\index.ctp:2
+msgid "Countries"
+msgstr ""
+
+#: \plugins\admin\views\countries\index.ctp:47
+#: \plugins\admin\views\countries\view.ctp:30
+#: \plugins\admin\views\destinations\add.ctp:51
+#: \plugins\admin\views\destinations\edit.ctp:38
+#: \plugins\admin\views\destinations\index.ctp:58
+#: \plugins\admin\views\destinations\view.ctp:36
+#: \plugins\admin\views\subscriptions\add.ctp:49
+#: \plugins\admin\views\subscriptions\edit.ctp:52
+#: \plugins\admin\views\subscriptions\index.ctp:63
+#: \plugins\admin\views\subscriptions\view.ctp:82
+#: \plugins\admin\views\travel_agents\add.ctp:26
+#: \plugins\admin\views\travel_agents\edit.ctp:56
+#: \plugins\admin\views\travel_agents\index.ctp:70
+#: \plugins\admin\views\travel_agents\view.ctp:100
+#: \views\survey_users\index.ctp:57
+msgid "New Country"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:2
+#: \plugins\admin\views\currencies\view.ctp:19
+#: \plugins\admin\views\destinations\view.ctp:15
+#: \plugins\admin\views\travel_agents\view.ctp:8
+msgid "Country"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:8;45
+#: \plugins\admin\views\currencies\view.ctp:9
+#: \plugins\admin\views\destinations\view.ctp:7
+msgid "Code"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:16;142
+#: \plugins\admin\views\destinations\view.ctp:48
+#: \plugins\admin\views\file_types\view.ctp:9
+#: \plugins\admin\views\terminals\view.ctp:14
+#: \plugins\admin\views\travel_agents\view.ctp:17
+#: \views\groups\view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:28
+msgid "Delete Country"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:40
+msgid "Related Destinations"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:46
+#: \plugins\admin\views\destinations\view.ctp:11
+msgid "Place"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:47;96;141
+msgid "Country Id"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:49;150
+#: \plugins\admin\views\travel_agents\view.ctp:81
+msgid "Order"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:85
+msgid "Related Subscriptions"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:90
+#: \plugins\admin\views\downloads\view.ctp:23
+#: \plugins\admin\views\file_types\view.ctp:40
+msgid "Title"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:91
+msgid "Fullname"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:92;143
+#: \plugins\admin\views\travel_agents\view.ctp:25
+msgid "Address"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:93
+msgid "Phone Resident"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:94
+msgid "Phone Office"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:95;144
+#: \plugins\admin\views\travel_agents\view.ctp:33
+msgid "Email"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:119;174
+#: \plugins\admin\views\currencies\index.ctp:27
+#: \plugins\admin\views\currencies\view.ctp:79
+#: \plugins\admin\views\file_types\view.ctp:63
+#: \views\groups\index.ctp:23
+#: \views\groups\view.ctp:59
+#: \views\survey_users\index.ctp:31
+#: \views\users\index.ctp:27
+msgid "View"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:120;175
+#: \plugins\admin\views\currencies\index.ctp:28
+#: \plugins\admin\views\currencies\view.ctp:80
+#: \plugins\admin\views\file_types\view.ctp:64
+#: \views\groups\index.ctp:24
+#: \views\groups\view.ctp:60
+#: \views\survey_users\index.ctp:32
+#: \views\users\index.ctp:28
+msgid "Edit"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:136
+msgid "Related Travel Agents"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:145
+#: \plugins\admin\views\travel_agents\view.ctp:41
+msgid "Email2"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:146
+#: \plugins\admin\views\travel_agents\view.ctp:49
+msgid "Phone"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:147
+#: \plugins\admin\views\travel_agents\view.ctp:57
+msgid "Phone2"
+msgstr ""
+
+#: \plugins\admin\views\countries\view.ctp:148
+#: \plugins\admin\views\travel_agents\view.ctp:65
+msgid "Fax"
+msgstr ""
+
+#: \plugins\admin\views\currencies\add.ctp:4
+msgid "Add Currency"
+msgstr ""
+
+#: \plugins\admin\views\currencies\add.ctp:12
+#: \plugins\admin\views\currencies\edit.ctp:13
+#: \plugins\admin\views\destinations\add.ctp:43
+#: \plugins\admin\views\file_types\add.ctp:10
+#: \plugins\admin\views\file_types\edit.ctp:11
+#: \plugins\admin\views\flights\add.ctp:9
+#: \plugins\admin\views\lowfair_searches\add.ctp:46
+#: \plugins\admin\views\lowfair_searches\edit.ctp:48
+#: \plugins\admin\views\messages\add.ctp:12
+#: \plugins\admin\views\messages\edit.ctp:13
+#: \plugins\admin\views\shopping_orders\add.ctp:17
+#: \plugins\admin\views\site_sections\add.ctp:10
+#: \plugins\admin\views\site_sections\edit.ctp:11
+#: \plugins\admin\views\subscriptions\add.ctp:41
+#: \plugins\admin\views\subscriptions\edit.ctp:43
+#: \plugins\admin\views\terminals\edit.ctp:30
+#: \plugins\admin\views\travel_agents\add.ctp:18
+#: \plugins\admin\views\users\add.ctp:12
+#: \plugins\admin\views\users\edit.ctp:13
+#: \views\groups\add.ctp:10
+#: \views\groups\edit.ctp:11
+#: \views\users\add.ctp:12
+#: \views\users\edit.ctp:13
+msgid "Submit"
+msgstr ""
+
+#: \plugins\admin\views\currencies\add.ctp:18
+#: \plugins\admin\views\currencies\edit.ctp:20
+#: \plugins\admin\views\currencies\view.ctp:36
+msgid "List Currencies"
+msgstr ""
+
+#: \plugins\admin\views\currencies\add.ctp:19
+#: \plugins\admin\views\currencies\edit.ctp:21
+#: \plugins\admin\views\currencies\index.ctp:52
+#: \plugins\admin\views\currencies\view.ctp:38
+#: \plugins\admin\views\promotions\add.ctp:33
+#: \plugins\admin\views\promotions\edit.ctp:37
+#: \plugins\admin\views\promotions\view.ctp:54
+msgid "List Promotions"
+msgstr ""
+
+#: \plugins\admin\views\currencies\add.ctp:20
+#: \plugins\admin\views\currencies\edit.ctp:22
+#: \plugins\admin\views\currencies\index.ctp:53
+#: \plugins\admin\views\currencies\view.ctp:39;90
+#: \plugins\admin\views\promotions\index.ctp:57
+#: \plugins\admin\views\promotions\view.ctp:55
+msgid "New Promotion"
+msgstr ""
+
+#: \plugins\admin\views\currencies\edit.ctp:4
+#: \plugins\admin\views\currencies\view.ctp:34
+msgid "Edit Currency"
+msgstr ""
+
+#: \plugins\admin\views\currencies\index.ctp:2
+msgid "Currencies"
+msgstr ""
+
+#: \plugins\admin\views\currencies\index.ctp:51
+#: \plugins\admin\views\currencies\view.ctp:37
+msgid "New Currency"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:2
+msgid "Currency"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:14
+msgid "Symbol"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:35
+msgid "Delete Currency"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:43
+msgid "Related Promotions"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:48
+#: \plugins\admin\views\lowfair_searches\view.ctp:9
+#: \views\elements\side\booking.ctp:14
+#: \views\pages\baggage-allowance.ctp:20
+#: \views\pages\home.ctp:63
+msgid "From"
+msgstr "isg"
+
+#: \plugins\admin\views\currencies\view.ctp:49
+#: \plugins\admin\views\lowfair_searches\view.ctp:14
+#: \views\elements\side\booking.ctp:25
+#: \views\pages\baggage-allowance.ctp:21
+#: \views\pages\home.ctp:64
+msgid "To"
+msgstr "olajd"
+
+#: \plugins\admin\views\currencies\view.ctp:50
+msgid "Fare"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:51
+msgid "Fare In Number"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:52
+msgid "Currency Id"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:53
+msgid "Conditions"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:54
+msgid "Fare Details Short"
+msgstr ""
+
+#: \plugins\admin\views\currencies\view.ctp:55
+msgid "Promote To Home"
+msgstr ""
+
+#: \plugins\admin\views\destinations\add.ctp:4
+msgid "Add Destination"
+msgstr ""
+
+#: \plugins\admin\views\destinations\add.ctp:52
+#: \plugins\admin\views\destinations\edit.ctp:39
+#: \plugins\admin\views\destinations\index.ctp:59
+#: \plugins\admin\views\destinations\view.ctp:37
+#: \plugins\admin\views\flight_schedules\add.ctp:58
+#: \plugins\admin\views\flight_schedules\edit.ctp:59
+#: \plugins\admin\views\flight_schedules\index.ctp:79
+#: \plugins\admin\views\flight_schedules\view.ctp:72
+#: \plugins\admin\views\terminals\add.ctp:32
+#: \plugins\admin\views\terminals\edit.ctp:37
+#: \plugins\admin\views\terminals\view.ctp:26
+msgid "List Terminals"
+msgstr ""
+
+#: \plugins\admin\views\destinations\add.ctp:53
+#: \plugins\admin\views\destinations\edit.ctp:40
+#: \plugins\admin\views\destinations\index.ctp:60
+#: \plugins\admin\views\destinations\view.ctp:38;75
+#: \plugins\admin\views\terminals\index.ctp:49
+#: \plugins\admin\views\terminals\view.ctp:27
+msgid "New Terminal"
+msgstr ""
+
+#: \plugins\admin\views\destinations\edit.ctp:4
+#: \plugins\admin\views\destinations\view.ctp:31
+msgid "Edit Destination"
+msgstr ""
+
+#: \plugins\admin\views\destinations\index.ctp:3
+msgid "Destinations"
+msgstr ""
+
+#: \plugins\admin\views\destinations\view.ctp:2
+#: \plugins\admin\views\terminals\view.ctp:9
+#: \views\elements\menu\menu.ctp:9
+msgid "Destination"
+msgstr ".ukdka;"
+
+#: \plugins\admin\views\destinations\view.ctp:23
+msgid "order"
+msgstr ""
+
+#: \plugins\admin\views\destinations\view.ctp:32
+msgid "Delete Destination"
+msgstr ""
+
+#: \plugins\admin\views\destinations\view.ctp:42
+msgid "Related Terminals"
+msgstr ""
+
+#: \plugins\admin\views\destinations\view.ctp:47
+msgid "Destination Id"
+msgstr ""
+
+#: \plugins\admin\views\downloads\add.ctp:4
+msgid "Add Download"
+msgstr ""
+
+#: \plugins\admin\views\downloads\add.ctp:39
+#: \plugins\admin\views\downloads\edit.ctp:40
+#: \plugins\admin\views\downloads\view.ctp:47
+#: \plugins\admin\views\file_types\add.ctp:17
+#: \plugins\admin\views\file_types\edit.ctp:19
+#: \plugins\admin\views\file_types\index.ctp:48
+#: \plugins\admin\views\file_types\view.ctp:28
+msgid "List Downloads"
+msgstr ""
+
+#: \plugins\admin\views\downloads\add.ctp:40
+#: \plugins\admin\views\downloads\edit.ctp:41
+#: \plugins\admin\views\downloads\index.ctp:62
+#: \plugins\admin\views\downloads\view.ctp:49
+#: \plugins\admin\views\site_sections\add.ctp:16
+#: \plugins\admin\views\site_sections\edit.ctp:18
+#: \plugins\admin\views\site_sections\view.ctp:26
+msgid "List Site Sections"
+msgstr ""
+
+#: \plugins\admin\views\downloads\add.ctp:41
+#: \plugins\admin\views\downloads\edit.ctp:42
+#: \plugins\admin\views\downloads\index.ctp:63
+#: \plugins\admin\views\downloads\view.ctp:50
+#: \plugins\admin\views\site_sections\index.ctp:47
+#: \plugins\admin\views\site_sections\view.ctp:27
+msgid "New Site Section"
+msgstr ""
+
+#: \plugins\admin\views\downloads\add.ctp:42
+#: \plugins\admin\views\downloads\edit.ctp:43
+#: \plugins\admin\views\downloads\index.ctp:64
+#: \plugins\admin\views\downloads\view.ctp:51
+#: \plugins\admin\views\file_types\add.ctp:16
+#: \plugins\admin\views\file_types\edit.ctp:18
+#: \plugins\admin\views\file_types\view.ctp:26
+msgid "List File Types"
+msgstr ""
+
+#: \plugins\admin\views\downloads\add.ctp:43
+#: \plugins\admin\views\downloads\edit.ctp:44
+#: \plugins\admin\views\downloads\index.ctp:65
+#: \plugins\admin\views\downloads\view.ctp:52
+#: \plugins\admin\views\file_types\index.ctp:47
+#: \plugins\admin\views\file_types\view.ctp:27
+msgid "New File Type"
+msgstr ""
+
+#: \plugins\admin\views\downloads\edit.ctp:4
+#: \plugins\admin\views\downloads\view.ctp:45
+msgid "Edit Download"
+msgstr ""
+
+#: \plugins\admin\views\downloads\index.ctp:2
+#: \views\elements\menu\menu.ctp:43
+msgid "Downloads"
+msgstr "f;dr;=re Nd.; lsÍu"
+
+#: \plugins\admin\views\downloads\index.ctp:61
+#: \plugins\admin\views\downloads\view.ctp:48
+#: \plugins\admin\views\file_types\add.ctp:18
+#: \plugins\admin\views\file_types\edit.ctp:20
+#: \plugins\admin\views\file_types\index.ctp:49
+#: \plugins\admin\views\file_types\view.ctp:29;74
+msgid "New Download"
+msgstr ""
+
+#: \plugins\admin\views\downloads\view.ctp:2
+#: \views\downloads\forms.ctp:12
+msgid "Download"
+msgstr "Nd.; lr .eksu"
+
+#: \plugins\admin\views\downloads\view.ctp:14
+#: \plugins\admin\views\site_sections\view.ctp:2
+msgid "Site Section"
+msgstr ""
+
+#: \plugins\admin\views\downloads\view.ctp:19
+#: \plugins\admin\views\file_types\view.ctp:2
+msgid "File Type"
+msgstr ""
+
+#: \plugins\admin\views\downloads\view.ctp:27
+#: \plugins\admin\views\file_types\view.ctp:41
+msgid "Path"
+msgstr ""
+
+#: \plugins\admin\views\downloads\view.ctp:31
+#: \plugins\admin\views\file_types\view.ctp:42
+msgid "Date"
+msgstr "oskh"
+
+#: \plugins\admin\views\downloads\view.ctp:46
+msgid "Delete Download"
+msgstr ""
+
+#: \plugins\admin\views\file_types\add.ctp:4
+msgid "Add File Type"
+msgstr ""
+
+#: \plugins\admin\views\file_types\edit.ctp:4
+#: \plugins\admin\views\file_types\view.ctp:24
+msgid "Edit File Type"
+msgstr ""
+
+#: \plugins\admin\views\file_types\index.ctp:2
+msgid "File Types"
+msgstr ""
+
+#: \plugins\admin\views\file_types\view.ctp:25
+msgid "Delete File Type"
+msgstr ""
+
+#: \plugins\admin\views\file_types\view.ctp:33
+msgid "Related Downloads"
+msgstr ""
+
+#: \plugins\admin\views\file_types\view.ctp:38
+msgid "Section Id"
+msgstr ""
+
+#: \plugins\admin\views\file_types\view.ctp:39
+msgid "File Type Id"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\add.ctp:4
+msgid "Add Flight Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\add.ctp:33
+#: \plugins\admin\views\flight_routes\edit.ctp:26
+#: \plugins\admin\views\flight_routes\view.ctp:29
+#: \plugins\admin\views\flight_schedules\add.ctp:60
+#: \plugins\admin\views\flight_schedules\edit.ctp:61
+#: \plugins\admin\views\flight_schedules\index.ctp:81
+#: \plugins\admin\views\flight_schedules\view.ctp:74
+msgid "List Flight Routes"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\edit.ctp:4
+#: \plugins\admin\views\flight_routes\view.ctp:27
+msgid "Edit Flight Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\index.ctp:2
+msgid "Flight Routes"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\index.ctp:47
+#: \plugins\admin\views\flight_routes\view.ctp:30
+msgid "New Flight Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\view.ctp:2
+msgid "Flight Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_routes\view.ctp:28
+msgid "Delete Flight Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\add.ctp:4
+msgid "Add Flight Schedule"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\add.ctp:53
+#: \plugins\admin\views\flight_schedules\edit.ctp:54
+#: \plugins\admin\views\flight_schedules\view.ctp:66
+#: \plugins\admin\views\flights\add.ctp:16
+#: \plugins\admin\views\flights\edit.ctp:24
+#: \plugins\admin\views\flights\index.ctp:48
+#: \plugins\admin\views\flights\view.ctp:24
+msgid "List Flight Schedules"
+msgstr ".=jka .uka jsia;r"
+
+#: \plugins\admin\views\flight_schedules\add.ctp:54
+#: \plugins\admin\views\flight_schedules\edit.ctp:55
+#: \plugins\admin\views\flight_schedules\index.ctp:75
+#: \plugins\admin\views\flight_schedules\view.ctp:68
+#: \plugins\admin\views\flights\add.ctp:15
+#: \plugins\admin\views\flights\edit.ctp:23
+#: \plugins\admin\views\flights\view.ctp:22
+msgid "List Flights"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\add.ctp:55
+#: \plugins\admin\views\flight_schedules\edit.ctp:56
+#: \plugins\admin\views\flight_schedules\index.ctp:76
+#: \plugins\admin\views\flight_schedules\view.ctp:69
+#: \plugins\admin\views\flights\index.ctp:47
+#: \plugins\admin\views\flights\view.ctp:23
+msgid "New Flight"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\add.ctp:57
+#: \plugins\admin\views\flight_schedules\edit.ctp:58
+#: \plugins\admin\views\flight_schedules\index.ctp:78
+#: \plugins\admin\views\flight_schedules\view.ctp:71
+msgid "New Departure Destination"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\add.ctp:59
+#: \plugins\admin\views\flight_schedules\edit.ctp:60
+#: \plugins\admin\views\flight_schedules\index.ctp:80
+#: \plugins\admin\views\flight_schedules\view.ctp:73
+msgid "New Departure Terminal"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\add.ctp:61
+#: \plugins\admin\views\flight_schedules\edit.ctp:62
+#: \plugins\admin\views\flight_schedules\index.ctp:82
+#: \plugins\admin\views\flight_schedules\view.ctp:75
+msgid "New Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\edit.ctp:4
+#: \plugins\admin\views\flight_schedules\view.ctp:64
+msgid "Edit Flight Schedule"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\index.ctp:2
+msgid "Flight Schedules"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\index.ctp:74
+#: \plugins\admin\views\flight_schedules\view.ctp:67
+#: \plugins\admin\views\flights\add.ctp:17
+#: \plugins\admin\views\flights\edit.ctp:25
+#: \plugins\admin\views\flights\index.ctp:49
+#: \plugins\admin\views\flights\view.ctp:25
+msgid "New Flight Schedule"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:2
+#: \views\elements\menu\menu.ctp:8
+msgid "Flight Schedule"
+msgstr ".=jka .uka jsia;r"
+
+#: \plugins\admin\views\flight_schedules\view.ctp:7
+#: \plugins\admin\views\flights\view.ctp:2
+msgid "Flight"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:12
+msgid "Departure Destination"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:16
+msgid "Departure Terminal"
+msgstr ".ukdka;h"
+
+#: \plugins\admin\views\flight_schedules\view.ctp:21
+#: \plugins\admin\views\flights\view.ctp:37
+msgid "Departure Time"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:25
+msgid "Arrival Destination"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:29
+msgid "Arrival Terminal"
+msgstr "fmusfkk .=jkaf;dgqm,"
+
+#: \plugins\admin\views\flight_schedules\view.ctp:33
+#: \plugins\admin\views\flights\view.ctp:40
+msgid "Arrival Time"
+msgstr "fmusfkk fja,dj"
+
+#: \plugins\admin\views\flight_schedules\view.ctp:37
+#: \plugins\admin\views\flights\view.ctp:41
+#: \views\pages\flight-schedule.ctp:32
+msgid "Frequency"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:41
+#: \plugins\admin\views\flights\view.ctp:42
+#: \views\pages\flight-schedule.ctp:33
+msgid "Period"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:45
+#: \plugins\admin\views\flights\view.ctp:43
+#: \views\pages\flight-schedule.ctp:34
+msgid "Stops"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:49
+msgid "Route"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:54
+msgid "Schedule type"
+msgstr ""
+
+#: \plugins\admin\views\flight_schedules\view.ctp:65
+msgid "Delete Flight Schedule"
+msgstr ""
+
+#: \plugins\admin\views\flights\add.ctp:4
+msgid "Add Flight"
+msgstr ""
+
+#: \plugins\admin\views\flights\edit.ctp:4
+#: \plugins\admin\views\flights\view.ctp:20
+msgid "Edit Flight"
+msgstr ""
+
+#: \plugins\admin\views\flights\index.ctp:2
+msgid "Flights"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:21
+msgid "Delete Flight"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:29
+msgid "Related Flight Schedules"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:34
+msgid "Flight Id"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:35
+msgid "Departure Destination Id"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:36
+msgid "Departure Terminal Id"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:38
+msgid "Arrival Destination Id"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:39
+msgid "Arrival Terminal Id"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:44
+msgid "Route Id"
+msgstr ""
+
+#: \plugins\admin\views\flights\view.ctp:45
+msgid "Schedule Type"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\add.ctp:4
+msgid "Add Lowfare Search"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\add.ctp:52
+#: \plugins\admin\views\lowfair_searches\view.ctp:36
+msgid "List Lowfare Searches"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\edit.ctp:4
+#: \plugins\admin\views\lowfair_searches\view.ctp:34
+msgid "Edit Lowfare Search"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\edit.ctp:55
+msgid "List Lowfair Searches"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\index.ctp:2
+msgid "Lowfare Searches"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\index.ctp:51
+#: \plugins\admin\views\lowfair_searches\view.ctp:37
+msgid "New Lowfare Search"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\view.ctp:2
+msgid "Lowfare Search"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\view.ctp:19
+msgid "Oneway Price"
+msgstr ""
+
+#: \plugins\admin\views\lowfair_searches\view.ctp:24
+#, fuzzy
+msgid "Return Price"
+msgstr "wdmiq meñKSu"
+
+#: \plugins\admin\views\lowfair_searches\view.ctp:35
+msgid "Delete Lowfare Search"
+msgstr ""
+
+#: \plugins\admin\views\messages\add.ctp:4
+msgid "Add Message"
+msgstr ""
+
+#: \plugins\admin\views\messages\add.ctp:18
+#: \plugins\admin\views\messages\edit.ctp:20
+#: \plugins\admin\views\messages\view.ctp:30
+msgid "List Messages"
+msgstr ""
+
+#: \plugins\admin\views\messages\edit.ctp:4
+#: \plugins\admin\views\messages\view.ctp:28
+msgid "Edit Message"
+msgstr ""
+
+#: \plugins\admin\views\messages\index.ctp:2
+msgid "Messages"
+msgstr ""
+
+#: \plugins\admin\views\messages\view.ctp:29
+msgid "Delete Message"
+msgstr ""
+
+#: \plugins\admin\views\promotions\add.ctp:4
+msgid "Add Promotion"
+msgstr ""
+
+#: \plugins\admin\views\promotions\edit.ctp:4
+#: \plugins\admin\views\promotions\view.ctp:52
+msgid "Edit Promotion"
+msgstr ""
+
+#: \plugins\admin\views\promotions\index.ctp:2
+#: \views\promotions\index.ctp:2
+msgid "Promotions"
+msgstr "m%jraOk"
+
+#: \plugins\admin\views\promotions\view.ctp:2
+msgid "Promotion"
+msgstr ""
+
+#: \plugins\admin\views\promotions\view.ctp:53
+msgid "Delete Promotion"
+msgstr ""
+
+#: \plugins\admin\views\shopping_orders\add.ctp:4
+msgid "Add Shopping Order"
+msgstr ""
+
+#: \plugins\admin\views\shopping_orders\add.ctp:23
+#: \plugins\admin\views\shopping_orders\edit.ctp:92
+#: \plugins\admin\views\shopping_orders\view.ctp:94
+msgid "List Shopping Orders"
+msgstr ""
+
+#: \plugins\admin\views\shopping_orders\edit.ctp:5
+#: \plugins\admin\views\shopping_orders\view.ctp:92
+msgid "Edit Shopping Order"
+msgstr ""
+
+#: \plugins\admin\views\shopping_orders\index.ctp:2
+msgid "Shopping Orders"
+msgstr ""
+
+#: \plugins\admin\views\shopping_orders\view.ctp:2
+msgid "Shopping Order"
+msgstr ""
+
+#: \plugins\admin\views\shopping_orders\view.ctp:93
+msgid "Delete Shopping Order"
+msgstr ""
+
+#: \plugins\admin\views\site_sections\add.ctp:4
+msgid "Add Site Section"
+msgstr ""
+
+#: \plugins\admin\views\site_sections\edit.ctp:4
+#: \plugins\admin\views\site_sections\view.ctp:24
+msgid "Edit Site Section"
+msgstr ""
+
+#: \plugins\admin\views\site_sections\index.ctp:2
+msgid "Site Sections"
+msgstr ""
+
+#: \plugins\admin\views\site_sections\view.ctp:9
+msgid "Section Name"
+msgstr ""
+
+#: \plugins\admin\views\site_sections\view.ctp:14
+msgid "Section Status"
+msgstr ""
+
+#: \plugins\admin\views\site_sections\view.ctp:25
+msgid "Delete Site Section"
+msgstr ""
+
+#: \plugins\admin\views\subscriptions\add.ctp:4
+msgid "Add Subscription"
+msgstr ""
+
+#: \plugins\admin\views\subscriptions\edit.ctp:5
+#: \plugins\admin\views\subscriptions\view.ctp:77
+msgid "Edit Subscription"
+msgstr ""
+
+#: \plugins\admin\views\subscriptions\index.ctp:2
+msgid "Subscriptions"
+msgstr ""
+
+#: \plugins\admin\views\subscriptions\view.ctp:2
+msgid "Subscription"
+msgstr ""
+
+#: \plugins\admin\views\subscriptions\view.ctp:78
+msgid "Delete Subscription"
+msgstr ""
+
+#: \plugins\admin\views\terminals\add.ctp:4
+msgid "Add Terminal"
+msgstr ""
+
+#: \plugins\admin\views\terminals\edit.ctp:4
+#: \plugins\admin\views\terminals\view.ctp:24
+msgid "Edit Terminal"
+msgstr ""
+
+#: \plugins\admin\views\terminals\index.ctp:2
+msgid "Terminals"
+msgstr ""
+
+#: \plugins\admin\views\terminals\view.ctp:2
+msgid "Terminal"
+msgstr ""
+
+#: \plugins\admin\views\terminals\view.ctp:25
+msgid "Delete Terminal"
+msgstr ""
+
+#: \plugins\admin\views\travel_agents\add.ctp:4
+msgid "Add Travel Agent"
+msgstr ""
+
+#: \plugins\admin\views\travel_agents\edit.ctp:4
+#: \plugins\admin\views\travel_agents\view.ctp:95
+msgid "Edit Travel Agent"
+msgstr ""
+
+#: \plugins\admin\views\travel_agents\index.ctp:2
+#: \views\elements\menu\menu.ctp:24;39
+#: \views\pages\travelagents.ctp:8
+msgid "Travel Agents"
+msgstr "fj<| ksfhdaý; f;dr;=re"
+
+#: \plugins\admin\views\travel_agents\index.ctp:8
+msgid "Search.."
+msgstr "fidhkak"
+
+#: \plugins\admin\views\travel_agents\view.ctp:2
+msgid "Travel Agent"
+msgstr "fj<| ksfhdaý; f;dr;=r"
+
+#: \plugins\admin\views\travel_agents\view.ctp:96
+msgid "Delete Travel Agent"
+msgstr ""
+
+#: \plugins\admin\views\users\add.ctp:4
+#: \views\users\add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: \plugins\admin\views\users\add.ctp:18
+#: \plugins\admin\views\users\edit.ctp:20
+#: \plugins\admin\views\users\view.ctp:38
+#: \views\groups\add.ctp:17
+#: \views\groups\edit.ctp:19
+#: \views\groups\index.ctp:48
+#: \views\groups\view.ctp:28
+#: \views\users\add.ctp:18
+#: \views\users\edit.ctp:20
+#: \views\users\view.ctp:36
+msgid "List Users"
+msgstr ""
+
+#: \plugins\admin\views\users\edit.ctp:4
+#: \plugins\admin\views\users\view.ctp:36
+#: \views\users\edit.ctp:4
+#: \views\users\view.ctp:34
+msgid "Edit User"
+msgstr ""
+
+#: \plugins\admin\views\users\view.ctp:4
+#: \views\users\view.ctp:2
+msgid "User"
+msgstr ""
+
+#: \plugins\admin\views\users\view.ctp:11
+#: \views\groups\view.ctp:38
+#: \views\users\view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: \plugins\admin\views\users\view.ctp:16
+#: \views\groups\view.ctp:39
+#: \views\users\view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: \plugins\admin\views\users\view.ctp:21
+#: \views\groups\view.ctp:40
+#: \views\users\view.ctp:19
+msgid "Group Id"
+msgstr ""
+
+#: \plugins\admin\views\users\view.ctp:37
+#: \views\users\view.ctp:35
+msgid "Delete User"
+msgstr ""
+
+#: \plugins\admin\views\users\view.ctp:39
+#: \views\groups\add.ctp:18
+#: \views\groups\edit.ctp:20
+#: \views\groups\index.ctp:49
+#: \views\groups\view.ctp:29;70
+#: \views\users\index.ctp:51
+#: \views\users\view.ctp:37
+msgid "New User"
+msgstr ""
+
+#: \plugins\quickpricecheck\views\index\index.ctp:2
+msgid "<b style='color:#006699'>Quick</b> price check on the <b style='color:#006699'>lowest</b> fares"
+msgstr ""
+
+#: \views\destinations\index.ctp:2
+msgid "Flight Destinations"
+msgstr ".ukdka;h"
+
+#: \views\downloads\forms.ctp:2
+msgid "Download forms"
+msgstr "f,aLk ,nd.ekSu "
+
+#: \views\downloads\forms.ctp:3
+msgid "Downloads desc"
+msgstr "my; olajd we;af;a Tnf.a myiqj Wfoid Tng m%fjsYh ,ndoS  we;s ,sms f,aLkh"
+
+#: \views\elements\footer\footer.ctp:2
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: \views\elements\footer\footer.ctp:2
+msgid "Conditions of Carriage"
+msgstr "Conditions of Carriage"
+
+#: \views\elements\menu\menu.ctp:10
+#: \views\pages\baggage-allowance.ctp:4;14
+msgid "Baggage allowance"
+msgstr ".uka u,q oSukd"
+
+#: \views\elements\menu\menu.ctp:11
+#: \views\pages\on-board-service.ctp:277
+msgid "On-Board Service"
+msgstr ".=jka hdkh we;=<; fiajdjka"
+
+#: \views\elements\menu\menu.ctp:12
+msgid "Arrivals Departures"
+msgstr ".=jka .;ùu iy f.dvnEu"
+
+#: \views\elements\menu\menu.ctp:13
+msgid "Duty Free"
+msgstr ";Sre nÿ iyk"
+
+#: \views\elements\menu\menu.ctp:14;28
+msgid "FAQ"
+msgstr "fmdoq m%Yak"
+
+#: \views\elements\menu\menu.ctp:22
+#: \views\elements\side\booking.ctp:5
+msgid "How to book"
+msgstr "wdik fjkAlr .eksu"
+
+#: \views\elements\menu\menu.ctp:23
+msgid "Payment options"
+msgstr "uqo,a f.ùh yels l%u"
+
+#: \views\elements\menu\menu.ctp:26
+#: \views\pages\travel-regulation.ctp:2
+msgid "Travel Regulations"
+msgstr "ixpdrl fr.=,dis"
+
+#: \views\elements\menu\menu.ctp:27
+msgid "Packages"
+msgstr "ixpdrl meflaP"
+
+#: \views\elements\menu\menu.ctp:40
+msgid "Our offices"
+msgstr "wmf.a ld¾hd,"
+
+#: \views\elements\menu\menu.ctp:41
+#: \views\pages\mihinlanka-call-centers.ctp:3
+msgid "Call center"
+msgstr "weu;=ï uOHia:dkh"
+
+#: \views\elements\menu\menu.ctp:42
+#: \views\pages\feedback-centers.ctp:2
+msgid "Feedback center"
+msgstr "Tnf.a m%;spdr"
+
+#: \views\elements\menu\menu.ctp:55
+msgid "Mihinlanka"
+msgstr " ñyska ,xld"
+
+#: \views\elements\menu\menu.ctp:56
+msgid "Careers"
+msgstr " /lshd wjia:d"
+
+#: \views\elements\side\booking.ctp:5
+msgid "Travel Itinerary"
+msgstr ".uka úia;r"
+
+#: \views\elements\side\booking.ctp:16
+msgid "Depart"
+msgstr "msg;ajSu"
+
+#: \views\elements\side\booking.ctp:27
+msgid "Return"
+msgstr "kej; meusKsu"
+
+#: \views\elements\side\booking.ctp:37
+msgid "Number of passengers"
+msgstr "u.Ska ixLHdj"
+
+#: \views\elements\side\booking.ctp:49
+msgid "Adults"
+msgstr "jeäysáhka"
+
+#: \views\elements\side\booking.ctp:61
+msgid "Children"
+msgstr "&lt;uhska"
+
+#: \views\elements\side\booking.ctp:75
+msgid "Infants"
+msgstr "&lt;|rejka"
+
+#: \views\elements\side\booking.ctp:99
+#: \views\pages\home.ctp:65
+msgid "Return trip"
+msgstr "wdmiq meñKSu"
+
+#: \views\elements\side\booking.ctp:108
+msgid "Search preferences"
+msgstr "fijqï wjia:d"
+
+#: \views\elements\side\booking.ctp:117
+msgid "Schedule"
+msgstr "ld, igyk"
+
+#: \views\elements\side\booking.ctp:118;119
+msgid "Price"
+msgstr "ñ,"
+
+#: \views\elements\side\booking.ctp:119
+msgid "(Flexible date)"
+msgstr " ^kuHYS,S  osk&"
+
+#: \views\elements\translate\tam\pages\about-mihinlanka.ctp:2
+#: \views\pages\mihinlanka-call-centers.ctp:3
+msgid "Mihin Lanka"
+msgstr " ñyska ,xld"
+
+#: \views\groups\add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: \views\groups\add.ctp:16
+#: \views\groups\edit.ctp:18
+#: \views\groups\view.ctp:26
+msgid "List Groups"
+msgstr ""
+
+#: \views\groups\edit.ctp:4
+#: \views\groups\view.ctp:24
+msgid "Edit Group"
+msgstr ""
+
+#: \views\groups\index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: \views\groups\index.ctp:47
+#: \views\groups\view.ctp:27
+msgid "New Group"
+msgstr ""
+
+#: \views\groups\view.ctp:2
+msgid "Group"
+msgstr ""
+
+#: \views\groups\view.ctp:25
+msgid "Delete Group"
+msgstr ""
+
+#: \views\groups\view.ctp:33
+msgid "Related Users"
+msgstr ""
+
+#: \views\layouts\default.ctp:23
+#: \views\layouts\home.ctp:26
+#: \views\layouts\simple.ctp:24
+msgid "Mihinlanka!! "
+msgstr ""
+
+#: \views\pages\airline-careers-in-srilanka.ctp:2
+msgid "Mihin Lanka Careers"
+msgstr "jD;a;sh wjia:d "
+
+#: \views\pages\airline-careers-in-srilanka.ctp:3
+msgid "Mihin Lanka Careers desc"
+msgstr "oekg lsisoq mqrmamdvqjla fkdue;s nj wm oekqus fokqfha lK.dgqfjks<font face=’sans’>.</font>flfia kuq;a Tnf.a mSj o;a; jdra;djala wmyg ,ensug i,iajkak"
+
+#: \views\pages\baggage-allowance.ctp:5
+msgid "Baggage allowance desc"
+msgstr "Tnf.a .uka u,q Tng f.khdug wjir we;s kuq;a ty snr m%udKh lsf,da .arEus 32 fkdblau jsh hq;=h"
+
+#: \views\pages\baggage-allowance.ctp:23
+msgid "Amount"
+msgstr ""
+
+#: \views\pages\baggage-allowance.ctp:23
+msgid "PER KG"
+msgstr ""
+
+#: \views\pages\baggage-allowance.ctp:24
+msgid "Remarks"
+msgstr "m%ldYh"
+
+#: \views\pages\feedback-centers.ctp:3
+msgid "Feedback center desc"
+msgstr "lreKdlr Tnf.a ish,qu m%;spdr wm fj; ,ensug i,iajkak ukaoh;a wm th b;d w.h fldg i,lk fyhsks"
+
+#: \views\pages\flight-schedule.ctp:9
+msgid "Flight schedules"
+msgstr ".=jka .uka jsia;r"
+
+#: \views\pages\flight-schedule.ctp:10
+msgid "Flight schedules det.."
+msgstr "wm Tng Tnf.a leue;a; mrsos TskEu .ukdka;hlg .uka lsrSug wjiaMd rdYshla ,nd fok fyhska f,dalh ;joqrg;a Tnf.a w;e.s,s j,ska wE;a jQjla fkdfjs"
+
+#: \views\pages\flight-schedule.ctp:12
+#: \views\pages\travelagents.ctp:12
+msgid "Please select the location"
+msgstr "wmf.a .=jka .uka ms&lt;sno jevsoqr jsia;r oek.ekSug my; igyk n,kak"
+
+#: \views\pages\flight-schedule.ctp:20
+msgid "Search in locations"
+msgstr "fidhkak"
+
+#: \views\pages\flight-schedule.ctp:25
+#, fuzzy
+msgid "Flight No"
+msgstr ".=jka.uka wxlh"
+
+#: \views\pages\flight-schedule.ctp:26
+#, fuzzy
+msgid "Dep Airport"
+msgstr "msg;ajk .=jkaf;dgqm,"
+
+#: \views\pages\flight-schedule.ctp:27
+#, fuzzy
+msgid "Dep Terminal"
+msgstr ".ukdka;h"
+
+#: \views\pages\flight-schedule.ctp:28
+msgid "Dep Time"
+msgstr ""
+
+#: \views\pages\flight-schedule.ctp:29
+#, fuzzy
+msgid "Arr Airport"
+msgstr "msg;ajk .=jkaf;dgqm,"
+
+#: \views\pages\flight-schedule.ctp:30
+#, fuzzy
+msgid "Arr Terminal"
+msgstr "fmusfkk .=jkaf;dgqm,"
+
+#: \views\pages\flight-schedule.ctp:31
+#, fuzzy
+msgid "Arr Time"
+msgstr "fmusfkk fja,dj"
+
+#: \views\pages\home.ctp:48
+msgid "30 kilos baggage"
+msgstr "30 lsf,da.%eua .uka u,q §ukd"
+
+#: \views\pages\home.ctp:49
+msgid "baggage allawance det.."
+msgstr "wm iuÕ mshdir lrk Tng lsf,da.%eu 30  Wmßu .uka u,q  §ukdjla ,nd fokafkuq"
+
+#: \views\pages\home.ctp:51
+#: \views\subscriptions\add.ctp:4
+msgid "Be the first to know"
+msgstr " úfYaI wjia:d"
+
+#: \views\pages\home.ctp:52
+msgid "Be the first to know det.."
+msgstr "wm iuÕ ,shd mosxps úfuka Tng wmf.a iqúfYaI §ukd .ek f;dr;=re laIKslj ,nd.; yel"
+
+#: \views\pages\home.ctp:54
+msgid "Quick price check on the lowest fares"
+msgstr "lAIKslj wju .diA;= ms,sn|j oek.kak"
+
+#: \views\pages\mihinlanka-call-centers.ctp:4
+msgid "Call center desc"
+msgstr "Tnf.a .uk ms,snoZj jevs jsia;r fyda meyeos,s lsrsus ,nd .ekSug wmf.a weu;=us uOHiaMdkh wu;kak"
+
+#: \views\pages\on-board-service.ctp:282
+msgid "Meals desc"
+msgstr "usyska ,xld iu.ska .uka lsrsu yqfolau ;j;a tla .ukdka;hla  lrd hdula fkdjk w;r wm Tng losu .uka w;aoelsula ,nd fokq we; tmukla fkdj ,xldfjs tlu wvq us, .=jka fiajdj jYfhka b;du;a   ;Dma;sfhka Tng fiajh lrkqfha Tng usysrs w;aoelsula ,nd fokq rsisfhks .=jka hdkh we;=,; Tnf.a .=jka ld<font><</font>h   &nbsp;wkqj wm Tng m%kS; wdydr   ,nd fokqfha Tnf.a  iqjmyiqj ;yjqre lsrsu Wfoidh"
+
+#: \views\pages\on-board-service.ctp:402
+msgid "Yours to Enjoy on-board"
+msgstr "Tnf.a .uk mqrdjg wm yd i;=gq jkak"
+
+#: \views\pages\on-board-service.ctp:408
+msgid "RED WINE"
+msgstr "frXs jhska "
+
+#: \views\pages\on-board-service.ctp:417
+msgid "WHISKY - GRANT'S"
+msgstr "jsials .%dkaia"
+
+#: \views\pages\on-board-service.ctp:428
+msgid "WHITE WINE"
+msgstr "jhsgs jhska"
+
+#: \views\pages\on-board-service.ctp:437
+msgid "BRANDY - HENNESSY"
+msgstr "n%ekaXs fykis"
+
+#: \views\pages\on-board-service.ctp:448
+msgid "GIN-GORDON'S"
+msgstr "fjdXssld iaurakaTs*a"
+
+#: \views\pages\on-board-service.ctp:457
+msgid "BEER - HEINEKEN CAN"
+msgstr "nshra yhsklka"
+
+#: \views\pages\on-board-service.ctp:468
+msgid "VODKA - SMIRNOFF"
+msgstr "fjdOsld iaurakaTs*a"
+
+#: \views\pages\on-board-service.ctp:477
+msgid "SOFT DRINKS"
+msgstr "isis,a nsu"
+
+#: \views\pages\on-board-service.ctp:478
+msgid "COCA COLA"
+msgstr "fldld flda,d"
+
+#: \views\pages\on-board-service.ctp:478
+msgid "7UP"
+msgstr "7wma"
+
+#: \views\pages\on-board-service.ctp:478
+msgid "TONIC"
+msgstr "fgdksla"
+
+#: \views\pages\on-board-service.ctp:478
+msgid "SODA"
+msgstr "fidavd"
+
+#: \views\pages\on-board-service.ctp:489
+msgid "RUM - BACARDI"
+msgstr "rua nldXs"
+
+#: \views\pages\on-board-service.ctp:505
+msgid "Day Time Operations (Main Meal)"
+msgstr "osjd fjs,dj m%Odk lEu fjs,"
+
+#: \views\pages\on-board-service.ctp:510;516;531;537
+msgid "Choice"
+msgstr "leue;a;"
+
+#: \views\pages\on-board-service.ctp:511
+msgid "NASIGORENG WITH VEGETABLE IN CHILLI SAUCE"
+msgstr "bkaoqkSishdkq wdldrhg  ms<font><</font>sfh, l< kdis .=rdka usrsia fidaia yd  t<font><</font>jM iu."
+
+#: \views\pages\on-board-service.ctp:512;518
+msgid "MILK CHOCOLATE"
+msgstr "lsrs fjdl,g_"
+
+#: \views\pages\on-board-service.ctp:517
+msgid "RICE &amp; DHAL KHICHADI with SOYA CURRY"
+msgstr "iduam%odhl n;a iy mrsmamq fidahd lrsh iu."
+
+#: \views\pages\on-board-service.ctp:526
+msgid "Morning Operations (Breakfast)"
+msgstr "WoEik wdydr fjs,"
+
+#: \views\pages\on-board-service.ctp:532
+msgid "RED KIRIBUTH WITH TEMPERED ONIONS &amp; MALU MIRIS"
+msgstr "idusm%odhsl Ys% ,dxlsl r;= yd,a lsrsn;a - ,qkq iusn,a iu."
+
+#: \views\pages\on-board-service.ctp:533;539
+msgid "SEASONAL FRESH FRUITS"
+msgstr "kejqus m<;=re"
+
+#: \views\pages\on-board-service.ctp:538
+msgid "KADALA TEMPERED WITH ONIONS, GREEN CHILLIES &amp; KARAPINCHA"
+msgstr "uola ;eusnq mrsmamq iqoq ,qkq - wuq usrsia yd lrmsxpd iu. "
+
+#: \views\pages\on-board-service.ctp:546
+msgid "Fruit drink will be served in all flights."
+msgstr "usg wu;rj- m,;=re hqI Tn wm iu. .uka .kakd iEu wjiagdjlu ,nd fokq  ,efns uOHidr fyda uOHidr fkdjk nsu jra. Tng oersh yels us,lg ,nd .; yel"
+
+#: \views\pages\on-board-service.ctp:550
+msgid "Vegetable Calzone is served on MLE flights."
+msgstr "t,jM wOx.= msgsid wmf.a ud,osjhska ixpdrfhos ,nd fokq w;r l=ls nialgs wmf.a ;srspspqmf,hs ixpdrfhaos ,nd fokq we;'"
+
+#: \views\pages\packages.ctp:113
+msgid "Colombo"
+msgstr ""
+
+#: \views\pages\travel-regulation.ctp:5
+msgid "Travel Regulations desc"
+msgstr ".ukdka;fhka .ukdka;hg .uka fr.=,dis fjkia jk w;r wod&lt; rfgys wod&lt; n&lt;Odrskaf.ka th ,nd.; yelsh wmf.a .ukdka;hka lsysmhl ks, fjns wvjs lsysmhlg iusnkaOjk wdldrh my; ,ehsia;=   .;fldg we;af;a Tnf.a myiqj ioZydh"
+
+#: \views\pages\travelagents.ctp:9
+msgid "Travel Agents desc"
+msgstr "my; oelafjk wmf.a .uka ksfhdacs;hskaf.ka Tng leu;s wfhl= f;dardf.k Tyqf.a fyda wehf.a fiajh ,nd .ekSug Tng yelshdj we;"
+
+#: \views\pages\travelagents.ctp:9
+msgid "Travel Agents in"
+msgstr ".uka ksfhdacs;hka"
+
+#: \views\pages\travelagents.ctp:9
+msgid "Search the agents"
+msgstr ".uka ksfhdacs;hka fidhkak"
+
+#: \views\subscriptions\add.ctp:5
+#, fuzzy
+msgid "Be the first to know det more"
+msgstr "wm iuÕ ,shd mÈxÑ úfuka Tng wmf.a iqúfYaI §ukd .ek f;dr;=re laIKslj ,nd.; yel"
+
+#: \views\survey_users\index.ctp:2
+msgid "Survey Users"
+msgstr ""
+
+#: \views\survey_users\index.ctp:55
+msgid "New Survey User"
+msgstr ""
+
+#: \views\users\index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: \views\users\login.ctp:5
+#, fuzzy
+msgid "Login"
+msgstr "wmf. ksfhdcs;fhal=Nd iusnkaojsug"
+
+#: \webroot\test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: \webroot\test.php:88
+msgid "Multiple destinations"
+msgstr "nyqjsO .ukdka;"
+
+#~ msgid "Agent Login det.."
+#~ msgstr ""
+#~ "wmf.A wdrlAYs; ksfhdcS; m%fjY l%shdj,Shg we;_,AjSug fuNs click lrkAk."
+
+#~ msgid "Home"
+#~ msgstr "uq,amsgqj"
+
+#~ msgid "Price to eccess lagguges"
+#~ msgstr "blau.=uu;au,q ioyd .dia;="
+
+#~ msgid "Quick Links"
+#~ msgstr "fiksl iuan|ojsu"
+
+#~ msgid "Select Language"
+#~ msgstr "ndidj fidarkak"

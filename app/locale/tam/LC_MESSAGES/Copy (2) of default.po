@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Destination"
+msgstr "பயணிக்கும் இடங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight Destinations"
+msgstr "பயணிக்கும் இடங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight Schedule"
+msgstr "விமானப்பயண ஓழுங்கு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight schedules"
+msgstr "விமானப்பயண ஒழுங்குகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Please select the location"
+msgstr "தகவல் அறியவேண்டிய இடத்தை தெரிக"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Search in locations"
+msgstr "பெட்டிக்குள் உள்ள இடங்களை தேடுக"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flight No"
+msgstr "விமான இலக்கம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Dep Airport"
+msgstr "புறப்பாடு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Dep Terminal"
+msgstr "புறப்படும் டேர்மினல்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Dep Time"
+msgstr "புறப்படும் நேரம்"
+
+#: pages.............................................
+#: \controllers\groups_controller.php:13;33
+msgid "Arr Terminal"
+msgstr "இறங்கும் டேர்மினல்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Arr Airport"
+msgstr "இறக்கம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Arr Time"
+msgstr "இறக்க நேரம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Frequency"
+msgstr "காலஅட்டவணை"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Period"
+msgstr "காலப்பகுதி"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Stops"
+msgstr "தரிப்புகள்"
+
+#: Baggage allowance.............................
+#: \controllers\groups_controller.php:13;33
+msgid "Baggage allowance"
+msgstr "பயணப்பொதிச் சலுகைகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Baggage allowance desc"
+msgstr "மிகின் லங்கா மேலதிகமாகன பயணப்பொதிகளை எடுத்துச்செல்லும் சலுகைகளை எல்லா இடங்களுக்கும் வழங்குகிறது"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Amount"
+msgstr "பெறுமதி"
+
+#: \controllers\groups_controller.php:13;33
+msgid "PER KG"
+msgstr "ஒரு கிலோகிராமிற்கு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Remarks"
+msgstr "குறிப்புகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "On-Board Service"
+msgstr "விமானத்தினுள் உள்ள சேவைகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Meals"
+msgstr "உணவு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Meals desc"
+msgstr "பிராயணிகள் பயணிக்கும் நேரத்தில் எமது தொழில்முறை விமானப் பணியாளர்களினால் குளிர்பானம் உள்ளிட்ட மென்பானங்களும், ஹலால் செய்யப்பட்ட இலகுவகை உணவுகளும் வழங்கப்படும்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Day Time Operations (Main Meal)"
+msgstr "பகல் நேர பயணங்களில்- பிரதான உணவுகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Choice"
+msgstr "தெரிவு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "NASIGORENG WITH VEGETABLE IN CHILLI SAUCE"
+msgstr "மிளகாய் சோஸ் கலக்கப்பட்ட மரக்கறி நாசிக்குறாங் (கூட்டாஞ்சோறு)"
+
+#: \controllers\groups_controller.php:13;33
+msgid "MILK CHOCOLATE"
+msgstr "மில்க் சொக்கிலேற்றும்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RICE &amp; DHAL KHICHADI with SOYA CURRY"
+msgstr "பருப்பு கிச்சடி சோயா கறியுடன் சோறு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Morning Operations (Breakfast)"
+msgstr "காலை நேரப் பயணங்களில்- காலை உணவு)"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RED KIRIBUTH WITH TEMPERED ONIONS &amp; MALU MIRIS"
+msgstr "சீனிச்சம்பல்- கட்டச்சம்பலுடன் சிவப்பரிசி பால் சோறு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "SEASONAL FRESH FRUITS"
+msgstr "பருவகாலத்திற்கேற்ப பழங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "KADALA TEMPERED WITH ONIONS, GREEN CHILLIES &amp; KARAPINCHA"
+msgstr "வெங்காயம் பச்சைமிளகாய் கருவேப்பிலை இட்டு தாழிக்கப்பட்ட கடலையும்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Fruit drink will be served in all flights."
+msgstr "அனைத்து விமானப் பயணங்களிலும் பழப்பானங்கள் பரிமாறப்படும்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Tea & Coffee is served on request."
+msgstr "பிராயணிகள் கோரினால் தேனீரும், கொப்பியும் வழங்கப்படும்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Yours to Enjoy on-board"
+msgstr "பயணங்களில் களிப்புடன் இருக்க"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RED WINE"
+msgstr "ரெட் வைன் "
+
+#: \controllers\groups_controller.php:13;33
+msgid "WHISKY - GRANT'S"
+msgstr "விஸ்கி கிறான்ட்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "WHITE WINE"
+msgstr "வைற் வைன்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "BRANDY - HENNESSY"
+msgstr "பிராண்டி- ஹென்னசி "
+
+#: \controllers\groups_controller.php:13;33
+msgid "GIN-GORDON'S"
+msgstr "ஜின்- ஹோர்டொன்ஸ் "
+
+#: \controllers\groups_controller.php:13;33
+msgid "BEER - HEINEKEN CAN"
+msgstr "பீர் ஹெனிஹென் "
+
+#: \controllers\groups_controller.php:13;33
+msgid "VODKA - SMIRNOFF"
+msgstr "பீர் ஹெனிஹென் "
+
+#: \controllers\groups_controller.php:13;33
+msgid "மென்பானங்கள்"
+msgstr "பயணங்களில் களிப்புடன் இருக்க"
+
+#: \controllers\groups_controller.php:13;33
+msgid "RUM - BACARDI"
+msgstr "ரம் - பக்காடி"
+
+msgid "SOFT DRINKS"
+msgstr "மென்பானங்கள்"
+
+msgid "COCA COLA"
+msgstr "கொக்கா கோலா"
+
+msgid "7UP"
+msgstr "7அப்"
+
+msgid "TONIC"
+msgstr "ரொனிக்"
+
+msgid "SODA"
+msgstr "சோடா"
+
+#: \controllers\groups_controller.php:13;33
+msgid "xxx"
+msgstr "பயணங்களில் களிப்புடன் இருக்க"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Vegetable Calzone is served on MLE flights."
+msgstr "மரக்கறி பச்சடி MLE பயணங்களின் போது வழங்கப்படும"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Cookie Biscuit is served on TRZ flights."
+msgstr "பிஸ்கற் உள்ளிட்ட சிற்றுண்டிகள் TRZ  பயணங்களின் போது பரிமாறப்படும"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Arrivals Departures"
+msgstr "வருகை மற்றும் புறப்பாடு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Duty Free"
+msgstr "வரி மற்றும் தீர்வை விலக்கு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "FAQ"
+msgstr "பொதுவான கேள்விபதில்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "How to book"
+msgstr "பதிவது எப்படி?"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Payment options"
+msgstr "பணம்செலுத்தும் வழிகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Regulations"
+msgstr "பயண ஒழுங்குவிதிகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Packages"
+msgstr "பயணப்பொதிகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Agents"
+msgstr "பயணமுகவர்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Our offices"
+msgstr "அலுவலகங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Call center"
+msgstr "தொலைஅழைப்பு நிலையங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Feedback center"
+msgstr "கருத்து மற்றும் முறைப்பாட்டு நிலையங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Downloads"
+msgstr "தரவிறக்கம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Mihinlanka"
+msgstr "மிகின் லங்கா"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Careers"
+msgstr "வேலைவாய்ப்புக்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Travel Itinerary"
+msgstr "பயண ஒழுங்கு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "From"
+msgstr "இங்கிருந்து"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Depart"
+msgstr "புறப்பாடு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "To"
+msgstr "இங்கு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Return"
+msgstr "திரும்புதல்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Number of passengers"
+msgstr "பயணிகள் எண்ணிக்கை"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Adults"
+msgstr "வளர்ந்தோர்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Children"
+msgstr "சிறார்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Infants"
+msgstr "குழந்தைகள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Return trip"
+msgstr "திரும்பும்பயணம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Search preferences"
+msgstr "தேடவிரும்பும் வகை"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Schedule"
+msgstr "ஒழுங்கு"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Price"
+msgstr "விலை"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Flexible date"
+msgstr "மாறுபடக்கூடிய திகதி"
+
+#: \controllers\groups_controller.php:13;33
+msgid "baggage allawance det.."
+msgstr "மிகின்லங்காவின் கவர்ச்சிகரமான முப்பதுகிலோவரையிலான பயணப்பொதிகளைக்கொண்டுசெல்லும் அனுமதிமூலம் நீங்கள் உங்கள் விடுமுறைமுழுவதும் ஆனந்தாக பொருட்களை வாங்கிகொள்ளலாம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "30 kilos baggage"
+msgstr "30 கிலோவரையிலான அனுமதி"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Be the first to know"
+msgstr "அதிவேகத்தில் தகவல்கள் பெற.."
+
+#: \controllers\groups_controller.php:13;33
+msgid "Be the first to know det.."
+msgstr "மிகின்லங்காவின் சலுகைக்கட்டணங்கள் மற்றும் தள்ளுபடித் தகவல்களைப்பெற்றுக்கொள்ள இந்த இணைப்பை சொடுக்குங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Agent Login"
+msgstr "முகவர்கள் உறுதிப்படுத்தல்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Agent Login det.."
+msgstr "பயணமுகவர்கள் இங்கு சொடுக்குவதன் மூலம் உங்கள் பாதுகாக்கப்பட்ட முகவர்தளத்திற்குள் உள்நுழையலாம்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Terms & Conditions"
+msgstr "ஒழுங்குவிதிகள் மற்றும் சட்டதிட்டங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Conditions of Carriage"
+msgstr "பயண சட்டதிட்டங்கள்"
+
+#: \controllers\groups_controller.php:13;33
+msgid "Invalid group"
+msgstr ""
+
+#: \controllers\groups_controller.php:23;38
+msgid "The group has been saved"
+msgstr "இந்த குறூப் சேமிக்கப்பட்டது"
+
+#: \controllers\groups_controller.php:26;41
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\groups_controller.php:51
+msgid "Invalid id for group"
+msgstr ""
+
+#: \controllers\groups_controller.php:55
+msgid "Group deleted"
+msgstr ""
+
+#: \controllers\groups_controller.php:58
+msgid "Group was not deleted"
+msgstr ""
+
+#: \controllers\notes_controller.php:13;33
+msgid "Invalid note"
+msgstr ""
+
+#: \controllers\notes_controller.php:23;38
+msgid "The note has been saved"
+msgstr ""
+
+#: \controllers\notes_controller.php:26;41
+msgid "The note could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\notes_controller.php:51
+msgid "Invalid id for note"
+msgstr ""
+
+#: \controllers\notes_controller.php:55
+msgid "Note deleted"
+msgstr ""
+
+#: \controllers\notes_controller.php:58
+msgid "Note was not deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:51;73
+msgid "Invalid user"
+msgstr ""
+
+#: \controllers\users_controller.php:61;78
+msgid "The user has been saved"
+msgstr ""
+
+#: \controllers\users_controller.php:64;81
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\users_controller.php:93
+msgid "Invalid id for user"
+msgstr ""
+
+#: \controllers\users_controller.php:97
+msgid "User deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:100
+msgid "User was not deleted"
+msgstr ""
+
+#: \views\groups\add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: \views\groups\add.ctp:9
+#: \views\groups\edit.ctp:10
+#: \views\notes\add.ctp:10
+#: \views\notes\edit.ctp:11
+#: \views\users\add.ctp:11
+#: \views\users\edit.ctp:12
+msgid "Submit"
+msgstr ""
+
+#: \views\groups\add.ctp:12
+#: \views\groups\edit.ctp:13
+#: \views\groups\index.ctp:7;43
+#: \views\groups\view.ctp:17;36
+#: \views\notes\add.ctp:13
+#: \views\notes\edit.ctp:14
+#: \views\notes\index.ctp:8;45
+#: \views\notes\view.ctp:22
+#: \views\users\add.ctp:14
+#: \views\users\edit.ctp:15
+#: \views\users\index.ctp:9;49
+#: \views\users\view.ctp:27
+msgid "Actions"
+msgstr ""
+
+#: \views\groups\add.ctp:15
+#: \views\groups\edit.ctp:17
+#: \views\groups\view.ctp:21
+#: \views\users\add.ctp:18
+#: \views\users\edit.ctp:20
+#: \views\users\index.ctp:52
+#: \views\users\view.ctp:33
+msgid "List Groups"
+msgstr ""
+
+#: \views\groups\add.ctp:16
+#: \views\groups\edit.ctp:18
+#: \views\groups\index.ctp:46
+#: \views\groups\view.ctp:23
+#: \views\users\add.ctp:17
+#: \views\users\edit.ctp:19
+#: \views\users\view.ctp:31
+msgid "List Users"
+msgstr ""
+
+#: \views\groups\add.ctp:17
+#: \views\groups\edit.ctp:19
+#: \views\groups\index.ctp:47
+#: \views\groups\view.ctp:24;63
+#: \views\users\index.ctp:51
+#: \views\users\view.ctp:32
+msgid "New User"
+msgstr ""
+
+#: \views\groups\edit.ctp:4
+#: \views\groups\view.ctp:19
+msgid "Edit Group"
+msgstr ""
+
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:23
+#: \views\groups\view.ctp:54
+#: \views\notes\edit.ctp:17
+#: \views\notes\index.ctp:25
+#: \views\users\edit.ctp:18
+#: \views\users\index.ctp:29
+msgid "Delete"
+msgstr ""
+
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:23
+#: \views\groups\view.ctp:20;54
+#: \views\notes\edit.ctp:17
+#: \views\notes\index.ctp:25
+#: \views\notes\view.ctp:25
+#: \views\users\edit.ctp:18
+#: \views\users\index.ctp:29
+#: \views\users\view.ctp:30
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \views\groups\index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: \views\groups\index.ctp:21
+#: \views\groups\view.ctp:52
+#: \views\notes\index.ctp:23
+#: \views\users\index.ctp:27
+msgid "View"
+msgstr ""
+
+#: \views\groups\index.ctp:22
+#: \views\groups\view.ctp:53
+#: \views\notes\index.ctp:24
+#: \views\users\index.ctp:28
+msgid "Edit"
+msgstr ""
+
+#: \views\groups\index.ctp:31
+#: \views\notes\index.ctp:33
+#: \views\users\index.ctp:37
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: \views\groups\index.ctp:36
+#: \views\notes\index.ctp:38
+#: \views\users\index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: \views\groups\index.ctp:39
+#: \views\notes\index.ctp:41
+#: \views\users\index.ctp:45
+msgid "next"
+msgstr ""
+
+#: \views\groups\index.ctp:45
+#: \views\groups\view.ctp:22
+#: \views\users\add.ctp:19
+#: \views\users\edit.ctp:21
+#: \views\users\index.ctp:53
+#: \views\users\view.ctp:34
+msgid "New Group"
+msgstr ""
+
+#: \views\groups\view.ctp:2
+#: \views\users\view.ctp:19
+msgid "Group"
+msgstr ""
+
+#: \views\groups\view.ctp:4;32
+#: \views\notes\view.ctp:4
+#: \views\users\view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: \views\groups\view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: \views\groups\view.ctp:20
+msgid "Delete Group"
+msgstr ""
+
+#: \views\groups\view.ctp:28
+msgid "Related Users"
+msgstr ""
+
+#: \views\groups\view.ctp:33
+#: \views\users\view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: \views\groups\view.ctp:34
+#: \views\users\view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: \views\groups\view.ctp:35
+msgid "Group Id"
+msgstr ""
+
+#: \views\notes\add.ctp:4
+msgid "Add Note"
+msgstr ""
+
+#: \views\notes\add.ctp:16
+#: \views\notes\edit.ctp:18
+#: \views\notes\view.ctp:26
+msgid "List Notes"
+msgstr ""
+
+#: \views\notes\edit.ctp:4
+#: \views\notes\view.ctp:24
+msgid "Edit Note"
+msgstr ""
+
+#: \views\notes\index.ctp:2
+msgid "Notes"
+msgstr ""
+
+#: \views\notes\index.ctp:47
+#: \views\notes\view.ctp:27
+msgid "New Note"
+msgstr ""
+
+#: \views\notes\view.ctp:2
+msgid "Note"
+msgstr ""
+
+#: \views\notes\view.ctp:9
+msgid "Title"
+msgstr ""
+
+#: \views\notes\view.ctp:14
+msgid "Body"
+msgstr ""
+
+#: \views\notes\view.ctp:25
+msgid "Delete Note"
+msgstr ""
+
+#: \views\users\add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: \views\users\edit.ctp:4
+#: \views\users\view.ctp:29
+msgid "Edit User"
+msgstr ""
+
+#: \views\users\index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: \views\users\login.ctp:5
+msgid "Login"
+msgstr ""
+
+#: \views\users\view.ctp:2
+msgid "User"
+msgstr ""
+
+#: \views\users\view.ctp:30
+msgid "Delete User"
+msgstr ""
+
+#: \webroot\test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

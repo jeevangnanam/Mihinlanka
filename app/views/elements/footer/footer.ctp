@@ -1,0 +1,4 @@
+            <div id="footer">
+                <div class="terms"><a href="/pages/mihinlanka-terms-and-conditions" title="Mihinlanka terms and conditions"><?=__("Terms & Conditions");?></a> <font face="Arial, Helvetica, sans-serif">| </font><a href="/pages/conditions-of-carriage" title="Mihinlanka conditions of carriage"><?=__("Conditions of Carriage");?> </a></div>
+                <div class="loopssolutions"><a href="http://www.loooops.com" target="_blank" title="Loops solutions - , Social media marketing, Online marketing"  ><img src="/img/loopssolutions/loops_logo_small.png" alt="Social media marketing, Online marketing" title="Loops solutions - , Social media marketing, Online marketing" border="0" /></a></div>
+            </div>

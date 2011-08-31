@@ -1,0 +1,28 @@
+/* 
+    Document   : custom.css
+    Created on : Apr 7, 2011, 12:18:55 PM
+    Author     : cherankrish
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#loginWrapper{
+
+    
+}
+
+#loginLeft{
+margin-top: 250px;
+margin-right: 20px;
+padding-right: 20px;
+height:150px;
+border-right: solid 1px  silver;
+    width:50%;float:left;
+    text-align: right;
+}
+

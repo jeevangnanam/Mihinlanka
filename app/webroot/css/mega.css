@@ -1,0 +1,109 @@
+*{outline: none;}
+img {border: 0;}
+
+
+#topnav {
+	margin: 0; padding: 0;
+	float:left;
+	width: 1024px;
+	list-style: none;
+	font-size: 1.0em;
+	position:absolute;
+	z-index:115;
+	background: url(../img/green_strip_bg.png) repeat-x;
+       
+
+}
+ul#topnav li {
+	float: left;
+	margin: 0; padding: 0;
+	position: relative;
+	
+}
+ul#topnav li a {
+	float: left; 
+	text-indent: -9999px;
+	height: 43px;
+        
+}
+ul#topnav li:hover a, ul#topnav li a:hover { background-position: left bottom; }
+ul#topnav a.home {
+	background: url(../img/nav_home.png) no-repeat;
+	width: 78px; 
+}
+ul#topnav a.flights {
+	background: url(../img/nav_flights.png) no-repeat;
+	width: 123px; 
+}
+ul#topnav a.bookings {
+	background: url(../img/nav_bookings.png) no-repeat;
+	width: 145px; 
+}
+ul#topnav a.contactus {
+	background: url(../img/nav_contactus.png) no-repeat;
+	width: 145px; 
+}
+ul#topnav a.about_mihin {
+	background: url(../img/nav_about_mihin.png) no-repeat;
+	width: 148px; 
+}
+ul#topnav a.promotions {
+	background: url(../img/nav_promotions.png) no-repeat;
+	width: 148px;
+}
+ 
+ 
+ul#topnav li .sub {
+	position: absolute;	
+	top: 44px; left: 0;
+	/*background:  #09C url(/img/sub_bg.png) repeat-x;*/
+	background:  #09C;
+	padding: 20px 20px 20px;
+	float: left;
+	border:solid 2px #B3ECFB;
+	/*--Bottom right rounded corner--*/
+	-moz-border-radius-bottomright: 5px;
+	-khtml-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	/*--Bottom left rounded corner--*/
+	-moz-border-radius-bottomleft: 5px;
+	-khtml-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	display: none;
+}
+ul#topnav li .row {clear: both; float: left; width: 100%; margin-bottom: 10px;}
+ul#topnav li .sub ul{
+	list-style: none;
+	margin: 0; padding: 0;
+	width: 150px;
+	float: left;
+}
+ul#topnav .sub ul li {
+	width: 100%;
+	color: #fff;
+}
+ul#topnav .sub ul li h2 {
+	padding: 0;  margin: 0;
+	font-size: 1.3em;
+	font-weight: normal;
+}
+ul#topnav .sub ul li h2 a {
+	padding: 5px 0;
+	background-image: none;
+	color: #e8e000;
+}
+ul#topnav .sub ul li a {
+	float: none; 
+	text-indent: 0; /*--Reset text indent--*/
+	height: auto;
+	background: url(navlist_arrow.png) no-repeat 5px 12px;
+	padding: 7px 5px 7px 0px;
+	display: block;
+	text-decoration: none;
+	color: #fff;
+        border-bottom: solid 1px #6AB5FF;
+}
+ul#topnav #promo{
+    margin-left:237px;
+}
+ul#topnav .sub ul li a:hover {color: #ddd; background-position: 5px 12px ;}
