@@ -85,7 +85,7 @@ class DATABASE_CONFIG {
         'database' => 'mihinlanka',
         'prefix' => '',
     );
-	var $test = array(
+        var $test = array(
         'driver' => 'mysql',
         'persistent' => false,
         'host' => 'localhost',
@@ -124,7 +124,7 @@ class DATABASE_CONFIG {
                     $this->default = $this->dev;
                     break;
 					
-				case 'staging':
+                case 'testing':
 				
                     $this->default = $this->test;
                     break;
