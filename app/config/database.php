@@ -85,6 +85,15 @@ class DATABASE_CONFIG {
         'database' => 'mihinlanka',
         'prefix' => '',
     );
+	var $test = array(
+        'driver' => 'mysql',
+        'persistent' => false,
+        'host' => 'localhost',
+        'login' => 'root',
+        'password' => '',
+        'database' => 'mihinlanka_test',
+        'prefix' => '',
+    );
     var $stage = array(
         'driver' => 'mysql',
         'persistent' => false,
@@ -112,6 +121,11 @@ class DATABASE_CONFIG {
             switch ($_SERVER['APPLICATION_ENV']) {
                 case 'development':					
                     $this->default = $this->dev;
+                    break;
+					
+				case 'staging':
+				
+                    $this->default = $this->test;
                     break;
 					
                 case 'staging':

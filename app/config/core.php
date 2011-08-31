@@ -36,7 +36,13 @@
  if (array_key_exists('APPLICATION_ENV',$_SERVER)  and $_SERVER['APPLICATION_ENV'] == 'development') {
 	Configure::write('debug',2);
  }
- if (array_key_exists('APPLICATION_ENV',$_SERVER)  and $_SERVER['APPLICATION_ENV'] == 'staging') {
+
+ 
+  if (array_key_exists('APPLICATION_ENV',$_SERVER)  and $_SERVER['APPLICATION_ENV'] == 'testing') {
+	Configure::write('debug',2);
+ }
+ 
+  if (array_key_exists('APPLICATION_ENV',$_SERVER)  and $_SERVER['APPLICATION_ENV'] == 'staging') {
 	Configure::write('debug',0);
  }
  if (array_key_exists('APPLICATION_ENV',$_SERVER)  and $_SERVER['APPLICATION_ENV'] == 'production') {
