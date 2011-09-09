@@ -70,7 +70,15 @@ Router::connect('/pages/airline-careers-in-srilanka/*', array('controller' => 'p
 Router::connect('/pages/mihinlanka-location-map/*', array('controller' => 'pages', 'action' => 'location_map'));
 Router::connect('/pages/how-to-book-guide/*', array('controller' => 'pages', 'action' => 'how_to_book_guide'));
 Router::connect('/pages/packages-to-maldives/*', array('controller' => 'pages', 'action' => 'packages_to_maldives'));
+
+
+//travel reviews
+Router::connect('/pages/srilanka_travel_review/*', array('controller' => 'pages', 'action' => 'srilanka_travel_review'));
+Router::connect('/pages/dubai_travel_review/*', array('controller' => 'pages', 'action' => 'dubai_travel_review'));
+
+
 Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
+
 
 
 
@@ -109,6 +117,10 @@ Router::connect('/destinations.htm', array('controller' => 'destinations', 'acti
 Router::connect('/about-mihin-lanka.htm', array('controller' => 'pages', 'action' => 'about'));
 Router::connect('/Dubai_visa.htm', array('controller' => 'pages', 'action' => 'home'));
 Router::connect('/arrivals-departures.htm', array('controller' => 'pages', 'action' => 'arrivals_and_departures'));
+
+
+
+
 
 /* Custom routs ends */
 

@@ -107,7 +107,7 @@ class PagesController extends AppController {
         // $this->set('promotions',($this->Promotion->find('all',array('fields' => array('fare_details_short'), 'conditions' => array("status='APPROVED'" ,"promote_to_home = 'PROMOTED'")))));
         $this->layout = 'home';
         //$this->set(compact('page', 'subpage', 'title_for_layout'));
-        $this->set('title_for_layout', ' A low-cost airline based in Colombo, Sri Lanka');
+        $this->set('title_for_layout', ' A low-cost srilankan airline based in Colombo, Sri Lanka.Fly to colombo,srilankan holidays , flights to colombo | flights to srilanka | fly to srilanka,Colombo,Dubai ,Gaya ,Tiruchirapalli ,Varanasi ,Kuwait ,Maldives ,Dhaka ,Jakarta');
         $this->set('banners', ($this->Banner->find('all', array('conditions' => array('Banner.status' => 'APPROVED')))));
         $this->set('alertMessages', $this->AlertMessage->find('all', array('conditions' => array('AlertMessage.status' => 'APPROVED'))));
 
@@ -311,4 +311,18 @@ class PagesController extends AppController {
         $this->render('packages-to-maldives');
     }
 
+	function srilanka_travel_review(){
+		
+		$this->layout = 'destination_reviews';
+		$this->render('srilanka-travel-review');
+		}
+		
+		
+	function dubai_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('dubai-travel-review');
+	}
+	
+	
 }

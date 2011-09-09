@@ -3,7 +3,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 
-        <?= $html->meta('keywords', 'Fly to srilanka,Srilankan flight, Cheap flights to srilanka,', array('type' => 'keywords'), false); ?>
+        <?= $html->meta('keywords', 'srilankan airlines,srilankan air,srilanka,srilankan airways,cheap airlines,cheap tickets,cheap flight ,cheap holidays ,Fly to srilanka,Srilankan flight, Cheap flights to srilanka,Srilankan,flights to colombo,flights to srilanka ', array('type' => 'keywords'), false); ?>
         <?= $html->meta('description', 'Mihin Lanka (Pvt.) Limited is a low-cost airline based in Colombo, Sri Lanka.Its main focus is providing low cost flights from Colombo to a number of cities in India and the Gulf States. Mihin Lanka uses Colombo Bandaranaike International Airport as its hub.', array('type' => 'description'), false); ?>
         <?= $html->meta(array('name' => 'Author', 'content' => 'Cheran krishnamoorthy')); ?>
         <?= $html->meta(array('name' => 'Publisher', 'content' => 'Loops Solutions Pvt Ltd.')); ?>
@@ -20,7 +20,7 @@
 
         <?
         if (!isset($title_for_layout)) {
-            $title_for_layout = "A low-cost airline based in Colombo, Sri Lanka";
+            $title_for_layout = "A low-cost srilankan airline based in Colombo, Sri Lanka.Fly to colombo,srilankan holidays , flights to colombo | flights to srilanka | fly to srilanka,Colombo,Dubai ,Gaya ,Tiruchirapalli ,Varanasi ,Kuwait ,Maldives ,Dhaka ,Jakarta ";
         }
         ?>
         <title><?php __('Mihinlanka!! '); ?><?= $title_for_layout; ?></title>

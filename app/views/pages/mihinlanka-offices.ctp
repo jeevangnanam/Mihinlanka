@@ -94,16 +94,23 @@ Fax +94 117800450<br />
       <p>Ominga International,<br />
         Shop No 5, Souk Al Kabir Building,<br />
         Bur Dubai,<br />
+(Opp of Carrefour Main Entrance)        <br />
         UAE.</p>
       <p><strong><br />
-        </strong>Tel : +97143252225<br />
-        Fax : +97143254774<br />
-        E-mail  : <a href="mailto:callcentredxb@mihinlanka.com">callcentredxb@mihinlanka.com</a><br />
-  <a href="mailto:salesdxb@mihinlanka.com">salesdxb@mihinlanka.com</a>      </p>
-      <p>If you are dialing from out  side  : +97143252225 <br />
-        <strong>Operating  Hours :</strong><br />
-        Saturday to Thursday : 0900 –  2100 Hrs<br />
-    Friday : 0900 – 1200 Hrs &amp; 1600 -  2100 Hrs</p>      <p>&nbsp;</p></td>
+        </strong>Tel : +  97143252225<br />
+        Fax : +  97143254774<br />
+        <br />
+        E-mail  : </p>
+      <p><a href="mailto:callcentredxb@mihinlanka.com" target="_blank">callcentredxb@mihinlanka.com</a><u></u><u></u><br />
+        <a href="mailto:salesdxb@mihinlanka.com" target="_blank">salesdxb@mihinlanka.com</a><u></u><u></u><br />
+        <a href="mailto:angelo@mihinlanka.com" target="_blank">angelo@mihinlanka.com</a><u></u><u></u><br />
+        <a href="mailto:gayathradxb@mihinlanka.com" target="_blank">gayathradxb@mihinlanka.com</a><u></u><u></u><br />
+        <a href="mailto:mafrazdxb@mihinlanka.com" target="_blank">mafrazdxb@mihinlanka.com</a></p>
+<p> <strong>Mobile Contact  Numbers :</strong>  +971503005010 / +971558554402 <br />
+  </p>
+<p><strong>Operating Hours :</strong><br />
+  Saturday to Thursday : 0900 – 2100 Hrs<br />
+  Friday : 0900 – 1200 Hrs &amp; 1600 -  2100 Hrs </p><p>&nbsp;</p></td>
     <td width="33%" align="left" valign="top"><p><strong>Airport Office,</strong></p>
       <p>Office No 449,<br />
         Dubai International Airport,<br />
@@ -111,13 +118,10 @@ Fax +94 117800450<br />
   <br />
         Tel : + 971 2991117<br />
         Fax : + 971 42991116<br />
-    Mobile : +971502401235 (Station  Manger)</p></td>
+Mobile :  +971502401235 ,  +971502401235 (Station Manager) </p></td>
   </tr>
 </table>
-           <note style="margin-left:10px">24x7 Call Centre – Freephone*: 8000 55555
-
-* free within UAE</note>
-        </div>
+           <note style="margin-left:10px"> 24x7 Call Centre – Freephone*: 8000 55555 * free within UAE </note></div>
        </div>
 
         <div class="article" style="padding-left:10px;">
