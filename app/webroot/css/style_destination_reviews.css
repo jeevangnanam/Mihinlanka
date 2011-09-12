@@ -1,0 +1,123 @@
+/* CSS Document */
+#content{
+	padding:0px;
+	margin:0px;
+	width:70%;
+	float:left;
+	border-right:3px solid #000000;
+	height:900px;
+	overflow:hidden;
+	display:block;
+	
+	
+	
+	}
+	
+	#contentInner{
+		margin:10px;
+		padding:0px;
+		font-size: 15px;
+		}
+		
+		#contentInner p{
+
+margin-bottom:13px;
+		}
+		#contentInner h2{
+			font-family:Sunshiney;
+			font-size:28px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+			color: #E6624F;
+			clear:both;
+			}
+			
+			#contentInner .formatme{
+				color: #000000;
+				padding: 10px;
+				line-height:19px;
+				border:solid 2px #ffffff;
+				background: -moz-linear-gradient(top, rgba(255,255,255,0.46) 0%, rgba(229,229,229,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.46)), color-stop(100%,rgba(229,229,229,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0.46) 0%,rgba(229,229,229,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(255,255,255,0.46) 0%,rgba(229,229,229,1) 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, rgba(255,255,255,0.46) 0%,rgba(229,229,229,1) 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, rgba(255,255,255,0.46) 0%,rgba(229,229,229,1) 100%); /* W3C */
+overflow:auto;
+	
+				}
+				
+				#contentInner h3{
+			 
+				 
+				font-size:18px;
+				font-weight:bold;
+				margin: 10px 0px 10px 0px;
+					}
+				
+				#contentInner img{ margin-right:8px; margin-bottom:8px;border:solid 1px    #333333}
+				
+				#contentInner .shoppingPlaces{ text-align:right;}
+				#contentInner .shoppingPlaces img{border:none;}
+				
+.transparent {
+        zoom: 1;
+        filter: alpha(opacity=50);
+        opacity: 0.5;
+}
+
+
+#right{
+	padding:0px;
+	margin:0px;
+	width:29%;
+	background-color:gray;
+	float:left;
+	min-height:900px;
+	background-image:url(/img/taipei101.jpg);
+	font-family:Lato;
+	font-size: 20px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-left:solid 1px #ffffff;
+	
+	}
+#right a,a:hover,a:visited{text-decoration:none;color: #F5F5F5}
+#destination_links{
+	
+	
+	}
+	
+	
+#destination_links td{
+	
+	padding:20px 5px 20px 35px;
+	border-bottom: dashed 1px #399;
+	}
+	
+#destination_links td a:hover{
+	
+color:  #0CF;
+	}
+	
+#goBackToHome{
+	
+	text-align:center;
+	
+	margin:auto 0px;
+	position:fixed;
+	margin-left:30%;
+	z-index:1000;
+	}
+
+
+/*Scollbar*/
+
+#content .viewport { width: 90%; height: 900px; overflow: hidden; position: relative; }
+#content .overview { list-style: none; position: absolute; left: 0; top: 0; padding: 0; margin: 0; }
+#content .scrollbar{   float: right; width: 15px; }
+#content .track { background: transparent url(/img/bg-scrollbar-trackend-y.png) no-repeat 0 100%; height: 100%; width:13px; position: relative; padding: 0 1px; }
+#content .thumb { background: transparent url(/img/bg-scrollbar-thumb-y.png) no-repeat 50% 100%; height: 20px; width: 25px; cursor: pointer; overflow: hidden; position: absolute; top: 0; left: -5px; }
+#content .thumb .end {  overflow: hidden; height: 5px; width: 25px; }
+#content .disable { display: none; }
