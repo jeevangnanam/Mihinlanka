@@ -154,7 +154,7 @@
     </tr>
     <tr>
       <td width="15%"><p>&nbsp;</p></td>
-      <td colspan="2"><p>Carriage of passengers, baggage and cargo by Mihin Lanka on    international routes is subject to Mihin Lanka’s <strong><a href="http://www.srilankan.lk/legalnotice/legalnotice.htm">Conditions of Carriage for Passengers and Baggage</a></strong>, <strong><a href="http://www.srilankan.lk/legalnotice/legalnotice.htm">Conditions of Contract</a></strong> or <strong><a href="http://www.srilankan.lk/legalnotice/legalnotice.htm">Conditions of Carriage for Cargo</a></strong> as    the case may be and other <u>Important Notices</u>.<br>
+      <td colspan="2"><p>Carriage of passengers, baggage and cargo by Mihin Lanka on    international routes is subject to Mihin Lanka’s <strong>Conditions of Carriage for Passengers and Baggage</strong>, <strong>Conditions of Contract</strong> or <strong>Conditions of Carriage for Cargo</strong> as    the case may be and other <u>Important Notices</u>.<br>
         <br>
         If the carrier operating your flight is not Mihin Lanka, please contact that    carrier for their conditions of carriage </p></td>
     </tr>
