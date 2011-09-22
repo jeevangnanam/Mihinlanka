@@ -1,1 +1,4 @@
 /app/tmp/*
+/.project
+/.settings
+/.cache
