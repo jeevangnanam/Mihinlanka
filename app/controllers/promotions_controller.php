@@ -119,7 +119,7 @@ $tt++;
     }
 	
 	function fifty(){
-		
+		$this->set('bookingSmallDisabled' , true);
 		$this->set('banner', 'fifty.jpg');
          $this->render('fifty-one');
 		

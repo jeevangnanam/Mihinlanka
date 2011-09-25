@@ -112,7 +112,7 @@ nav .nav_item a img { border:none; }
 #services .articlesin{ font:0.9em 'Calibri'; line-height: 1.2em;border:1px solid #bfbfbf; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; box-shadow:3px 3px 2px rgba(0,0,0,0.05); -moz-box-shadow:3px 3px 2px rgba(0,0,0,0.05); -webkit-box-shadow:3px 3px 2px rgba(0,0,0,0.05); display:block; margin-top:20px; }
 
 #services .articlesin h3{font-family: 'calibri';padding:5px;font-size:1em; }
-#services .articlesin p{font:0.9em 'calibri'  ,sans-serif; line-height: 1.5em}
+#services .articlesin p{font:0.9em 'calibri'  ,sans-serif; line-height: 1.5em;}
 
 #services .articlesin > div { border-top:1px #bfbfbf solid; overflow:hidden; padding:10px; }
 #services .articlesin > div img { border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; float:left; margin-right:10px; }
