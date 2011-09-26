@@ -2,3 +2,6 @@
 /.project
 /.settings
 /.cache
+/app/tmp/logs/error.log
+/app/tmp/logs/_notes
+/app/tmp/logs/debug.log

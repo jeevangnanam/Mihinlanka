@@ -118,7 +118,7 @@
                 <? endif; ?>
                     </div>
                     <div id="leftSide">
-
+						
                 <?= $this->element("side/leftSide"); ?>
                     </div>
                     <div id="content">

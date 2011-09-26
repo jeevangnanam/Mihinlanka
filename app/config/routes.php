@@ -86,7 +86,7 @@ Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'
 Router::connect('/promotions/index', array('controller' => 'promotions', 'action' => 'index'));
 Router::connect('/promotions/mihinlanka-hsbc-promotion-one', array('controller' => 'promotions', 'action' => 'hsbc_promotion_one'));
 Router::connect('/promotions/mihinlanka-jakarta-promotion-one', array('controller' => 'promotions', 'action' => 'jakarta_promotion_one'));
-Router::connect('/promotions/*', array('controller' => 'promotions', 'action' => 'display'));
+
 
 
 Router::connect('/survey/*', array('controller' => 'survey_users', 'action' => 'index'));
