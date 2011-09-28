@@ -32,8 +32,6 @@
         <?= $this->Html->css("/css/main.css"); ?>
         
 
- 
-
         <?= $this->Html->script("/js/jqueryUI/js/jquery-1.4.4.min.js"); ?>
         <?= $this->Html->script("/js/jquery.tinyscrollbar.min.js"); ?>
         <?= $this->Html->script("/js/jqueryUI/js/jquery-ui-1.8.10.custom.min.js"); ?>
