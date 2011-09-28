@@ -76,6 +76,13 @@ Router::connect('/pages/packages-to-maldives/*', array('controller' => 'pages', 
 Router::connect('/pages/srilanka_travel_review/*', array('controller' => 'pages', 'action' => 'srilanka_travel_review'));
 Router::connect('/pages/dubai_travel_review/*', array('controller' => 'pages', 'action' => 'dubai_travel_review'));
 
+Router::connect('/pages/gaya_travel_review/*', array('controller' => 'pages', 'action' => 'gaya_travel_review'));
+Router::connect('/pages/varanasi_travel_review/*', array('controller' => 'pages', 'action' => 'varanasi_travel_review'));
+Router::connect('/pages/tiruchirapalli_travel_review/*', array('controller' => 'pages', 'action' => 'tiruchirapalli_travel_review'));
+Router::connect('/pages/kuwait_travel_review/*', array('controller' => 'pages', 'action' => 'kuwait_travel_review'));
+Router::connect('/pages/maldives_travel_review/*', array('controller' => 'pages', 'action' => 'maldives_travel_review'));
+Router::connect('/pages/dhaka_travel_review/*', array('controller' => 'pages', 'action' => 'dhaka_travel_review'));
+Router::connect('/pages/jakarta_travel_review/*', array('controller' => 'pages', 'action' => 'jakarta_travel_review'));
 
 Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 
