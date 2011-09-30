@@ -1,3 +1,8 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
 <div id="contentInner" style="background-image:url(/img/dhaka_bangladesh.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Dhaka</h2>
@@ -10,9 +15,13 @@ Dhaka is the capital and largest city of Bangladesh. With its colorful history 
 
  Dhaka has a climate that can be described as tropical. Three seasons are generally recognized: a hot, humid summer from March to June; a cool, rainy monsoon season from June to October; and a cool, dry winter from October to March. Summers can be extremely hot. In general, highs are in the 90s to 100s. April is the warmest month in most parts of the country. January is the coldest month, when the average temperature for most of the country is in the 40s.
 <br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in dubai" /></div>
+  <div class='shoppingPlaces'>
+  <a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in gaya" />
+      </a>
+  </div>
 </div>
-Attractions
+<!--Attractions-->
 <h2>Shopping in Dhaka</h2>
 <p>
   <img src="/img/dest_reviews/Bangla_Pottery_Dhaka.jpg" alt="Shopping in Dhaka"   align="left" width="432" height="345" /> Bangladesh is indeed a shoppers' paradise with a rich tradition in handicrafts at throw away prices. While muslin of ancient Dhaka has gone into history, other products such as contemporary paintings, wood works, shital pati (mattress having cooling effect), bamboo decoration pieces, cane and conch shell products, gold and silver ornament, cotton, silk, gold, silver, jute, reed, brassware, traditional dolls and leather goods also receive deep appreciation of the lovers of arts and crafts now and over the past centuries. In addition, Bangladesh is famous for pink pearl. Pink pearls are the best buy in Dhaka. These natural products are unparallel in luster. A wide range of gold and silver ornaments, silver filigree work are considered by many travelers to be unparalleled.  Among the best buys here are brass and copperware trays, wall decorations; vases etc. All are hand made with fine engravings and filigree work. Products made from the hides and skins of animals and reptiles, intricate wood carvings, cane and bamboo products, conch shell, bangles, embroidered quilts, jamdani and silk fabrics can also be bought. These are available in DIT market and a number of exclusive shops in New Elephant Road, Dhaka. Duty free sales and display centers run by Bangladesh Parjatan Corporation (NTO) are located in Dhaka, Zia International Airport, Mohakhaii and Sylhet Airport. These shops enjoy the reputation of being well established with a wide range of goods at unbeatable prices. Goods available include wines and spirits, perfumes, cigarettes, hi-fi stereo and audio-visual equipment, Cameras, Watches and a range of household appliances. All purchases must be paid for in foreign currency.</p>
@@ -55,5 +64,66 @@ The Baldha Garden is one of the most popular gardens of the city and has a colle
   <img src="/img/dest_reviews/River_boats_Dhaka_Bangladesh.jpg" alt="Transportation of Bangladesh" align="left" width="432" height="345" />
   The transport sector of Bangladesh consists of a variety of modes. The country being a flat plain, all three modes of surface transport, i.e. road, railway and water are widely used in carrying both passengers and cargo. Bangladesh can be reached by air from any part of the world. The Bangladesh Railway provides an efficient service to places of interest such as Chittagong, Sylhet, Khulna, Mymensingh, Bogra, Rajshahi, Dinajpur starting from Dhaka. The inter-city Express Service is available to and from important cities at cheap fares. Country-Made boats are the most widely used carrier one can see in the river and rivulets. These carry passengers and merchandise on a large scale. The landscape of Bangladesh is dominated by about 250 rivers which flow essentially north-sourth. The alluvial flood plain formed by these rivers covers most of the country. Wherever there is a river and a village, a launch or steamer will ply for trade. A journey by Rocket Steamer service from Dhaka (Sadarghat) to Khulna, the gateway to Sundarbans is a rewarding experience. Private car hire service is available in Dhaka and some other major cities. 
  </p>
+ 
+ 
+ 
+ 
+
+<div id="boxes">
+
+<div id="dialog" class="window">
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/dakha_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+
+<div class="demo">
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','dakha_shopping_popup')">Dakha</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
+</div>
+
+</div>
+
+
+
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
+
+</div>
   
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
+
+
+
 </div>

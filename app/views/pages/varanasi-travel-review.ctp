@@ -1,3 +1,8 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
 <div id="contentInner" style="background-image:url(/img/varanasi_bg.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Varanasi</h2>
@@ -14,9 +19,12 @@ Varanasi experiences a humid subtropical climate with large variations between
 <br>
 Situated in Uttar Pradesh, in northern part of India, Varanasi is located on the banks of the holy river, Ganges. During summers, weather can be as hot as 45° C and humid too as Varanasi lies at the Tropic of cancer. Torrential rains and high humidity accompanies the monsoons that usually come in late June or early July for about two months. On the other hand, winters are pleasant and temperature dips down to about 7°C. In Varanasi, the climatic conditions are most favorable for the tourists between October to April. 
 <br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in dubai" /></div>
+<div class='shoppingPlaces'>
+	  <a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in varanasi" />
+      </a>
 </div>
-
+</div>
 <h2>How to Reach Varanasi </h2>
 <p>
   <img src="/img/dest_reviews/varanasi_reach.jpg" alt="How to Reach Varanasi"   align="left" width="432" height="345"/> Varanasi is the cultural capital of India and the melting pot of Indian civilization. Varanasi or Benaras has a well-developed transport network and is well connected to all the major Indian cities and states by air, road and rail. Varanasi is well connected and accessible to major Indian cities and tourist spots. There are daily domestic flights to and from Varanasi to several cities in India. Apart from the state owned Indian Airlines, there are many private air taxi operators that offer their services from Varanasi to other Indian cities. In fact, the daily flights on Delhi-Agra-Khajuraho-Varanasi route are quite popular among the tourists.  Since Varanasi lies in the heartland of the North Indian plains, it is well connected to Delhi, Kolkata, Mumbai and other parts of India. There are two railway stations in Varanasi, the Kashi Junction and the Varanasi Junction (also known as Varanasi Cantonment). Rajdhani Express from Delhi or from Calcutta passes through Varanasi too. One can also catch trains from Mughalsarai, just 10 km south of Varanasi. </p>
@@ -55,5 +63,54 @@ Situated in Uttar Pradesh, in northern part of India, Varanasi is located on the
   Music is supposed to be the soul of life. By virtue of being the oldest living city, Benaras has its own rich history and treasure of music.  Benaras also developed as a great center of Dhrupad style of singing. In the 16th century, Govind Chandra ruled Varanasi and during his regime Dhrupad was the royal music. Over a period of time, the Maharajas of Kashi or Varanasi also gave patronage to music and that resulted in making Varanasi a great center of music. 
 
   </p>
+  
+  <div id="boxes">
+
+<div id="dialog" class="window">
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/varanasi_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+<div class="demo">
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','varanasi_shopping_popup')">Varanasi</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
+</div>
+</div>
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
 
 </div>
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
+
+
+ </div>

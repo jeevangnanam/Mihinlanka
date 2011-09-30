@@ -1,3 +1,8 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
 <div id="contentInner" style="background-image:url(/img/doni_aux_maldives_cropped.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Maldives</h2>
@@ -9,7 +14,11 @@
   Climate<br>
 
 In a nation with less than one percent land and over 99 percent sea, the weather obviously plays a significant role in day-to-day life. The Maldives has a tropical climate with warm temperatures year round and a great deal of sunshine. The warm tropical climate results in relatively minor variations in daily temperature throughout the year. The hottest month on average is April and the coolest, December. The weather is determined largely by the monsoons. There is a significant variation in the monthly rainfall levels.<br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in dubai" /></div>
+  <div class='shoppingPlaces'>
+      <a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in maldives" />
+      </a>
+  </div>
 </div>
 
 <h2>Scuba diving holidays </h2>
@@ -64,4 +73,59 @@ Habitual shoppers would jump with joy when they hear of duty-free shopping in Ma
 The best souvenir shopping is the mobile local market. They come to Club Med every Saturday at 5 pm. Prices are much less than in Seychelles. The Maldives print their own stamps. Every resort shop on every island has some for sale Maldives Stamps are famous for being amongst the most beautiful in the world. Even if one is not a collector. It is some thing worth having. 
 
   </p>  
+  
+  <div id="boxes">
+
+<div id="dialog" class="window">
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/maldives_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+
+<div class="demo">
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','maldives_shopping_popup')">Maldives</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
+</div>
+
+</div>
+
+
+
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
+
+</div>
+  
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
 </div>

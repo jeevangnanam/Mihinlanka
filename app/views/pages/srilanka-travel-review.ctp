@@ -1,3 +1,8 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
 <div id="contentInner" style="background-image:url(/img/elephant.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Sri Lanka </h2>
@@ -9,7 +14,11 @@
   <h3 >Colombo city</h3>
   Malls in Colombo make your shopping experience all the more delightful. The up-market shopping malls are up with their most effective marketing strategies and the result is a world class cluster of shops along with great cafes, eateries and even wine lounges. Colombo mega shopping centers will make it a memorable experience for you. These modern shopping malls and specialty stores stock up high quality goods at very affordable prices.<br>
   The wide range of exclusive souvenir items includes handicrafts and curios of silver, brass, bone, ceramics, wood and terracotta. There are also cane baskets, straw hats, reed and coir mats and tea. Most of the items can be custom made according to your preferences.<br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in colombo" /></div>
+  <div class='shoppingPlaces'>
+  	  <a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in colombo" />
+      </a>
+  </div>
 </div>
 
 <h2>Hikkaduwa </h2>
@@ -53,4 +62,57 @@
 <p>Pinnawala is about 3 km from Rambukkana junction on Colombo-Kandy (90km from Colombo) road. Travelers by bus from Colombo or Kandy could take the Rambukkana bus from Kegalle town and enjoy the majestic beauty of elephants. <br>
   <br>
 </p>
+
+
+
+<div id="boxes">
+
+<div id="dialog" class="window">
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/srilanka_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+<div class="demo">
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','srilanka_shopping_popup')">Colombo</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
 </div>
+</div>
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
+
+</div>
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
+
+
+</div>
+

@@ -1,3 +1,8 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
 <div id="contentInner" style="background-image:url(/img/jakarta.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Jakartha</h2>
@@ -10,7 +15,11 @@
 
 All through the year, the climate enjoyed by Jakarta remains hot due to Indonesia's closeness to the equator. Plentiful sunny weather is to be enjoyed by all. High humidity levels can make the weather and climate of Jakarta feel a little different from the sunny weather time to time. Rain fall brings in the changes needed after the sunny weather attracting the tourists to many water sport activities.
 <br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in dubai" /></div>
+  <div class='shoppingPlaces'>
+  	<a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in jakarta" />
+     </a>
+  </div>
 </div>
 <!--Attractions-->
 <h2>Bali Island  </h2>
@@ -64,4 +73,63 @@ Featuring one of the best collections of wayang puppets in Java, its cabinets ar
 National Gallery of Indonesia has modern and contemporary art collection in paintings, drawings, prints, statues, photography and installation art. These artworks includes many varieties. The Museum is situated on jalan Merdeka Barat. The front courtyard can accommodate cars and tour buses.
 
   </p>
+  
+<div id="boxes">
+
+<div id="dialog" class="window">
+
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/jakarta_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+
+<div class="demo">
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','jakarta_shopping_popup')">Jakarta</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
+</div>
+
+</div>
+
+
+
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
+
+</div>
+  
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
+
+
+
 </div>

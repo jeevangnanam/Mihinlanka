@@ -1,3 +1,8 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
 <div id="contentInner" style="background-image:url(/img/early-morning-view-kuwait.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Kuwait</h2>
@@ -8,7 +13,11 @@
 
 Located in the desert geographical region, Kuwait has a continental climate characterized by its dry hot long summer and short warm winter with occasional rainfalls. Dusty storms often occur during the summer months. The relative humidity increases and temperature sometimes reaches 50 °C under shadow. Despite its short period, winter in Kuwait is warm. However, during winter the temperature occasionally reaches 18 °C or even 0 °C. Winter rainfalls are irregular and vary in quantity from one year to another. For the autumn and spring seasons, they are distinguished by their short periods.
 <br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in dubai" /></div>
+  <div class='shoppingPlaces'>
+     <a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in gaya" />
+     </a>
+  </div>
 </div>
 
 <h2>The Scientific Center </h2>
@@ -61,5 +70,63 @@ Kuwait National Public Transport Company operates a nationwide service which is 
 Scheduled ferries to and from Iran are handled by Kuwait-Iran Shipping Company. The ferries go three times a week from Ash Shuwayk in Kuwait to Bushehr in Iran. Speedboats also go between Ash Shuwayk and Manama in Bahrain. 
 
   </p>
+ 
+ 
+ <div id="boxes">
+
+<div id="dialog" class="window">
+
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/kuwait_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+
+<div class="demo">
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','kuwait_shopping_popup')">Kuwait</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
+</div>
+
+</div>
+
+
+
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
+
+</div>
+  
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
+ 
   
 </div>

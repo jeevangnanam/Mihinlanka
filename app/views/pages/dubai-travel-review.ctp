@@ -1,3 +1,9 @@
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/ajaxtabs.js"></script>
+<script type="text/javascript" src="<?php echo $this->webroot;?>js/shopping_molls.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
+
+
 <div id="contentInner" style="background-image:url(/img/burj_dubai_hotel.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Dubai</h2>
@@ -7,10 +13,14 @@
   Climate<br>
 
 Dubai weather is generally hot and humid with a high daily average of sun hours. The Dubai weather is of course determined by its climate. The Dubai climate is an arid subtropical climate due to Dubai being located within the Northern desert belt. The skies over Dubai are generally completely blue with little cloud cover. Due to the Dubai weather and its blue skies, Dubai has become a popular destination for astronomers. The weather in Dubai can bring short and irregular rainfall as is typical for the Middle East. Most of the rainfall in Dubai occurs between December and March. The period between December and March is when the Dubai weather conditions are considered to be the best as the temperature cools down to a more comfortable level. The period between December and March each year is considered by the Dubai hotel and travel industry to be the tourism high season of Dubai. The weather in Dubai during the tourist high season is pleasant with average temperatures of around 24 degrees Celsius during daytime. 
-.<br>
-  <div class='shoppingPlaces'><img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in dubai" /></div>
+<br>
+  <div class='shoppingPlaces'>
+  	<a href="#dialog" name="modal" id="image_click" onclick="openPopUp();">
+      	<img src='/img/dest_reviews/shopping_places.png' alt="Shopping places in gaya" />
+     </a>
+  </div>
 </div>
-Attractions
+<!--Attractions-->
 <h2>Dubai Mall </h2>
 <p>
   <img src="/img/dest_reviews/Dubai-Mall-aquarium.jpg" alt="Dubai Aquarium"   align="left" width="432" height="345"/> Shopping in the biggest mall on earth can be quite amusing since they have one of the biggest aquariums in the world </p>
@@ -54,4 +64,63 @@ Attractions
    From the timeless tranquility of the desert to the lively bustle, Dubai does not only boast the best contemporary sightings but has also preserved some of the most intriguing historical attractions.
   </p>
   
+  
+<div id="boxes">
+
+<div id="dialog" class="window">
+
+<a href="#" class="close" /><?php echo $this->Html->image('close_button.png',array('width'=>'20'));?></a>
+
+<script type="text/javascript">
+   
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	
+	function openPopUp(){
+		 $('#tabs-1').load('/pages/gaya_shopping_popup/dubai_shopping_popup');
+	}
+	
+	function tabNavigation(tab,rPage){
+		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+	}
+</script>
+
+
+
+<div class="demo">
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','dubai_shopping_popup')">Dubai</a></li>
+<!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
+		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
+	</ul>
+	<div id="tabs-1">
+    
+	</div>
+	<div id="tabs-2">
+    
+    </div>
+	<div id="tabs-3">
+		
+	</div>
+</div>
+
+</div>
+
+
+
+<div class="demo-description" style="display: none; ">
+
+</div><!-- End demo-description -->
+
+</div>
+  
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
+
+
+
 </div>
