@@ -45,7 +45,7 @@ class PagesController extends AppController {
      * @var array
      * @access public
      */
-    var $helpers = array('Html', 'Javascript','Lightbox');
+    var $helpers = array('Html', 'Javascript','Lightbox','Ajax');
     /**
      * This controller does not use a model
      *
@@ -376,5 +376,14 @@ class PagesController extends AppController {
 	
 	}
 	
+	public function gaya_shopping_popup($rPage = null, $tab = null){
+		//$this->autoRender = false;
+		$this->layout = 'popup';
+		
+		$this->render($rPage);
+	}
+	//----------------------------------
+	
+	//----------------------------------
 	
 }
