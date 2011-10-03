@@ -36,8 +36,14 @@
 					{ 
 						 $files[$entry]=$entry;
 						 $s="/"; 
- echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'dubai'.$s.$entry, 
- array('alt' => $entry,'class' => 'image_pr','rel' => 'lightbox'));//,'onclick'=>'loadRealSize(this)'
+/* echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'dubai'.$s.$entry, 
+ array('alt' => $entry,'class' => 'image_pr','rel' => 'lightbox'));//,'onclick'=>'loadRealSize(this)'*/
+ 
+ 	echo "<a class=\"thumbnail\" href=\"#thumb\">";
+	echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'dubai'.$s.$entry, array('alt' => $entry,'class' => 'image_pr')) ;
+ 	echo "<span>"; 
+ 	echo $this->Html->image('dest_reviews'.$s.'places_for_shopping'.$s.'dubai'.$s.$entry,array('alt' => $entry,'class' => 'image_pr'));
+ 	echo "</span></a>";
 						
 					} 
 			} 

@@ -1,26 +1,5 @@
 <html>
 	<head>
-    	<style>
-		.image_pr{
-			width:100px;
-			height:100px;
-			border:solid #CCC 2px;
-			padding:2px;
-			
-		}
-		/*.image_pr:hover {
-			z-index:10000px;
-		    width:150px;
-			height:150px;
-		}*/
-		
-		</style>
-        <script type="text/javascript">
-		/*function loadRealSize(obj){
-			alert(obj);
-		}*/
-		
-		</script>
     </head>
 	<body>
 		<div style="width:100%;">
@@ -36,9 +15,13 @@
 					{ 
 						 $files[$entry]=$entry;
 						 $s="/"; 
- echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'gaya'.$s.$entry, 
- array('alt' => $entry,'class' => 'image_pr','rel' => 'lightbox'));//,'onclick'=>'loadRealSize(this)'
-						
+/* echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'gaya'.$s.$entry, 
+ array('alt' => $entry,'class' => 'image_pr','rel' => 'lightbox'));//,'onclick'=>'loadRealSize(this)'*/
+	echo "<a class=\"thumbnail\" href=\"#thumb\">";
+	echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'gaya'.$s.$entry, array('alt' => $entry,'class' => 'image_pr')) ;
+ 	echo "<span>"; 
+ 	echo $this->Html->image('dest_reviews'.$s.'places_for_shopping'.$s.'gaya'.$s.$entry,array('alt' => $entry,'class' => 'image_pr'));
+ 	echo "</span></a>";			
 					} 
 			} 
 
