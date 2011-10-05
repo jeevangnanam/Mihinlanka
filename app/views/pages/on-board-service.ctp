@@ -540,6 +540,16 @@
                                                 <p><?= __("KADALA TEMPERED WITH ONIONS, GREEN CHILLIES &amp; KARAPINCHA"); ?> <br />
                                                 <?= __("SEASONAL FRESH FRUITS"); ?> </p></td>
                                         </tr>
+                                        <tr>
+                                          <td align="left" valign="top"><img src="/app/webroot/img/onboard/kongee.jpg" alt="" width="101" height="100" /></td>
+                                          <td align="left" valign="top"><p><b>
+                                            <?= __("Choice"); ?>
+                                          </b>3<br />
+                                          <br />
+                                          <?= __("Vegetable kongee and fruit compote will be served only on Dhaka &amp; Jakarta flights"); ?>
+                                          <br />
+                                          </p></td>
+                                        </tr>
                                     </table>
                                     <div class="graybox">
                                         <div class="flightList">
@@ -554,9 +564,9 @@
                                                 
                                         </ol>
                                     </div>
-                                </div>
+                              </div>
                                 <p>&nbsp;</p>
-                            </div>
+                          </div>
                         </div></td>
                     </tr>
                 </table>

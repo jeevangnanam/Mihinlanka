@@ -13,10 +13,10 @@
                         <td width="40" ><?= __("From");?></td>
                         <td><select name="seldcity1" id="seldcity1" style="width:95px;"/>
                           <option value="CMB">Colombo-Sri Lanka (CMB)</option>    
-                          <option value="DXB">Dubai (DXB)</option>  
-                        
+                          <option value="DXB">Dubai (DXB)</option>                         
                           <option value="CGK">Jakarta (CGK)</option>  
-                          <option value="TRZ">Tiruchirapalli (TRZ)</option>                      
+                          <option value="TRZ">Tiruchirapalli (TRZ)</option>  
+                          <option value="SHJ">Sharjah(SHJ)</option>                     
                         
                         </select>
                         </td>
@@ -36,7 +36,8 @@
                           <option value="DXB">Dubai (DXB)</option>  
                           
                           <option value="CGK">Jakarta (CGK)</option>  
-                          <option value="TRZ">Tiruchirapalli (TRZ)</option>  
+                          <option value="TRZ">Tiruchirapalli (TRZ)</option> 
+                          <option value="SHJ">Sharjah(SHJ)</option>   
                         
                         </select>
                         </td>
@@ -125,10 +126,11 @@
                 <table  border="0" cellpadding="0" cellspacing="0" width="95%">
 
                     <tr>
-                        <td><input name="promocode" type="hidden" id="promocode" value="MJPROM6"/>
+                        <td>
                         </td>
                         <td align="right">
                             <input type="hidden"  value="2" id="rByPriceFlex" name="resultby"  />
+                            <input type="hidden"  value="MJPROM6" name="promocode" id="promocode" />
                           <input type="hidden" id="tid" name="tid" value="SB" />
                             <button style="width:75px;"  type="submit" id="searchFormSubmit"><img src="/img/search.png"   style="margin-top:2px;margin-bottom:1px;" alt="Search"/></button>
                         </td>

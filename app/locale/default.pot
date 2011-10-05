@@ -2353,3 +2353,5 @@ msgstr ""
 msgid "Debug setting does not allow access to this url."
 msgstr ""
 
+msgid  "Vegetable kongee and fruit compote will be served only on Dhaka &amp; Jakarta flights"
+msgstr ""

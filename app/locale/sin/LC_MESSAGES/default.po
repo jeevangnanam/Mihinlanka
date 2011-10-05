@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2011-07-27 13:54+0300\n"
-"PO-Revision-Date: 2011-08-29 13:35+0530\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2011-10-05 16:33+0530\n"
+"Last-Translator: cheran <cherankrish@gmail.com>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2335,14 +2335,6 @@ msgstr ".ukdka;fhka .ukdka;hg .uka fr.=,dis fjkia jk w;r wod&lt; rfgys wod&lt; n
 msgid "Travel Agents desc"
 msgstr "my; oelafjk wmf.a .uka ksfhdacs;hskaf.ka Tng leu;s wfhl= f;dardf.k Tyqf.a fyda wehf.a fiajh ,nd .ekSug Tng yelshdj we;"
 
-#: \views\pages\travelagents.ctp:9
-msgid "Travel Agents in"
-msgstr ".uka ksfhdacs;hka"
-
-#: \views\pages\travelagents.ctp:9
-msgid "Search the agents"
-msgstr ".uka ksfhdacs;hka fidhkak"
-
 #: \views\subscriptions\add.ctp:5
 #, fuzzy
 msgid "Be the first to know det more"
@@ -2369,9 +2361,17 @@ msgstr "wmf. ksfhdcs;fhal=Nd iusnkaojsug"
 msgid "Debug setting does not allow access to this url."
 msgstr ""
 
-#: \webroot\test.php:88
-msgid "Multiple destinations"
-msgstr "nyqjsO .ukdka;"
+msgid "Vegetable kongee and fruit compote will be served only on Dhaka &amp; Jakarta flights"
+msgstr "t,jZ: lE| iy m,;=re w;=remi vld iy clragdjg hk .=jkahdkj, muKla imhkq ,efns"
+
+#~ msgid "Travel Agents in"
+#~ msgstr ".uka ksfhdacs;hka"
+
+#~ msgid "Search the agents"
+#~ msgstr ".uka ksfhdacs;hka fidhkak"
+
+#~ msgid "Multiple destinations"
+#~ msgstr "nyqjsO .ukdka;"
 
 #~ msgid "Agent Login det.."
 #~ msgstr ""

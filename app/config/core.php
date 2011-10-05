@@ -360,7 +360,13 @@ Configure::write('cities', '
                 value: "CGK",
                 label: "Jakarta (CGK)"
 
-                }');
+                },
+                 {
+                value: "SHJ",
+                label: "Sharjah (SHJ)"
+
+                }'
+        );
 
 
 Configure::write('app.company.name','Mihin Lanka');
