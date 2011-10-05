@@ -1,0 +1,33 @@
+<html>
+	<head>
+    </head>
+	<body>
+		<div style="width:100%;">
+			<div>
+			<?php 
+			//$dirname=ROOT .DS.  'vendors' . DS; APP.'webroot'.DS. 'img' . DS. 
+			$dirname=APP.'webroot'.DS. 'img' . DS. 'dest_reviews' .DS .'places_for_shopping'.DS .'colombo'.DS ;//;
+			$dh= opendir($dirname); 
+			$files=array(); 
+			while (false !== ($entry= readdir($dh))) 
+			{ 
+					if ( $entry!= '..' && $entry!= '.') 
+					{ 
+						 $files[$entry]=$entry;
+						 $s="/"; 
+						 
+/* echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'colombo'.$s.$entry, 
+ array('alt' => $entry,'class' => 'image_pr'));//,'onclick'=>'loadRealSize(this)'*/
+			$description="Colombo";			
+	echo "<a class=\"thumbnail\" href=\"#thumb\">";
+	echo $this->Html->image('dest_reviews' .$s.'places_for_shopping'.$s.'colombo'.$s.$entry, array('alt' => $entry,'class' => 'image_pr')) ;
+ 	echo "<span>"; 
+ 	echo $this->Html->image('dest_reviews'.$s.'places_for_shopping'.$s.'colombo'.$s.$entry,array('alt' => $entry,'class' => 'image_pr'));
+ 	echo "$description</span></a>";
+					} 
+			} 
+
+?> 	
+		</div>
+	</body>
+</html>

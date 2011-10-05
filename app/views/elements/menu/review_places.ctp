@@ -6,24 +6,24 @@
     <td><a href="/pages/dubai_travel_review" title='Dubai destination review'>Dubai</a></td>
   </tr>
   <tr>
-    <td><a href="#">Gaya</a></td>
+    <td><a href="gaya_travel_review">Gaya</a></td>
   </tr>
   <tr>
-    <td><a href="#">Tiruchirapalli</a>  </td>
+    <td><a href="tiruchirapalli_travel_review">Tiruchirapalli</a>  </td>
   </tr>
   <tr>
-    <td><a href="#">Varanasi</a></td>
+    <td><a href="varanasi_travel_review">Varanasi</a></td>
   </tr>
   <tr>
-    <td><a href="#">Kuwait</a></td>
+    <td><a href="kuwait_travel_review">Kuwait</a></td>
   </tr>
   <tr>
-    <td><a href="#">Maldives</a></td>
+    <td><a href="maldives_travel_review">Maldives</a></td>
   </tr>
   <tr>
-    <td><a href="#">Dhaka</a></td>
+    <td><a href="dhaka_travel_review">Dhaka</a></td>
   </tr>
   <tr>
-    <td><a href="#">Jakarta</a></td>
+    <td><a href="jakarta_travel_review">Jakarta</a></td>
   </tr>
   </table>

@@ -45,7 +45,7 @@ class PagesController extends AppController {
      * @var array
      * @access public
      */
-    var $helpers = array('Html', 'Javascript');
+    var $helpers = array('Html', 'Javascript','Lightbox','Ajax');
     /**
      * This controller does not use a model
      *
@@ -315,14 +315,75 @@ class PagesController extends AppController {
 		
 		$this->layout = 'destination_reviews';
 		$this->render('srilanka-travel-review');
-		}
+		
+	}
 		
 		
 	function dubai_travel_review(){
 		
 	$this->layout = 'destination_reviews';
 	$this->render('dubai-travel-review');
+	
 	}
 	
+	function gaya_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('gaya-travel-review');
+	
+	}
+	
+	function varanasi_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('varanasi-travel-review');
+	
+	}
+	
+	
+	function kuwait_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('kuwait-travel-review');
+	
+	}
+	
+	function Tiruchirapalli_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('tiruchirapalli-travel-review');
+	
+	}
+	
+	function maldives_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('maldives-travel-review');
+	
+	} 
+	
+	function dhaka_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('dhaka-travel-review');
+	
+	}
+	
+	function jakarta_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('jakarta-travel-review');
+	
+	}
+	
+	public function gaya_shopping_popup($rPage = null, $tab = null){
+		//$this->autoRender = false;
+		$this->layout = 'popup';
+		
+		$this->render($rPage);
+	}
+	//----------------------------------
+	
+	//----------------------------------
 	
 }
