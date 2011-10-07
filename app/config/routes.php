@@ -94,7 +94,8 @@ Router::connect('/pages/kuwait_shopping_popup/*', array('controller' => 'pages',
 Router::connect('/pages/maldives_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/tiruchirapalli_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/varanasi_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
-
+Router::connect('/pages/mc_add/*', array('controller' => 'pages', 'action' => 'mc_add'));
+Router::connect('/pages/mc_remove/*', array('controller' => 'pages', 'action' => 'mc_remove'));
 
 
 Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));

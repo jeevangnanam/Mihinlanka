@@ -39,13 +39,21 @@ class PagesController extends AppController {
      * @access public
      */
     var $name = 'Pages';
+	//----------
+	/*
+	*component for mailchimp
+	*Added by lasantha
+	*/
+		var $components = array('MailchimpApi'); 
+		//var $helpers = array('Mailchimp'); 
     /**
      * Default helper
      *
      * @var array
      * @access public
      */
-    var $helpers = array('Html', 'Javascript','Lightbox','Ajax');
+	 
+    var $helpers = array('Html', 'Javascript','Lightbox','Ajax','Mailchimp');
     /**
      * This controller does not use a model
      *
@@ -382,8 +390,54 @@ class PagesController extends AppController {
 		
 		$this->render($rPage);
 	}
-	//----------------------------------
+	/*----------------------------------
+	*
+	*----------------------------------*/
+	function mc() { 
+    $lists = $this->MailchimpApi->lists(); 
+    $this->set('lists', $lists);  
+} 
+
+function mclist_view($id) { 
+    $lists = $this->MailchimpApi->listMembers($id); 
+    $this->set('id',$id); 
+    $this->set('lists', $lists);  
+} 
+
+function mc_remove($id="") { 
+	$user_email = $this->data['email']; 
+	//$id = $this->data['id'];
+	 $list_id = "35c3d713bc";
+    $remove = $this->MailchimpApi->remove($id,$user_email); 
 	
-	//----------------------------------
+    if($remove) { 
+        $this->Session->setFlash('Email successfully removed from your list.'); 
+    } else { 
+        $this->Session->setFlash('Oops, something went wrong.  Email was not removed from the list.'); 
+    } 
+    //   $this->redirect(array('action'=>'mclist_view', 'id'=> $id)); 
+} 
+
+
+	function mc_add($id="") { 
 	
+		if(!empty($this->data)) 
+			{ 
+			$first = $this->data['first']; 
+			$last = $this->data['last']; 
+			$email = $this->data['email']; 
+			$id = $this->data['id']; 
+			$add = $this->MailchimpApi->addMembers($id, $email, $first, $last); 
+			if($add) { 
+				$this->Session->setFlash('Successfully added user to your list.  They will not be reflected in your list until the user confirms their subscription.');
+			} else { 
+				$this->Session->setFlash('Oops, something went wrong.  Email was not added to your user.'); 
+			} 
+		   // $this->redirect(array('action'=>'mclist_view', 'id'=> $id)); 
+		} else { 
+	   // $this->set('id',$id); 
+		} 
+	} 
+	
+
 }
