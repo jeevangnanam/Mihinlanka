@@ -124,6 +124,12 @@ $tt++;
          $this->render('fifty-one');
 		
 		}
+		function standard_charted_one(){
+		//$this->set('bookingSmallDisabled' , false);
+		$this->set('banner', 'standard_charted.jpg');
+         $this->render('mihinlanka-standard-charted-one');
+		
+		}
 }
 
 

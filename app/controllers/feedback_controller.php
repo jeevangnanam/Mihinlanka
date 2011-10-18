@@ -16,6 +16,11 @@ class FeedbackController  extends AppController{
 	function display(){
 	}
 	
+	function _myfilter($string=''){
+		
+		return htmlentities(strip_tags(mysql_real_escape_string($string)));
+		
+		}
 	public function add(){
 		$this->layout = 'ajax';
 		$feilds="abt_you_title,";
@@ -120,110 +125,111 @@ class FeedbackController  extends AppController{
 		
 		$data="";
 		
-		$data.="'".$_POST['feedback_salutation_a']."',";
-		$data.="'".$_POST['feedback_aboutyou_firstname']."',";
-		$data.="'".$_POST['feedback_aboutyou_surname']."',";
-		$data.="'".$_POST['feedback_gender_a']."',";
-		$data.="'".$_POST['feedback_status_a']."',";
-		$data.="'".$_POST['feedback_nationality']."',";
-		$data.="'".$_POST['feedback_live']."',";
-		$data.="'".$_POST['feedback_age_a']."',";
-		$data.="'".$_POST['feedback_address']."',";
-		$data.="'".$_POST['feedback_tp_home']."',";
-		$data.="'".$_POST['feedback_tp_work']."',";
-		$data.="'".$_POST['feedback_tp_mobile']."',";
-		$data.="'".$_POST['feedback_email']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_salutation_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_aboutyou_firstname'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_aboutyou_surname'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_gender_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_status_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_nationality'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_live'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_age_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_address'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_tp_home'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_tp_work'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_tp_mobile'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_email'])."',";
 		
-		$data.="'".$_POST['feedback_flight_a1']."',";
-		$data.="'".$_POST['feedback_flight_a2']."',";
-		$data.="'".$_POST['feedback_flight_a3']."',";
-		$data.="'".$_POST['feedback_flight_a4']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_flight_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_flight_a2'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_flight_a3'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_flight_a4'])."',";
 		
-		$data.="'".$_POST['feedback_purpose_a']."',";
-		
-		
-		$data.="'".$_POST['feedback_price_a1']."',";
-		$data.="'".$_POST['feedback_spoffers_a1']."',";
-		$data.="'".$_POST['feedback_spoffers_reason']."',";
-		
-		$data.="'".$_POST['feedback_bagallowance_a1']."',";
-		$data.="'".$_POST['feedback_srv_a1']."',";
-		$data.="'".$_POST['feedback_exp_a']."',"; 		
-		$data.="'".$_POST['feedback_schedule_a1']."',";
-		$data.="'".$_POST['feedback_chose']."',";		
-		$data.="'".$_POST['feedback_recommendation_a1']."',";
-		$data.="'".$_POST['feedback_recommend']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_purpose_a'])."',";
 		
 		
+		$data.="'".$this->_myfilter($_POST['feedback_price_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_spoffers_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_spoffers_reason'])."',";
 		
-		$data.="'".$_POST['feedback_toffer_a']."',";
-		$data.="'".$_POST['feedback_tagent']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_bagallowance_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_srv_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_exp_a'])."',"; 		
+		$data.="'".$this->_myfilter($_POST['feedback_schedule_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_chose'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_recommendation_a1'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_recommend'])."',";
 		
-		$data.="'".$_POST['feedback_accessibility_a']."',";		
-		$data.="'".$_POST['feedback_service_a']."',";
-		$data.="'".$_POST['feedback_courtesy_a']."',";		
-		$data.="'".$_POST['feedback_otime_a']."',";
 		
-		$data.="'".$_POST['feedback_navigation_a']."',";
-		$data.="'".$_POST['feedback_booking_a']."',";		
-		$data.="'".$_POST['feedback_information_a']."',";		
-		$data.="'".$_POST['feedback_feel_a']."',";
 		
-		$data.="'".$_POST['feedback_friendliness_a']."',";
-		$data.="'".$_POST['feedback_ttakentoanswer_a']."',";
-		$data.="'".$_POST['feedback_attoyourquery_a']."',";		
-		$data.="'".$_POST['feedback_callcentre_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_toffer_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_tagent'])."',";
 		
-		$data.="'".$_POST['feedback_oexppurmihinticket_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_accessibility_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_service_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_courtesy_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_otime_a'])."',";
 		
-		$data.="'".$_POST['feedback_queuingtime_a']."',";
-		$data.="'".$_POST['feedback_processingtime_a']."',";		
-		$data.="'".$_POST['feedback_staffefficiency_a']."',";
-		$data.="'".$_POST['feedback_staffch_a']."',";
-		$data.="'".$_POST['feedback_claritystaffcom_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_navigation_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_booking_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_information_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_feel_a'])."',";
 		
-		$data.="'".$_POST['feedback_gtqueuingtime_a']."',";
-		$data.="'".$_POST['feedback_sboardinggate_a']."',";
-		$data.="'".$_POST['feedback_staffeff_a']."',";
-		$data.="'".$_POST['feedback_cofstaffcom_a']."',";
-		$data.="'".$_POST['feedback_cofstannouncement_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_friendliness_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_ttakentoanswer_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_attoyourquery_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_callcentre_a'])."',";
 		
-		$data.="'".$_POST['feedback_punctuality_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_oexppurmihinticket_a'])."',";
 		
-		$data.="'".$_POST['feedback_receiptofbaggage_a']."',";
-		$data.="'".$_POST['feedback_onboardstaffefficiency_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_queuingtime_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_processingtime_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_staffefficiency_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_staffch_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_claritystaffcom_a'])."',";
 		
-		$data.="'".$_POST['feedback_oexpatairport_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_gtqueuingtime_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_sboardinggate_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_staffeff_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_cofstaffcom_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_cofstannouncement_a'])."',";
 		
-		$data.="'".$_POST['feedback_obabtcabinamb_a']."',";
-		$data.="'".$_POST['feedback_obabttemp_a']."',";
-		$data.="'".$_POST['feedback_obabtlighting_a']."',";
-		$data.="'".$_POST['feedback_obabtwcs_a']."',";		
-		$data.="'".$_POST['feedback_obabtlc_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_punctuality_a'])."',";
 		
-		$data.="'".$_POST['feedback_obabtgreetwel_a']."',";
-		$data.="'".$_POST['feedback_obabtcofan_a']."',";
-		$data.="'".$_POST['feedback_obabtapg_a']."',";
-		$data.="'".$_POST['feedback_obabtcourtesyhelpfull_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_receiptofbaggage_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_onboardstaffefficiency_a'])."',";
 		
-		$data.="'".$_POST['feedback_ofmealquality_a']."',";
-		$data.="'".$_POST['feedback_ofmealsection_a']."',";
-		$data.="'".$_POST['feedback_ofbeverage_a']."',";
-		$data.="'".$_POST['feedback_ofpbeverage_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_oexpatairport_a'])."',";
 		
-		$data.="'".$_POST['feedback_dfsection_a']."',";
-		$data.="'".$_POST['feedback_dfpofitem_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtcabinamb_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabttemp_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtlighting_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtwcs_a'])."',";		
+		$data.="'".$this->_myfilter($_POST['feedback_obabtlc_a'])."',";
 		
-		$data.="'".$_POST['feedback_ahasalf_a']."',";
-		$data.="'".$_POST['feedback_ahasaeditorial_a']."',";
-		$data.="'".$_POST['feedback_ahasainfopages_a']."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtgreetwel_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtcofan_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtapg_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_obabtcourtesyhelpfull_a'])."',";
 		
-		$data.="'".$_POST['feedback_ovronboardexp_a']."',";
-		$data.="'".$_POST['feedback_recommend']."',";
-		$data.="'".$_POST['feedback_rec']."'";/**/
+		$data.="'".$this->_myfilter($_POST['feedback_ofmealquality_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_ofmealsection_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_ofbeverage_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_ofpbeverage_a'])."',";
+		
+		$data.="'".$this->_myfilter($_POST['feedback_dfsection_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_dfpofitem_a'])."',";
+		
+		$data.="'".$this->_myfilter($_POST['feedback_ahasalf_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_ahasaeditorial_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_ahasainfopages_a'])."',";
+		
+		$data.="'".$this->_myfilter($_POST['feedback_ovronboardexp_a'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_recommend'])."',";
+		$data.="'".$this->_myfilter($_POST['feedback_rec'])."'";/**/
 		
 		$queryString="insert into feedbacks($feilds) values($data,now())";
 		if($this->Feedback->query($queryString)){
+			$this->Session->write('done',$this->_myfilter($_POST['feedback_email']));
 			echo "1";
 		}
 		else{

@@ -17,4 +17,6 @@
 <file name="subscription.php" server="v2.mihinlanka.com" local="129517650592810000" remote="129551730000000000" />
 <file name="lowfair_search.php" server="v2.mihinlanka.com" local="129555337659375000" remote="129556882200000000" />
 <file name="payment.php" server="v2.mihinlanka.com" local="129573762290625000" remote="129573973800000000" />
+<file name="feedback.php" server="v2.mihinlanka.com" local="129615034729718347" remote="129633567000000000" />
+<file name="unsubscription.php" server="v2.mihinlanka.com" local="129633966531362173" remote="129633567000000000" />
 </dwsync>

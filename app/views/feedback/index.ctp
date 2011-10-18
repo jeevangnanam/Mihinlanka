@@ -4,7 +4,8 @@
 <div id="fb_page1">
 <div class="fb-banner"></div>
 <div class="msg">
-<p>&nbsp;</p>
+<p><a href="<?= Configure::read('app.full_url_with_http'); ?>" style="text-decoration:none;color: #4996AD">&nbsp;&lt;&lt; Home</a>&nbsp;</p>
+<br /><br />
 <p>Dear Passenger,</p>
 <p>&nbsp;</p>
 <p>Thank you and welcome aboard. In order for us to continually improve our service
@@ -40,7 +41,7 @@ applicable" column.</p>
 </div>
 <div id="container">
 	
-	<div class="clearFbDiv">&nbsp;</div>
+	<div class="clearFbDiv"></div>
 	<div id="fb_page4">
 		<div class="fb_topic">
 			<div class="imgContainer" align="right"><img src="../img/imgAboutu.jpg"  /></div>
@@ -1099,4 +1100,8 @@ If you like it feel free to take one home!</div>
 <div class="clearFbDiv"></div>
 <div align="center"><span id="errmsg"></span></div>			
 <div class="clearFbDiv"></div>
-<div align="center"><input type="submit" value="Submit your feedback!" id="btnSubmit" class="btns" onclick="savefeedback();"></div>
+<div align="right" style="margin-right:100px">
+<br /><br /><br /><br />
+<input type="submit" value="Submit your feedback!" id="btnSubmit" class="btns" onclick="savefeedback();" style='height:35px; background-color: #4996AD;font-weight:bold;color:white'></div>
+
+<br /><br />
