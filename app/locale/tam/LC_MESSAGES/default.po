@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2011-07-27 13:54+0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: cheran <cherankrish@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2439,9 +2439,11 @@ msgstr ""
 msgid "Debug setting does not allow access to this url."
 msgstr ""
 
-#: \webroot\test.php:88
-msgid "Multiple destinations"
-msgstr "பலஇடங்கள் பயணிக்க"
+msgid "Vegetable kongee and fruit compote will be served only on Dhaka &amp; Jakarta flights"
+msgstr "மரக்கறிக்கஞ்சி மற்றும் பழச்சாறு டாக்கா மற்றும் ஜக்காட்டா பயணங்களின்போதுமட்டும் பரிமாறப்படும்."
+
+#~ msgid "Multiple destinations"
+#~ msgstr "பலஇடங்கள் பயணிக்க"
 
 #~ msgid "Tea & Coffee is served on request."
 #~ msgstr "பிராயணிகள் கோரினால் தேனீரும், கொப்பியும் வழங்கப்படும்"

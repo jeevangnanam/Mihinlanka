@@ -22,6 +22,8 @@ $(function() {
 
     $(document).ready(function() {
 
+
+$('#promocode').val('MJPROM6');
     $('#ui-datepicker-div').hide();
 
     
@@ -83,12 +85,13 @@ In order to enjoy the promotion enter the promotional code MJPROM6 when booking 
 <div class="section"><br>
  
   <ol>
-    <li>Offer is valid only for online purchases made using the  promotional code MJPROM6</li>
-    <li>Valid only for bookings made before 15th October  2011</li>
-    <li>Travel commencement should fall within 1st  February 2012 and 31st March 2012 with no restriction for the return  date</li>
-    <li>Offer is valid only between Colombo, Dubai, Jakarta and  Trichy (Eligible for One Way, Return and Connection tickets)</li>
-    <li>Non-refundable and date changes are not permitted</li>
-    <li>The general credit card terms and conditions will continue to  apply</li>
+    <li>Offer is valid only for online purchases made using the  promotional code MJPROM6.</li>
+    <li>Valid only for bookings made before 15th October  2011.</li>
+    <li>Travel commencement should fall within 1st  February 2012 and 31st March 2012 with no restriction for the return  date.</li>
+    <li>Offer is valid only between Colombo, Dubai, Jakarta and  Trichy (Eligible for One Way, Return and Connection tickets).</li>
+    <li>Non-refundable.</li>
+    <li>Date change fare conditions not applicable and date changes not permitted. </li>
+    <li>The general credit card terms and conditions will continue to  apply.</li>
   </ol>
 </div>
 </div>
