@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="mcapi_apikeyAdd.php" server="v2.mihinlanka.com" local="129633966531762196" remote="129633568200000000" />
+<file name="mcapi_apikeyExpire.php" server="v2.mihinlanka.com" local="129633966531782197" remote="129633568800000000" />
+<file name="mcapi_campaignAbuseReports.php" server="v2.mihinlanka.com" local="129633966531812199" remote="129633568800000000" />
+<file name="mcapi_campaignAdvice.php" server="v2.mihinlanka.com" local="129633966531832200" remote="129633568800000000" />
+<file name="mcapi_campaignAnalytics.php" server="v2.mihinlanka.com" local="129633966532082214" remote="129633568800000000" />
+<file name="mcapi_campaignBounceMessages.php" server="v2.mihinlanka.com" local="129633966532102215" remote="129633568800000000" />
+<file name="mcapi_campaignClickStats.php" server="v2.mihinlanka.com" local="129633966532122216" remote="129633568800000000" />
+<file name="mcapi_campaignCreate.php" server="v2.mihinlanka.com" local="129633966532152218" remote="129633568800000000" />
+<file name="mcapi_campaignDelete.php" server="v2.mihinlanka.com" local="129633966532172219" remote="129633568800000000" />
+<file name="mcapi_campaignEmailStatsAIMAll.php" server="v2.mihinlanka.com" local="129633966532222222" remote="129633568800000000" />
+<file name="mcapi_campaignReplicate.php" server="v2.mihinlanka.com" local="129633966532242223" remote="129633568800000000" />
+<file name="mcapi_campaigns.php" server="v2.mihinlanka.com" local="129633966532432234" remote="129633568800000000" />
+<file name="mcapi_campaignSchedule.php" server="v2.mihinlanka.com" local="129633966532262224" remote="129633568800000000" />
+<file name="mcapi_campaignSendNow.php" server="v2.mihinlanka.com" local="129633966532302227" remote="129633568800000000" />
+<file name="mcapi_campaignSendTest.php" server="v2.mihinlanka.com" local="129633966532322228" remote="129633568800000000" />
+<file name="mcapi_campaignStats.php" server="v2.mihinlanka.com" local="129633966532342229" remote="129633568800000000" />
+<file name="mcapi_campaignUnschedule.php" server="v2.mihinlanka.com" local="129633966532362230" remote="129633568800000000" />
+<file name="mcapi_campaignUpdate.php" server="v2.mihinlanka.com" local="129633966532382231" remote="129633568800000000" />
+<file name="mcapi_campaignUpdateAB.php" server="v2.mihinlanka.com" local="129633966532402233" remote="129633568800000000" />
+<file name="mcapi_folderAdd.php" server="v2.mihinlanka.com" local="129633966532442235" remote="129633568800000000" />
+<file name="mcapi_folders.php" server="v2.mihinlanka.com" local="129633966532462236" remote="129633568800000000" />
+<file name="mcapi_listAbuseReports.php" server="v2.mihinlanka.com" local="129633966532482237" remote="129633568800000000" />
+<file name="mcapi_listBatchSubscribe.php" server="v2.mihinlanka.com" local="129633966532502238" remote="129633568800000000" />
+<file name="mcapi_listBatchUnsubscribe.php" server="v2.mihinlanka.com" local="129633966532522239" remote="129633568800000000" />
+<file name="mcapi_listGrowthHistory.php" server="v2.mihinlanka.com" local="129633966532552241" remote="129633568800000000" />
+<file name="mcapi_listMemberInfo.php" server="v2.mihinlanka.com" local="129633966532572242" remote="129633568800000000" />
+<file name="mcapi_listMembers.php" server="v2.mihinlanka.com" local="129633966532602244" remote="129633568800000000" />
+<file name="mcapi_lists.php" server="v2.mihinlanka.com" local="129633966532702250" remote="129633568800000000" />
+<file name="mcapi_listSubscribe.php" server="v2.mihinlanka.com" local="129633966532632246" remote="129633568800000000" />
+<file name="mcapi_listUnsubscribe.php" server="v2.mihinlanka.com" local="129633966532662247" remote="129633569400000000" />
+<file name="mcapi_listUpdateMember.php" server="v2.mihinlanka.com" local="129633966532682249" remote="129633569400000000" />
+<file name="mcapi_templates.php" server="v2.mihinlanka.com" local="129633966532722251" remote="129633569400000000" />
+</dwsync>
