@@ -3,11 +3,11 @@
 <link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
 
-<div id="contentInner" style="background-image:url(/img/burj_dubai_hotel.jpg);background-repeat:no-repeat">
+<div id="contentInner" style="background-image:url(/img/mahabodhitemple.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Gaya</h2>
 <div class='formatme'>
-  <img src="/img/dest_reviews/Dubai-Wallpapr.jpg" alt="burj dubai" width="432" height="345" align="left" />
+  <img src="/img/dest_reviews/mahabodhitemple.jpg" alt="burj dubai" width="432" height="345" align="left" />
   Gaya is 100 kilometers south of Patna, the capital city of Bihar. Situated on the banks of Falgu River, it is a place sanctified by both the Hindu and the Buddhist religions. It is surrounded by small rocky hills by three sides and the river flowing on the eastern side. The city has a mix of natural surroundings, age old buildings and narrow by lanes .It is also the headquarters of Gaya District. 
   <br>
   
@@ -56,7 +56,7 @@ Mahabodhi Temple is the main attraction of Gaya and it is also an architectural 
 
 <h2>Bodhi Tree </h2>
 <p> 
-  <img src="/img/dest_reviews/Dubai-Museum.jpg" alt="Dubai National Museum" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/Bodhgaya_bo_tree.jpg" alt="Dubai National Museum" align="left" width="432" height="345" />
   </p>
 <p>
 At the rear side of the temple in the west direction, the huge Bodhi tree grows out of an expansive base. A historic tree, the Bodhi tree nowadays attracts the scholars and mediators. It is believed that Shakyamuni Buddha or Gautama, attained enlightenment some 2500 years ago by sitting under this tree. Original tree was destroyed by Ashoka before his conversion to the faith, later its offshoots were nurtured at Anuradhapura in Sri Lanka, and a sapling was brought back and replanted here. Buddhist pilgrims tie coloured thread to its branches, decorated by prayer flags, while the Tibetans fulfill their rituals by making long lines of butter lamps.

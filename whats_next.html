@@ -1,0 +1,118 @@
+<div style="height:auto; width:520px;background-image:url(http://www.loooops.com/fbapps/pizzahut/images/fb_games_pasta_bg.jpg);background-repeat:repeat-y;">
+<div style="clear:both"></div>
+<div style="height:50px;width:510px;" align="center">
+<span style="color:#FFF;">
+<h3>What Happens Next?</h3>
+</span>
+</div>
+<div>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="320" height="240" id="player1" align="middle">
+<param name="movie" value="EDIT9-MPEG-1.swf"/>
+<param name="menu" value="false"/>
+<param name="quality" value="high"/>
+<param name="bgcolor" value="#FFFFFF"/>
+<noscript><a href="http://www.dvdvideosoft.com">free software</a></noscript>
+<embed src="EDIT9-MPEG-1.swf" menu="false" quality="high" bgcolor="#FFFFFF" width="320" height="240" name="player" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"/>
+</object> 
+</div>
+</div>
+
+<script>
+<!--
+
+function clearFormFields(){
+		 
+	 	document.getElementById('entry_0').setValue(''); 
+		document.getElementById('entry_1').setValue(''); 
+		document.getElementById('entry_2').setValue(''); 
+		document.getElementById('entry_3').setValue(''); 
+
+ }
+var q1 = document.getElementById('entry_0'); 
+var name = document.getElementById('entry_1'); 
+var email = document.getElementById('entry_2'); 
+var tp = document.getElementById('entry_3'); 
+
+
+
+var sb = document.getElementById("sb");
+
+
+function checkForm(form) { 
+ 	if (name.getValue() == "" || email.getValue() == ""){
+
+		 (new Dialog()).showMessage('Error', 'Required Field cannot be empty.');
+         return false;
+    }
+ 	else if (!checkValidity(email.getValue())) {
+
+		 (new Dialog()).showMessage('Error', 'Please enter a valid email address.');
+         return false;
+		 
+    } 
+    else {
+
+		return submitAJAXForm(sb); // function that submits the form
+		
+    }
+}
+
+function checkValidity(e) {
+ 
+  var email;
+  email = /^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/;
+  return e.match(email);
+}
+	
+function submitAJAXForm(sub) 
+{
+	sub.setDisabled(true);	
+	sub.setValue(".. Sending ..");	
+	
+ 	
+ 
+	var ajax = new Ajax(); 
+	ajax.responseType = Ajax.FBML;
+ 	ajax.requireLogin = false;
+
+	
+	ajax.ondone = function(data) 
+	{ 
+	    sub.setDisabled(false);	
+		sub.setValue("Submit");	
+
+		clearFormFields();
+		(new Dialog()).showMessage('Confirmation', 'Thank you. Your answer has been submitted successfully!.');
+		return false;
+ 
+	}
+	
+	  /*  sub.setDisabled(false);	
+		sub.setValue("Submit");
+		clearFormFields();
+       (new Dialog()).showMessage('Confirmation', 'Thank you. Your answer has been submitted successfully!.');*/
+	    ajax.onerror = function() {
+
+		//(new Dialog()).showMessage('Error', 'An error has occurred while trying to submit.');
+		//sub.setDisabled(false);	
+		//sub.setValue("Submit");
+		return false;
+	}
+ 
+	// collect field values
+	var queryParams = { 
+		'entry.0.single' : document.getElementById('entry_0').getValue(), //a1
+		'entry.1.single' : document.getElementById('entry_1').getValue(),//fname
+		'entry.2.single' : document.getElementById('entry_2').getValue(),//email
+		'entry.3.single' : document.getElementById('entry_3').getValue()//tp
+		
+	};
+	ajax.post('https://docs.google.com/spreadsheet/formResponse?formkey=dHJmWjl6Zm5uY2ZUZlVHU29NQy1vOXc6MQ&amp;ifq', queryParams);	
+		setTimeout('',5000);
+		clearFormFields();
+		(new Dialog()).showMessage('Confirmation', 'Thank you. Your answer has been submitted successfully!.');
+		sub.setDisabled(false);	
+		sub.setValue("Submit");
+	return false;
+}
+</script>
