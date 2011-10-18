@@ -433,7 +433,8 @@ function mc_remove($id="") {
 			$first = $this->data['first']; 
 			$last = $this->data['last']; 
 			$email = $this->data['email']; 
-			$id = $this->data['id']; 
+			//$id = $this->data['id']; 
+			$id = "73f23d0155";
 			$add = $this->MailchimpApi->addMembers($id, $email, $first, $last); 
 			if($add) { 
 				$this->Session->setFlash('Successfully added user to your list.  They will not be reflected in your list until the user confirms their subscription.');

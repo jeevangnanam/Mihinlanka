@@ -19,7 +19,7 @@ class MailchimpApiComponent extends Object {
      
 //Other vars 
   // var $apiUrl = 'http://api.mailchimp.com/1.1/'; 
-   var $_apiKey = '8712fe93b3e1176926b0478e6c91ff51-us2';   
+   var $_apiKey = 'ac0e2ebb9d47ab404e0e1390ec973866-us1';   
 
 
 ///*************LISTS********************************************************/ 
@@ -85,7 +85,7 @@ Example:
   $this->redirect(array('action'=>'mclist_view', 'id'=> $id)); 
     */ 
 //$list_id,
-function addMembers($title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id) { 
+function addMembers($list_id,$title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id) { 
         $api = $this->_credentials(); 
       //  $merge_vars = array('FIRST'=> $first, 'LAST'=> $last); 
 		//$merge_vars = array('FTITLE'=>$title,'FNAME'=> $fullname, 'ADDRESS'=> $address,'PHONE'=>$phone_resident,'POFFICE'=>$phone_office,'COUNTRY'=>$country_id); 
@@ -94,7 +94,7 @@ function addMembers($title,$fullname,$address,$phone_resident,$phone_office, $em
         if(empty($merge_vars)) { 
             $merge_vars = array(''); 
         } 
-        $list_id = "22668373e5";
+        //$list_id = "22668373e5";
        
         $retval = $api->listSubscribe($list_id,$email,$merge_vars ); 
         if (!$retval){ 
