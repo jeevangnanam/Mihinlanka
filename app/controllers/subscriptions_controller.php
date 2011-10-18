@@ -53,6 +53,7 @@ class SubscriptionsController extends AppController {
 			$country_id = $this->data['Subscription']['country_id'];	
 			//$id = $this->data['id']; $id,
 			$id = "73f23d0155";//mihin lanka
+			//$id="22668373e5";//my list id
 			$add = $this->MailchimpApi->addMembers($id,$title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id); 
 			if($add) { 
 				//$this->Session->setFlash('Successfully added user to your list.  They will not be reflected in your list until the user confirms their subscription.');
