@@ -83,7 +83,7 @@ Router::connect('/pages/kuwait_travel_review/*', array('controller' => 'pages', 
 Router::connect('/pages/maldives_travel_review/*', array('controller' => 'pages', 'action' => 'maldives_travel_review'));
 Router::connect('/pages/dhaka_travel_review/*', array('controller' => 'pages', 'action' => 'dhaka_travel_review'));
 Router::connect('/pages/jakarta_travel_review/*', array('controller' => 'pages', 'action' => 'jakarta_travel_review'));
-
+Router::connect('/pages/shajah_travel_review/*', array('controller' => 'pages', 'action' => 'shajah_travel_review'));
 
 Router::connect('/pages/gaya_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/srilanka_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
@@ -94,6 +94,8 @@ Router::connect('/pages/kuwait_shopping_popup/*', array('controller' => 'pages',
 Router::connect('/pages/maldives_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/tiruchirapalli_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/varanasi_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
+Router::connect('/pages/shajah_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
+
 Router::connect('/pages/mc_add/*', array('controller' => 'pages', 'action' => 'mc_add'));
 Router::connect('/pages/mc_remove/*', array('controller' => 'pages', 'action' => 'mc_remove'));
 

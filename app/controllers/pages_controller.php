@@ -384,6 +384,13 @@ class PagesController extends AppController {
 	
 	}
 	
+	function shajah_travel_review(){
+		
+	$this->layout = 'destination_reviews';
+	$this->render('shajah-travel-review');
+	
+	}
+	
 	public function gaya_shopping_popup($rPage = null, $tab = null){
 		//$this->autoRender = false;
 		$this->layout = 'popup';

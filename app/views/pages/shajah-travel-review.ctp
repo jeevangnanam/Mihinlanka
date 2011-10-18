@@ -93,11 +93,11 @@ The neighboring (more sedate) emirate of Sharjah is definitely worth a visit for
 	});
 	
 	function openPopUp(){
-		 $('#tabs-1').load('/pages/gaya_shopping_popup/');
+		 $('#tabs-1').load('/pages/shajah_shopping_popup/');
 	}
 	
 	function tabNavigation(tab,rPage){
-		$('#'+tab).load('/pages/gaya_shopping_popup/'+rPage);
+		$('#'+tab).load('/pages/shajah_shopping_popup/'+rPage);
 	}
 </script>
 
@@ -107,7 +107,7 @@ The neighboring (more sedate) emirate of Sharjah is definitely worth a visit for
 
 <div id="tabs">
 	<ul>
-		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','tiruchirapalli_shopping_popup')">Tiruchirapalli</a></li>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','shajah_shopping_popup')">Tiruchirapalli</a></li>
 <!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
 		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
 	</ul>
