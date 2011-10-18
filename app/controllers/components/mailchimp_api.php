@@ -19,7 +19,9 @@ class MailchimpApiComponent extends Object {
      
 //Other vars 
   // var $apiUrl = 'http://api.mailchimp.com/1.1/'; 
-   var $_apiKey = 'ac0e2ebb9d47ab404e0e1390ec973866-us1';   
+   var $_apiKey = 'ac0e2ebb9d47ab404e0e1390ec973866-us1';  //mihin
+   //var $_apiKey = '8712fe93b3e1176926b0478e6c91ff51-us2';  //local
+  
 
 
 ///*************LISTS********************************************************/ 
@@ -89,7 +91,18 @@ function addMembers($list_id,$title,$fullname,$address,$phone_resident,$phone_of
         $api = $this->_credentials(); 
       //  $merge_vars = array('FIRST'=> $first, 'LAST'=> $last); 
 		//$merge_vars = array('FTITLE'=>$title,'FNAME'=> $fullname, 'ADDRESS'=> $address,'PHONE'=>$phone_resident,'POFFICE'=>$phone_office,'COUNTRY'=>$country_id); 
-		$fullname=split(" ",$fullname);
+		$fullname=explode(" ",$fullname);
+		$lName=$fName="";
+		if(count($fullname) > 1){
+			for($i=1;$i<count($fullname);$i++){
+				$lName.=$fullname[$i]." ";
+				$fName=$fullname[0];
+			}
+		}
+		else{
+			$fName=$fullname[0];
+		}
+		
 		$merge_vars = array('FNAME'=> $fullname[0],'LNAME'=> $fullname[1]); 
         if(empty($merge_vars)) { 
             $merge_vars = array(''); 
