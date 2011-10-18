@@ -84,11 +84,13 @@ Example:
     } 
   $this->redirect(array('action'=>'mclist_view', 'id'=> $id)); 
     */ 
-
-function addMembers($list_id,$title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id) { 
+//$list_id,
+function addMembers($title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id) { 
         $api = $this->_credentials(); 
       //  $merge_vars = array('FIRST'=> $first, 'LAST'=> $last); 
-		$merge_vars = array('FTITLE'=>$title,'FNAME'=> $fullname, 'ADDRESS'=> $address,'PHONE'=>$phone_resident,'POFFICE'=>$phone_office,'COUNTRY'=>$country_id); 
+		//$merge_vars = array('FTITLE'=>$title,'FNAME'=> $fullname, 'ADDRESS'=> $address,'PHONE'=>$phone_resident,'POFFICE'=>$phone_office,'COUNTRY'=>$country_id); 
+		$fullname=split(" ",$fullname);
+		$merge_vars = array('FNAME'=> $fullname[0],'LNAME'=> $fullname[1]); 
         if(empty($merge_vars)) { 
             $merge_vars = array(''); 
         } 

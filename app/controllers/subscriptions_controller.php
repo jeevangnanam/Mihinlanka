@@ -30,7 +30,7 @@ class SubscriptionsController extends AppController {
 		}
 	function add() {
 		
-		/*$this->set('title_for_layout',"Subscribe for new updates");
+		$this->set('title_for_layout',"Subscribe for new updates");
 		
         $this->set('banner', 'subscribe.jpg');
 		uses('sanitize');
@@ -40,16 +40,8 @@ class SubscriptionsController extends AppController {
 			$this->Subscription->create();
 			if ($this->Subscription->save($this->data)) {
 				$this->Session->setFlash(__('The subscription has been saved', true));
-				$this->redirect(array('action' => 'thankyou'));
-			} else {
-				$this->Session->setFlash(__('The subscription could not be saved. Please, try again.', true));
-			}
-		}
-		$countries = $this->Subscription->Country->find('list');
-		$this->set(compact('countries'));*/
-		
-		
-		if(!empty($this->data)) 
+			//=====================================================================
+			if(!empty($this->data)) 
 			{ 
 		
 			$title = $this->data['Subscription']['title'];  
@@ -59,13 +51,12 @@ class SubscriptionsController extends AppController {
 			$phone_office = $this->data['Subscription']['phone_office'];
 			$email = $this->data['Subscription']['email']; 
 			$country_id = $this->data['Subscription']['country_id'];	
-			$id = $this->data['id']; 
-			
-			$add = $this->MailchimpApi->addMembers($id,$title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id); 
+			//$id = $this->data['id']; $id,
+			$add = $this->MailchimpApi->addMembers($title,$fullname,$address,$phone_resident,$phone_office, $email,$country_id); 
 			if($add) { 
-				$this->Session->setFlash('Successfully added user to your list.  They will not be reflected in your list until the user confirms their subscription.');
+				//$this->Session->setFlash('Successfully added user to your list.  They will not be reflected in your list until the user confirms their subscription.');
 			} else { 
-				$this->Session->setFlash('Oops, something went wrong.  Email was not added to your user.'); 
+				//$this->Session->setFlash('Oops, something went wrong.  Email was not added to your user.'); 
 			} 
 		   // $this->redirect(array('action'=>'mclist_view', 'id'=> $id)); 
 		} else { 
@@ -73,6 +64,18 @@ class SubscriptionsController extends AppController {
 		} 
 		$countries = $this->Subscription->Country->find('list');
 		$this->set(compact('countries'));
+				
+				//=====================================================================
+				$this->redirect(array('action' => 'thankyou'));
+			} else {
+				$this->Session->setFlash(__('The subscription could not be saved. Please, try again.', true));
+			}
+		}
+		$countries = $this->Subscription->Country->find('list');
+		$this->set(compact('countries'));
+		
+		
+		
 	}
 
 	/*function edit($id = null) {

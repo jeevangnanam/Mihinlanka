@@ -3,11 +3,11 @@
 <link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
 
-<div id="contentInner" style="background-image:url(/img/burj_dubai_hotel.jpg);background-repeat:no-repeat">
+<div id="contentInner" style="background-image:url(/img/mosque-sharjah.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Shajah</h2>
 <div class='formatme'>
-  <img src="/img/dest_reviews/Dubai-Wallpapr.jpg" alt="burj dubai" width="432" height="345" align="left" /><br>
+  <img src="/img/dest_reviews/sharjah.jpg" alt="sharjah" width="432" height="345" align="left" /><br>
  <p> Sharjah the city is increasingly populated by people who work in Dubai but can't afford to live there. However, this is far from being a dormitory town. Sharjah city is to be found inside the emirate of the same name, and it's fairly easy to get to from Dubai. It is about a fifteen-minute drive, unless you hit traffic. (To avoid this, don't travel between 5pm and 7pm or at lunchtime.) You can get a taxi or a minibus from Dubai, but there are no minibuses on the return route, so you will have to get a taxi back. </p><p>
 This city is known for its cultural attractions, and with good reason. The Heritage Area of the city features buildings built from traditional materials, to traditional designs. This area is home to the Islamic museum, which contains coins, handwritten Korans and other Arabic treasures. Admission is free, and it's well worth a look. Near Cultural Square, you will find the Archaeological Museum, which is also free to enter. This includes reconstructions of houses. Each of its five galleries covers a different era of the emirate's documentable past. </p>
   Climate<br>
@@ -22,7 +22,7 @@ This city is known for its cultural attractions, and with good reason. The Herit
 <!--Attractions-->
 <h2>The Central Market</h2>
 <p>
-  <img src="/img/dest_reviews/Dubai-Mall-aquarium.jpg" alt="Dubai Aquarium"   align="left" />  </p>
+  <img src="/img/dest_reviews/centralmarket.jpg" alt="Shajah Central Market"   width="432" height="345" align="left" />  </p>
 <p>The Central Market or Blue Souq, as it is also known because of the lovely blue tiles on the outside walls, is the largest market in Sharjah. The Blue Souq is one of Sharjah's most famous landmarks with its unique Islamic design. It is located on the Khaled Lagoon with over 600 shops.
 </p>
 <p>
@@ -36,7 +36,7 @@ The upper floors are popular with tourists because the atmosphere is that of a r
 
 <h2>Heritage Museum  </h2>
 <p>
-  <img src="/img/dest_reviews/desert-safari.jpg" alt="sigiriya" align="left" />
+  <img src="/img/dest_reviews/Sharjah_Heritage_Museum.jpg" alt="Sharjah Heritage Museum" width="432" height="345" align="left" />
  </p>
 <p>
 The Sharjah Heritage Area is a combination of several museums that include Sharjah Heritage Museum, Souq Al Arsah, Bait Al Naboodah, Al Midfaa House, Al Hisn Sharjah and Hisn Kalba. Souq Al Arsah is a large open courtyard that includes a number of different shops. The Souq has been restored to the traditional style and charm. Shop exhibits feature silver and wooden artifacts, jewelry, novelties, garments and medical herbs. Bait Al Naboodah is a traditional family home comprised of 16 rooms that have been converted into a museum. Each room has a different theme such as traditional clothing, an old kitchen and livingrooms, jewelry, costumes and artifacts.
@@ -44,7 +44,7 @@ The Sharjah Heritage Area is a combination of several museums that include Sharj
 
 <h2>Sharjah Natural History Museum and Desert Park</h2>
 <p>
-  <img src="/img/dest_reviews/creek.jpg" alt="Botanical gardens" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/sharjah0928_3_gallery.jpg" alt="Sharjah Natural History Museum and Desert Park" align="left" width="432" height="345" />
   
   </p>
 <p>The Natural History Museum and Desert Park in Sharjah allows visitors to learn about the flora and fauna of the Arabian Desert. The children's farm allows children to have close contact with farm animals. The kitchen serves fresh milk, homemade cheese, and yogurt. A beehive can be watched as bees fly in and out through a transparent tube. A Breeding Center for Endangered Arabian Animals began 1998, but the center is not open to the general public, because the animals need peace and quiet to breed. The Diorama Hall depicts the various desert habitats from the East Coast to West Coast of Sharjah. Photographs of plants, birds and animals are found throughout the exhibit.
@@ -52,7 +52,7 @@ The Sharjah Heritage Area is a combination of several museums that include Sharj
 
 <h2>How to travel inside the city</h2>
 <p> 
-  <img src="/img/dest_reviews/Dubai-Museum.jpg" alt="Dubai National Museum" align="left" width="432" height="345" /></p>
+  <img src="/img/dest_reviews/bus2.jpg" alt="Buses" align="left" width="432" height="345" /></p>
 <p>
 Public buses are by Sharjah Transport, There are seven local and three express routes. Dubai's RTA also offers express commuter bus service. Licensed taxi companies are Sharjah, Emirates, Citi, Union, and Advantage. Taxi plates are reflective green, helps spot them at night. Flag fall is Dhs. 3, then Dhs. 1 every 650 m. There is a surcharge of Dhs. 20 to go into Dubai.
 </p>
