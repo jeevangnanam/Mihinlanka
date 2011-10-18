@@ -365,7 +365,58 @@ Configure::write('cities', '
                 value: "SHJ",
                 label: "Sharjah (SHJ)"
 
-                }'
+                },
+
+                {
+                value: "AUH",
+                label: "Abu Dhabi(AUH)"
+
+                },
+
+                {
+                value: "MCT",
+                label: "Muscat (MCT)"
+
+                },
+
+                {
+                value: "MAA",
+                label: "Chennai (MAA)"
+
+                },
+
+                {
+                value: "TRV",
+                label: "Trivandrum (TRV)"
+
+                },
+
+                {
+                value: "DEL",
+                label: "Delhi (DEL)"
+
+                },
+
+                {
+                value: "BLR",
+                label: "Bangalore (BLR)"
+
+                },
+
+                {
+                value: "COK",
+                label: "Kochi (COK)"
+
+                },
+
+                {
+                value: "BKK",
+                label: "Bangkok (BKK)"
+
+                }
+
+
+                '
         );
 
 
