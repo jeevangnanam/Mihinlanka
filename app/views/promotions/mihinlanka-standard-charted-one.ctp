@@ -15,7 +15,7 @@
 
         <li><p>	Buy 1 ticket and get a 50% saving on the 2nd ticket
             </p></li>
-        <li>Tickets to be purchased before 18th November 2011</li>
+        <li><p>Tickets to be purchased before 18th November 2011</p></li>
         <li><p>Promotion is applicable only to Standard Chartered Credit Cardholders, where the cards are<br />
           issued in Sri Lanka</p>
         </li>
@@ -32,7 +32,8 @@
         <li><p>50% savings is not valid on applicable taxes and other charges<br />
           Children and Infants are not eligible for this promotion</p>
         </li>
-        <li>This offer is bound by the terms and conditions of Mihin Lanka and Standard Chartered Bank </li>
+        <li><p>This offer is bound by the terms and conditions of Mihin Lanka and Standard Chartered Bank</p>
+        </li>
 
     </ol>
 </div>

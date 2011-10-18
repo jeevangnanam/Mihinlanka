@@ -228,6 +228,8 @@ class FeedbackController  extends AppController{
 		$data.="'".$this->_myfilter($_POST['feedback_rec'])."'";/**/
 		
 		$queryString="insert into feedbacks($feilds) values($data,now())";
+		
+		if(
 		if($this->Feedback->query($queryString)){
 			$this->Session->write('done',$this->_myfilter($_POST['feedback_email']));
 			echo "1";
