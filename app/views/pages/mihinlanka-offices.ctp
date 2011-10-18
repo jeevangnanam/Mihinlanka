@@ -35,7 +35,7 @@
 <p>Sri Lanka.</p>
       <p><br />
         Tel: +94 112 00 22 55<br />
-        Fax: + 94 117 800 307</p></td>
+        Fax: + 94  117 60 20 65</p></td>
     <td align="left" valign="top"><p> <strong>Cargo Operations</strong><br />
       email – <a href="mailto:cargoops@mihinlanka.com">cargoops@mihinlanka.com</a><br />
       Tel - +9477 2221297</p>
