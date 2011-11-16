@@ -8,6 +8,7 @@ class FeedbackController  extends AppController{
 	function beforeFilter(){
 		$this->Auth->allow("*");
 		$this->layout =  "simple";
+	 
 		}
     function index(){
 
@@ -21,7 +22,8 @@ class FeedbackController  extends AppController{
 		return htmlentities(strip_tags(mysql_real_escape_string($string)));
 		
 		}
-	public function add(){
+	 function add(){
+		
 		$this->layout = 'ajax';
 		$feilds="abt_you_title,";
 		$feilds.="abt_you_first_name,";
@@ -229,7 +231,7 @@ class FeedbackController  extends AppController{
 		
 		$queryString="insert into feedbacks($feilds) values($data,now())";
 		
-		if(
+		if(!$this->Session->check('done')){
 		if($this->Feedback->query($queryString)){
 			$this->Session->write('done',$this->_myfilter($_POST['feedback_email']));
 			echo "1";
@@ -237,6 +239,7 @@ class FeedbackController  extends AppController{
 		else{
 			echo "0";
 		}	
+		}
 	}
 }
 

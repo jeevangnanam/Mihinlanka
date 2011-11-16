@@ -348,7 +348,17 @@ class PagesController extends AppController {
 	
 	}
 	
-	
+	function holidays(){
+		
+		$this->set('banner', 'mihin_holidays.jpg');
+		
+		}
+		
+		function glimpse_of_sri_lanka(){
+		
+		$this->layout = NULL;
+		
+		}
 	function kuwait_travel_review(){
 		
 	$this->layout = 'destination_reviews';

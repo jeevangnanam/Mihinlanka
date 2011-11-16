@@ -95,6 +95,10 @@ Router::connect('/pages/maldives_shopping_popup/*', array('controller' => 'pages
 Router::connect('/pages/tiruchirapalli_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/varanasi_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/shajah_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
+Router::connect('/pages/mihin-holidays/*', array('controller' => 'pages', 'action' => 'holidays'));
+Router::connect('/pages/glimpse-of-sri-lanka/*', array('controller' => 'pages', 'action' => 'glimpse_of_sri_lanka'));
+
+
 
 Router::connect('/pages/mc_add/*', array('controller' => 'pages', 'action' => 'mc_add'));
 Router::connect('/pages/mc_remove/*', array('controller' => 'pages', 'action' => 'mc_remove'));
@@ -140,6 +144,7 @@ Router::connect('/destinations.htm', array('controller' => 'destinations', 'acti
 Router::connect('/about-mihin-lanka.htm', array('controller' => 'pages', 'action' => 'about'));
 Router::connect('/Dubai_visa.htm', array('controller' => 'pages', 'action' => 'home'));
 Router::connect('/arrivals-departures.htm', array('controller' => 'pages', 'action' => 'arrivals_and_departures'));
+
 
 
 

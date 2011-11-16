@@ -53,7 +53,7 @@
                             <td>&nbsp;</td>
                         </tr>
                         <tr>
-                            <td valign="top">Dubai (DXB)</td>
+                            <td valign="top">Dubai (DXB)/Sharjah (SHJ)</td>
                             <td>Colombo (CMB)<br>
                                 Kuwait (KWI)<br>
                                 Tiruchirapalli (TRZ)<br>

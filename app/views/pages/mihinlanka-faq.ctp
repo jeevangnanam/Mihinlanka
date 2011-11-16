@@ -255,7 +255,7 @@ However, in the event the booking has been made by a third party and the requisi
                 <div class="flightList">
                     <ol>
                         <li>Once the booking is paid for, no refund will be made.</li>
-                        <li>However if a passenger should decide to cancel a flight at least 4 hrs prior to the scheduled departure time, Mihin Lanka will retain the fare paid less a cancellation fee of USD 15 (or equivalent) per sector/ per passenger as credit towards a future flight to be used by the passenger within 6 months from date of payment.</li>
+                        <li>However if a passenger should decide to cancel a flight at least 4 hrs prior to the scheduled departure time, Mihin Lanka will retain the fare paid less a cancellation fee of USD 20 (or equivalent) per sector/ per passenger as credit towards a future flight to be used by the passenger within 6 months from date of payment.</li>
                         <li>Failure to adhere to 4hrs deadline when changes / cancellations are made, will be considered as No-show.</li>
                     </ol>
                 </div>

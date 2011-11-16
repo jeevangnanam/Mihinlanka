@@ -233,11 +233,11 @@
             <tbody>
               <tr>
                 <td width="196" valign="top"><strong><span id="yellow">Cancellation charges</span></strong></td>
-                <td width="117" valign="top"><strong><span id="yellow">USD 15.00</span></strong></td>
+                <td width="117" valign="top"><strong><span id="yellow">USD 20.00</span></strong></td>
               </tr>
               <tr>
                 <td width="196" valign="top"><strong><span id="yellow">Modification charges</span></strong></td>
-                <td width="117" valign="top"><strong><span id="yellow">USD 15.00</span></strong></td>
+                <td width="117" valign="top"><strong><span id="yellow">USD 20.00</span></strong></td>
               </tr>
             </tbody>
           </table></td>

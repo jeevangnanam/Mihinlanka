@@ -211,11 +211,11 @@ function savefeedback(){
 			 
 		htmlobj=$.ajax({
 		  type: 'POST',
-		  url: 'feedback/add',
+		  url: '/feedback/add',
 		  data: data,
 		  success: function(){
 			$('#errmsg').addClass("successmsg");
-			document.getElementById('errmsg').innerHTML="* Thanks for your Feedback.";
+			document.getElementById('errmsg').innerHTML="Thanks for your Feedback. <a href='/' style='color:blue'>Go back to home </a>";
 			document.getElementById('errmsg').focus();
 		  }
 		});

@@ -44,7 +44,7 @@ Note – It is faster to get to the check-in counters through the second securit
     <div class="section"><br /><br />
     	<h3>Jakarta Airport Tax</h3>
         <br />
-        Jakarta Airport Tax amounting to approximately IDR 150.00 or USD 20 is to be paid at Jakarta Departure Terminal (Not included in air fare).
+        Jakarta Airport Tax amounting to approximately IDR 150,000 or USD 20 is to be paid at Jakarta Departure Terminal (Not included in air fare).
         </div>
     
 </div>
