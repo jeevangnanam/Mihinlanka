@@ -21,7 +21,7 @@
 <file name="travel-regulation.ctp" server="v2.mihinlanka.com" local="129563203849062500" remote="129562903800000000" />
 <file name="travelagents.ctp" server="v2.mihinlanka.com" local="129592654898906250" remote="129633571200000000" />
 <file name="mihinlanka-terms-and-conditions.ctp" server="v2.mihinlanka.com" local="129603812433805882" remote="129633570600000000" />
-<file name="conditions-of-carriage.ctp" server="v2.mihinlanka.com" local="129657331737417874" remote="129656881200000000" />
+<file name="conditions-of-carriage.ctp" server="v2.mihinlanka.com" local="129657331737417874" remote="129660367800000000" />
 <file name="how-to-book-guide.ctp" server="v2.mihinlanka.com" local="129470676853972500" remote="129556664400000000" />
 <file name="mihinlanka-fares.ctp" server="v2.mihinlanka.com" local="129451747299218750" remote="129556664400000000" />
 <file name="packages-to-maldives.ctp" server="v2.mihinlanka.com" local="129512924170310000" remote="129556665000000000" />
@@ -50,4 +50,7 @@
 <file name="varanas-travel-review.ctp" server="v2.mihinlanka.com" local="129622949820003930" remote="129633571200000000" />
 <file name="varanasi-travel-review.ctp" server="v2.mihinlanka.com" local="129622949820043933" remote="129633571200000000" />
 <file name="varanasi_shopping_popup.ctp" server="v2.mihinlanka.com" local="129622949820063934" remote="129633571200000000" />
+<file name="srilanka_at_a_glance.ctp" server="v2.mihinlanka.com" local="129660835849908633" remote="129660385800000000" />
+<file name="glimpse_of_sri_lanka.ctp" server="v2.mihinlanka.com" local="129660837145762752" remote="129660387000000000" />
+<file name="holidays.ctp" server="v2.mihinlanka.com" local="129660617057554426" remote="129660367800000000" />
 </dwsync>

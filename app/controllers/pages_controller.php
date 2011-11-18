@@ -359,6 +359,14 @@ class PagesController extends AppController {
 		$this->layout = NULL;
 		
 		}
+		
+function srilanka_at_a_glance(){
+		
+		$this->layout = NULL;
+		
+		}
+		
+		
 	function kuwait_travel_review(){
 		
 	$this->layout = 'destination_reviews';

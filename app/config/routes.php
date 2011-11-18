@@ -97,6 +97,7 @@ Router::connect('/pages/varanasi_shopping_popup/*', array('controller' => 'pages
 Router::connect('/pages/shajah_shopping_popup/*', array('controller' => 'pages', 'action' => 'gaya_shopping_popup'));
 Router::connect('/pages/mihin-holidays/*', array('controller' => 'pages', 'action' => 'holidays'));
 Router::connect('/pages/glimpse-of-sri-lanka/*', array('controller' => 'pages', 'action' => 'glimpse_of_sri_lanka'));
+Router::connect('/pages/srilanka-at-a-glance/*', array('controller' => 'pages', 'action' => 'srilanka_at_a_glance'));
 
 
 
