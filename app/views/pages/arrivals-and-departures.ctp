@@ -7,25 +7,8 @@
 Therefore, all our check-in counters are open 3 hours prior to departure and close 45 minutes prior to departure, giving you ample time to check-in.
 
     <br /><br /><br />
-
-    <div class="section">
-    <h3>Special arrangements exclusively for Mihin Lanka passengers at Bandaranaike International Airport</h3>
-    <div >
-    <ol>
-
-        <li><p>Check-in Counters especially designated to Mihin Lanka – Counters 33, 34, 35 
-
-Note – It is faster to get to the check-in counters through the second security check to the left, as you enter.
-<p></li>
-        <li><p>Boarding Gate – Check boarding pass and flight information display screens for precise boarding gate.</p></li>
-        <li><p>Dedicated Baggage Belt for Arrival – Belt no 5 located on the Ground Floor.</p></li>
-    </ol><br />
-    </div>
-    </div>
-
-
-        <div class="message">
-        <div>For more information on assistance for first time travelers and passengers requiring special support, please contact +94 (0)773 865 312.</div>
+    <div class="message">
+    <div>For more information on assistance for first time travelers and passengers requiring special support, please contact +94 (0)773 865 312.</div>
         </div>
   
    <br /><br />
