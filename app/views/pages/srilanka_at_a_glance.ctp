@@ -156,140 +156,21 @@ Overnight Hotel Sapphire (3*) / Ramada Colombo (4*) or similar</li>
       ~~~~~~~ End of Tour ~~~~~~~ </div>
     <p>&nbsp;</p>
     <div class="slide">
-    <h3>COSTING</h3>
+    <h3>CONTACT US</h3>
     <hr />
-    <p><strong>Cost as follows in US Dollars, (Rates are Nett &amp; Non Commissionable)</strong></p>
-    <p><em>Validity Period 01 Nov 2011 – 31 DEC 2011</em></p>
-<p>All  prices include prevailing Government taxes. Any increases thereon or any new  taxes or levies, statutory or otherwise introduced in the future will be passed  on</p>
-<table border="1" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="190" valign="top"><p align="center">COST    PER PERSON<br />
-      Standard    Hotels</p></td>
-    <td width="92" valign="top"><p align="center"><strong>2 - 3 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>4 - 6 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>7 - 9 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>10 - 14 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>15 - 19 Pax + 1 FOC</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>20 - 24</strong><br />
-      <strong>Pax+ 1 FOC</strong></p></td>
-    <td width="82" valign="top"><p align="center"><strong>25 - 29</strong><br />
-      <strong>Pax+ 1 FOC </strong></p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Sharing    Double</p></td>
-    <td width="92" valign="top"><p align="center">756</p></td>
-    <td width="92" valign="top"><p align="center">692</p></td>
-    <td width="92" valign="top"><p align="center">686</p></td>
-    <td width="92" valign="top"><p align="center">674</p></td>
-    <td width="92" valign="top"><p align="center">669</p></td>
-    <td width="92" valign="top"><p align="center">661</p></td>
-    <td width="82" valign="top"><p align="center">649</p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Sharing    Triple</p></td>
-    <td width="92" valign="top"><p align="center">745</p></td>
-    <td width="92" valign="top"><p align="center">682</p></td>
-    <td width="92" valign="top"><p align="center">675</p></td>
-    <td width="92" valign="top"><p align="center">663</p></td>
-    <td width="92" valign="top"><p align="center">658</p></td>
-    <td width="92" valign="top"><p align="center">650</p></td>
-    <td width="82" valign="top"><p align="center">638</p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Single    Room Cost</p></td>
-    <td width="92" valign="top"><p align="center">865</p></td>
-    <td width="92" valign="top"><p align="center">865</p></td>
-    <td width="92" valign="top"><p align="center">865</p></td>
-    <td width="92" valign="top"><p align="center">865</p></td>
-    <td width="92" valign="top"><p align="center">865</p></td>
-    <td width="92" valign="top"><p align="center">865</p></td>
-    <td width="82" valign="top"><p align="center">865</p></td>
-  </tr>
-</table>
-<p> <u>Compulsory Supplements</u></strong><br />
- ~  Peak  Period (21/12/11 – 10/01/12) Supplement = US$ 20 per person on above rates<br />
-  ~ Single Room  Cost = US$ 878/- </p>
-<table border="1" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="190" valign="top"><p align="center">COST    PER PERSON<br />
-      Superior    Hotels</p></td>
-    <td width="92" valign="top"><p align="center"><strong>2 - 3 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>4 - 6 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>7 - 9 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>10 - 14 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>15 - 19 Pax + 1 FOC</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>20 - 24</strong><br />
-      <strong>Pax+ 1 FOC</strong></p></td>
-    <td width="82" valign="top"><p align="center"><strong>25 - 29</strong><br />
-      <strong>Pax + 1 FOC</strong></p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Sharing    Double</p></td>
-    <td width="92" valign="top"><p align="center">819</p></td>
-    <td width="92" valign="top"><p align="center">757</p></td>
-    <td width="92" valign="top"><p align="center">750</p></td>
-    <td width="92" valign="top"><p align="center">737</p></td>
-    <td width="92" valign="top"><p align="center">731</p></td>
-    <td width="92" valign="top"><p align="center">725</p></td>
-    <td width="82" valign="top"><p align="center">712</p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Sharing    Triple</p></td>
-    <td width="92" valign="top"><p align="center">808</p></td>
-    <td width="92" valign="top"><p align="center">746</p></td>
-    <td width="92" valign="top"><p align="center">739</p></td>
-    <td width="92" valign="top"><p align="center">726</p></td>
-    <td width="92" valign="top"><p align="center">720</p></td>
-    <td width="92" valign="top"><p align="center">714</p></td>
-    <td width="82" valign="top"><p align="center">701</p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Single    Supplement</p></td>
-    <td width="92" valign="top"><p align="center">970</p></td>
-    <td width="92" valign="top"><p align="center">970</p></td>
-    <td width="92" valign="top"><p align="center">970</p></td>
-    <td width="92" valign="top"><p align="center">970</p></td>
-    <td width="92" valign="top"><p align="center">970</p></td>
-    <td width="92" valign="top"><p align="center">970</p></td>
-    <td width="82" valign="top"><p align="center">970</p></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<p>Compulsory Supplements<br />
-  ~ Peak Period (21/12/11 – 10/01/12) Supplement = US$ 25 per person on above rates<br />
-  ~ Single Supplement = US$ 984/-</p>
-<p>Compulsory Supplements<br />
-  ~ Peak Period (11/01/12 – 15/04/12) Supplement = US$ 40 per person on above rates<br />
-  ~ Single Supplement = US$ 998/-<br />
-  ~ Children 0 - 2 Years - FOC<br />
-  ~ Children under 3 - 12 years sharing a room with parents - 50% reduction on Sharing Double rate (with/without Extra Bed)<br />
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>Mihin Lanka Call Centre Colombo</h3>
+    <p> Tel : +94 112 00 22 55<br />
+      E-mail : info@mihinlanka.com </p>
+    <p>&nbsp;</p>
+    <h3>Mihin Lanka Ticket Office Jakarta</h3>
+    <p> Tel : +62 21 30016035<br />
+      E-mail : sales@mihinlanka-id.com</p>
+    <p><br />
 </p>
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="436" valign="top"><p align="center"><strong>COST INCLUDES</strong></p></td>
-    <td width="413" valign="top"><p align="center"><strong>COST DOES NOT INCLUDE</strong></p></td>
-  </tr>
-  <tr>
-    <td width="436" valign="top"><p>~ Return Air ticket with applicable Sri    Lankan taxes</p></td>
-    <td width="413" valign="top"><p>~ Jakarta airport tax </p></td>
-  </tr>
-  <tr>
-    <td width="436" valign="top"><p>~ Accommodation &amp; Halal Meals on FB    Basis on tour for 1 night Negombo, 1 night Kandy &amp; 1 night Colombo commencing    with Dinner on Day 1 &amp; ending with Breakfast on Day 4 </p></td>
-    <td width="413" valign="top"><p>~ All Extras of personal Nature</p></td>
-  </tr>
-  <tr>
-    <td width="436" valign="top"><p>~    Transportation in an A/C Vehicle from Arrival on Day 1 until Departure on Day    4 with English Speaking Chauffeur Guide up to 6 Pax &amp; English Speaking    Guide for 7 Pax &amp; above  </p></td>
-    <td width="413" valign="top"><p>~ Camera permits, Air fare &amp; Visa    Fees, Tipping, Portage </p></td>
-  </tr>
-  <tr>
-    <td width="436" valign="top"><p>~ Entrance Fees to Temple of the Tooth &amp; Pinnawela  </p></td>
-    <td width="413" valign="top"><p>~ Compulsory Peak    Period Supplements, Cricket Supplements, X’mas &amp; New Years Eve Gala    Dinner Supplements</p></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<p><br />
-</p>
-    </div>
+</div>
     <div class="slide"></div>
       
     </div>

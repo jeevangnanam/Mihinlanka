@@ -74,6 +74,13 @@ overflow:hidden;
     padding-top:10px;
 }
 #contentInner .formatTable b{margin-bottom: 20px;}
+#contentInner ol li a{
+	font-size: 14px;
+	color: #006699;
+	}
+#contentInner ol li a:visited{
+	color: #006699;
+	}
 #logo{float:left;}
 #button {
 	height: 32px;

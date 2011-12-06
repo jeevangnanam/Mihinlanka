@@ -4,7 +4,8 @@
     <div class="flightList">
 <?= __("Travel Regulations desc"); ?>
 
-    <ol >
+    <ol >	
+    		<li  style="font-family:sans"><a href="http://www.customs.gov.lk">www.customs.gov.lk</a></li>
             <li style="font-family:sans"><a href="http://www.gov.lk">www.gov.lk</a></li>
             <li style="font-family:sans"><a href="http://www.india.gov.in">www.india.gov.in</a></li>
             <li style="font-family:sans"><a href="http://www.dubai.ae">www.dubai.ae</a></li>

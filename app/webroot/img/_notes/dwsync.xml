@@ -58,9 +58,8 @@
 <file name="already_added.jpg" server="v2.mihinlanka.com" local="129447675212812500" remote="129448576800000000" />
 <file name="add_to_bag.png" server="v2.mihinlanka.com" local="129447629981406250" remote="129448576800000000" />
 <file name="add_to_bag.jpg" server="v2.mihinlanka.com" local="129447634921875000" remote="129448576800000000" />
-<file name="Route_Map_zoom.jpg" server="v2.mihinlanka.com" local="129452564619687500" remote="129452916000000000" />
-<file name="Route_Map.jpg" server="v2.mihinlanka.com" local="129452563652812500" remote="129460305000000000" />
-<file name="Route_Map_mid.jpg" server="v2.mihinlanka.com" local="129512923789372500" remote="129512475000000000" />
+<file name="Route_Map.jpg" server="v2.mihinlanka.com" local="129660893812663913" remote="129663018000000000" />
+<file name="Route_Map_mid.jpg" server="v2.mihinlanka.com" local="129665846705998556" remote="129665397600000000" />
 <file name="prev.png" server="v2.mihinlanka.com" local="129554742997343750" remote="129554315400000000" />
 <file name="next.png" server="v2.mihinlanka.com" local="129554743325156250" remote="129554315400000000" />
 <file name="menu.jpg" server="v2.mihinlanka.com" local="129554752776875000" remote="129554315400000000" />
@@ -76,7 +75,7 @@
 <file name="elephant.jpg" server="v2.mihinlanka.com" local="129599704123378394" remote="129660380400000000" />
 <file name="elephants.jpg" server="v2.mihinlanka.com" local="129658316328850585" remote="129660380400000000" />
 <file name="thalatha.jpg" server="v2.mihinlanka.com" local="129658304827772761" remote="129660380400000000" />
-<file name="costing.png" server="v2.mihinlanka.com" local="129659075992581212" remote="129660381000000000" />
+<file name="costing.png" server="v2.mihinlanka.com" local="129664361492309192" remote="129663913200000000" />
 <file name="day1.png" server="v2.mihinlanka.com" local="129659024085982325" remote="129660381000000000" />
 <file name="day2.png" server="v2.mihinlanka.com" local="129659024491485518" remote="129660381000000000" />
 <file name="day3.png" server="v2.mihinlanka.com" local="129659024544058525" remote="129660381000000000" />
@@ -85,4 +84,7 @@
 <file name="day6.png" server="v2.mihinlanka.com" local="129659024911999570" remote="129660381000000000" />
 <file name="day7.png" server="v2.mihinlanka.com" local="129659025093309941" remote="129660381000000000" />
 <file name="day8.png" server="v2.mihinlanka.com" local="129659025183045073" remote="129660381000000000" />
+<file name="Route_Map.png" server="v2.mihinlanka.com" local="129660893455903508" remote="129663018000000000" />
+<file name="Route_Map_mid.png" server="v2.mihinlanka.com" local="129665846863307554" remote="129665397600000000" />
+<file name="Route_Map_zoom.jpg" server="v2.mihinlanka.com" local="129665847218557873" remote="129665401800000000" />
 </dwsync>

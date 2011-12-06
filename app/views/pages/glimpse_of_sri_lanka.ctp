@@ -110,137 +110,21 @@ shopping</li>
     
     
     <div class="slide">
-    <h3>COSTING</h3>
+    <h3>CONTACT US</h3>
     <hr />
-    <p><strong>Cost as follows in US Dollars, (Rates are Nett & Non Commissionable)
-      </strong></p>
-    <p><em>Validity Period 01 Nov 2011 - 31 Dec 2011      </em></p>
-    <p>All prices include prevailing Government taxes. Any increases thereon or any new taxes or levies, statutory or otherwise introduced in the future will be passed on </p>
-    <table width="100%" border="1" cellpadding="0" cellspacing="0">
-      <tr>
-        <td width="190" valign="top"><p align="center">COST    PER PERSON<br />
-          Standard    Hotels</p></td>
-        <td width="92" valign="top"><p align="center"><strong>2 - 3 Pax</strong></p></td>
-        <td width="92" valign="top"><p align="center"><strong>4 - 6 Pax </strong></p></td>
-        <td width="92" valign="top"><p align="center"><strong>7- 9 Pax</strong></p></td>
-        <td width="92" valign="top"><p align="center"><strong>10 - 14 Pax</strong></p></td>
-        <td width="92" valign="top"><p align="center"><strong>15 - 19 Pax + 1 FOC</strong></p></td>
-        <td width="92" valign="top"><p align="center"><strong>20 - 24</strong><br />
-          <strong>Pax + 1 FOC</strong></p></td>
-        <td width="82" valign="top"><p align="center"><strong>25 - 29</strong><br />
-          <strong>Pax + 1 FOC</strong></p></td>
-      </tr>
-      <tr>
-        <td width="190" valign="top"><p>Sharing    Double</p></td>
-        <td width="92" valign="top"><p align="center">630</p></td>
-        <td width="92" valign="top"><p align="center">581</p></td>
-        <td width="92" valign="top"><p align="center">576</p></td>
-        <td width="92" valign="top"><p align="center">570</p></td>
-        <td width="92" valign="top"><p align="center">565</p></td>
-        <td width="92" valign="top"><p align="center">560</p></td>
-        <td width="82" valign="top"><p align="center">551</p></td>
-      </tr>
-      <tr>
-        <td width="190" valign="top"><p>Sharing    Triple</p></td>
-        <td width="92" valign="top"><p align="center">619</p></td>
-        <td width="92" valign="top"><p align="center">570</p></td>
-        <td width="92" valign="top"><p align="center">565</p></td>
-        <td width="92" valign="top"><p align="center">560</p></td>
-        <td width="92" valign="top"><p align="center">554</p></td>
-        <td width="92" valign="top"><p align="center">549</p></td>
-        <td width="82" valign="top"><p align="center">540</p></td>
-      </tr>
-      <tr>
-        <td width="190" valign="top"><p>Single    Room Cost</p></td>
-        <td width="92" valign="top"><p align="center">708</p></td>
-        <td width="92" valign="top"><p align="center">708</p></td>
-        <td width="92" valign="top"><p align="center">708</p></td>
-        <td width="92" valign="top"><p align="center">708</p></td>
-        <td width="92" valign="top"><p align="center">708</p></td>
-        <td width="92" valign="top"><p align="center">708</p></td>
-        <td width="82" valign="top"><p align="center">708</p></td>
-      </tr>
-    </table>
-<p>Compulsory Supplements<br />
-  ~ Peak Period (21/12/11 -10/01/12) Supplement = US$ 18 per person on above rates<br />
-  ~ Single Room Cost = US$ 716/-</p>
-<table border="1" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="190" valign="top"><p align="center">COST    PER PERSON<br />
-      Superior    Hotels</p></td>
-    <td width="92" valign="top"><p align="center"><strong>2 - 3 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>4 - 6 Pax </strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>7 - 9 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>10 - 14 Pax</strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>15 - 19 Pax + 1 FOC</strong><strong> </strong></p></td>
-    <td width="92" valign="top"><p align="center"><strong>20 - 24</strong><br />
-      <strong>Pax + 1 FOC</strong></p></td>
-    <td width="82" valign="top"><p align="center"><strong>25 - 29</strong><br />
-      <strong>Pax + 1 FOC</strong></p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Sharing    Double</p></td>
-    <td width="92" valign="top"><p align="center">682</p></td>
-    <td width="92" valign="top"><p align="center">633</p></td>
-    <td width="92" valign="top"><p align="center">628</p></td>
-    <td width="92" valign="top"><p align="center">622</p></td>
-    <td width="92" valign="top"><p align="center">617</p></td>
-    <td width="92" valign="top"><p align="center">611</p></td>
-    <td width="82" valign="top"><p align="center">602</p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Sharing    Triple</p></td>
-    <td width="92" valign="top"><p align="center">671</p></td>
-    <td width="92" valign="top"><p align="center">622</p></td>
-    <td width="92" valign="top"><p align="center">617</p></td>
-    <td width="92" valign="top"><p align="center">611</p></td>
-    <td width="92" valign="top"><p align="center">606</p></td>
-    <td width="92" valign="top"><p align="center">601</p></td>
-    <td width="82" valign="top"><p align="center">591</p></td>
-  </tr>
-  <tr>
-    <td width="190" valign="top"><p>Single    Room Cost</p></td>
-    <td width="92" valign="top"><p align="center">781</p></td>
-    <td width="92" valign="top"><p align="center">781</p></td>
-    <td width="92" valign="top"><p align="center">781</p></td>
-    <td width="92" valign="top"><p align="center">781</p></td>
-    <td width="92" valign="top"><p align="center">781</p></td>
-    <td width="92" valign="top"><p align="center">781</p></td>
-    <td width="82" valign="top"><p align="center">781</p></td>
-  </tr>
-</table>
-<p>Compulsory Supplements<br />
-  ~ Peak Period (21/12/11 - 10/01/12) Supplement = US$ 45 per person on above rates<br />
-  ~  Single Room Cost = US$ 809/-</p>
-<p>~  Peak Period (11/01/12 - 15/04/12) Supplement = US$ 30 per person on above rates<br />
-  ~ Single Supplement = US$ 796/-</p>
-<p>~ Children 0 - 2 Years - FOC<br />
-  ~ Children under 3 - 12 years sharing a room with parents - 50% reduction on Sharing Double rate (with/without Extra Bed)</p>
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="436" valign="top"><p align="center"><strong>COST INCLUDES</strong></p></td>
-    <td width="413" valign="top"><p align="center"><strong>COST DOES NOT INCLUDE</strong></p></td>
-  </tr>
-  <tr>
-    <td width="436" align="left" valign="top"><p>~ Return Air ticket with applicable Sri    Lankan taxes</p></td>
-    <td width="413" align="left" valign="top"><p>~ Jakarta airport tax </p></td>
-  </tr>
-  <tr>
-    <td width="436" align="left" valign="top"><p>~ Accommodation &amp; Halal Meals on FB    Basis on tour for 1 night in Negombo &amp; 1 Night in Colombo, commencing    with Dinner on day 1 &amp; ending with Breakfast on Day 3</p></td>
-    <td width="413" align="left" valign="top"><p>~ All Extras of personal Nature</p></td>
-  </tr>
-  <tr>
-    <td width="436" align="left" valign="top"><p>~    Transportation in an A/C Vehicle from Arrival on Day 1 until Departure on Day    3 with English Speaking Chauffeur Guide up to 6 Pax &amp; English Speaking    Guide for 7 Pax &amp; above  </p></td>
-    <td width="413" align="left" valign="top"><p>~ Camera permits, Air fare &amp; Visa    Fees, Tipping, Portage</p></td>
-  </tr>
-  <tr>
-    <td width="436" align="left" valign="top"><p>~ Entrance Fees to Temple of the Tooth </p></td>
-    <td width="413" align="left" valign="top"><p>~ Compulsory Peak    Period Supplements, Cricket Supplements, X'mas &amp; New Years Eve Gala    Dinner Supplements </p></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<p><br />
-</p>
+   
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>Mihin Lanka Call Centre Colombo</h3>
+    <p> 
+      Tel : +94 112 00 22 55<br />
+      E-mail : info@mihinlanka.com </p>
+    <p>&nbsp;</p>
+    <h3>Mihin Lanka Ticket Office Jakarta</h3>
+    <p> 
+      Tel : +62 21 30016035<br />
+      E-mail : sales@mihinlanka-id.com</p>
     </div>
     <div class="slide"></div>
       
