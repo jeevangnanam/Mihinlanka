@@ -415,6 +415,17 @@ function srilanka_at_a_glance(){
 		
 		$this->render($rPage);
 	}
+	
+	public function trichy(){
+		//$this->autoRender = false;
+		
+	}
+	public function mihin_buyone_getone_maldives(){
+		
+		
+		}
+	
+	
 	/*----------------------------------
 	*
 	*----------------------------------*/
