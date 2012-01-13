@@ -1,1 +1,1 @@
-<!-- <script src="http://cdn.wibiya.com/Toolbars/dir_0703/Toolbar_703085/Loader_703085.js" type="text/javascript"></script> -->
+<script src="http://cdn.wibiya.com/Toolbars/dir_0703/Toolbar_703085/Loader_703085.js" type="text/javascript"></script>

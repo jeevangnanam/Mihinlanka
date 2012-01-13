@@ -404,8 +404,8 @@ function srilanka_at_a_glance(){
 	
 	function shajah_travel_review(){
 		
-	$this->layout = 'destination_reviews';
-	$this->render('shajah-travel-review');
+		$this->layout = 'destination_reviews';
+		$this->render('shajah-travel-review');
 	
 	}
 	
@@ -476,5 +476,15 @@ function mc_remove($id="") {
 		} 
 	} 
 	
+	function dubai_shopping_festival(){
+		$this->set('banner', 'dubai_shopping.jpg');
+		$this->set('title_for_layout', "Dubai Shopping Festival");
+	}
+	
+	function how_to_book_video() {
+        $this->set('title_for_layout', " How to book online on " . Configure::read('app.company.name'));
+        $this->set('banner', 'howtobook.jpg');
+        //$this->render('how-to-book-in-mihinlanka');
+    }
 
 }

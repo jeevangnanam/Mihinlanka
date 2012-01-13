@@ -40,6 +40,7 @@
                     <li><a href="/pages/mihinlanka-offices"><?= __("Our offices");?></a></li>
                     <li><a href="/pages/mihinlanka-call-centers"><?= __("Call center");?></a></li>
                     <li><a href="/pages/feedback-centers"><?= __("Feedback center");?></a></li>
+                    <li><a href="/feedback"><?= __("Feedback");?></a></li>
                     <li><a href="/downloads/forms"><?= __("Downloads");?></a></li>
 
                 </ul>

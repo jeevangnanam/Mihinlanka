@@ -45,7 +45,8 @@ Router::connect('/pages/baggage-allowance/*', array('controller' => 'pages', 'ac
 Router::connect('/pages/on-board-service/*', array('controller' => 'pages', 'action' => 'on_board_service'));
 Router::connect('/pages/arrivals-and-departures/*', array('controller' => 'pages', 'action' => 'arrivals_and_departures'));
 Router::connect('/pages/mihinlanka-faq/*', array('controller' => 'pages', 'action' => 'faq'));
-
+Router::connect('/dubai-shopping-festival/*', array('controller' => 'pages', 'action' => 'dubai_shopping_festival'));
+Router::connect('/how-to-book-mihin-lanka/*', array('controller' => 'pages', 'action' => 'how_to_book_video'));
 
 Router::connect('/pages/how-to-book-in-mihinlanka/*', array('controller' => 'pages', 'action' => 'how_to_book'));
 Router::connect('/pages/payment-options/*', array('controller' => 'pages', 'action' => 'payment_options'));
@@ -147,9 +148,14 @@ Router::connect('/Dubai_visa.htm', array('controller' => 'pages', 'action' => 'h
 Router::connect('/arrivals-departures.htm', array('controller' => 'pages', 'action' => 'arrivals_and_departures'));
 
 
+/*
+ * new action for holiday packages
+ */
 
-
-
+Router::connect('/holidays/glimpse-of-sri-lanka/*', array('controller' => 'holidays', 'action' => 'glimpse_of_sri_lanka'));
+Router::connect('/holidays/srilanka-at-a-glance/*', array('controller' => 'holidays', 'action' => 'srilanka_at_a_glance'));
+Router::connect('/holidays/jakarta-tour-2days-3night/*', array('controller' => 'holidays', 'action' => 'jakarta_tour_2'));
+Router::connect('/holidays/jakarta-tour-3days-4night/*', array('controller' => 'holidays', 'action' => 'jakarta_tour_3'));
 
 /* Custom routs ends */
 

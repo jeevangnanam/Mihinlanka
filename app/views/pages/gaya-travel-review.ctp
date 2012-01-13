@@ -26,7 +26,7 @@
 <!--Attractions-->
 <h2>How to reach Gaya</h2>
 <p>
-  <img src="/img/dest_reviews/Dubai-Mall-aquarium.jpg" alt="Dubai Aquarium"   align="left" /> 
+  <img src="/img/dest_reviews/Gaya_Junction.jpg" alt="Gaya Junction"   align="left" align="left" width="432" height="345" /> 
    </p>
 <p>By Air : Gaya has an international airport which is also the only international airport in Bihar. Gaya airport is connected to Colombo, Singapore, Bangkok and many other destinations. Lok Nayak Jayaprakash Airport in Patna (120 kms) is another airport close to Gaya, which has flights for major cities.</p>
 <p>
@@ -40,13 +40,13 @@ By Road : National Highway and State Highways connect Gaya with rest of Bihar an
 
 <h2>Places to stay in Gaya </h2>
 <p>
-  <img src="/img/dest_reviews/desert-safari.jpg" alt="sigiriya" align="left" />
+  <img src="/img/dest_reviews/taj_hotel.jpg" alt="Taj Hotel" align="left" align="left" width="432" height="345"/>
  </p>
 Gaya is dotted with a number of hotels and tourists lodge which offer comfortable accommodation at reasonable rates. Some of the popular hotels of Gaya include Hotel Lotus NICCO, Hotel Buddha, Hotel Surya, Ajatshatru Hotel, Buddha International Guest House, Vasundhara Hotel, The Royal Residency, Hotel Siddhartha Bihar, Amrapali Guest House, Anamika Hotel, Shashi International, Hotel Tokyo, Hotel Samrat, Hotel Sarkar, Vishnu International, Delta International etc.
 
 <h2>Mahabodhi Temple </h2>
 <p>
-  <img src="/img/dest_reviews/creek.jpg" alt="Botanical gardens" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/BodhGaya-MahaBodhi_Temple.jpg" alt="Mahabodhi Temple" align="left" width="432" height="345" />
   
   </p>
 <p>
@@ -56,14 +56,14 @@ Mahabodhi Temple is the main attraction of Gaya and it is also an architectural 
 
 <h2>Bodhi Tree </h2>
 <p> 
-  <img src="/img/dest_reviews/Bodhgaya_bo_tree.jpg" alt="Dubai National Museum" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/Bodhgaya_bo_tree.jpg" alt="Bodhi Tree" align="left" width="432" height="345" />
   </p>
 <p>
 At the rear side of the temple in the west direction, the huge Bodhi tree grows out of an expansive base. A historic tree, the Bodhi tree nowadays attracts the scholars and mediators. It is believed that Shakyamuni Buddha or Gautama, attained enlightenment some 2500 years ago by sitting under this tree. Original tree was destroyed by Ashoka before his conversion to the faith, later its offshoots were nurtured at Anuradhapura in Sri Lanka, and a sapling was brought back and replanted here. Buddhist pilgrims tie coloured thread to its branches, decorated by prayer flags, while the Tibetans fulfill their rituals by making long lines of butter lamps.
 </p>
 <h2>Animesh Lochana Temple </h2>
 <p>
-  <img src="/img/dest_reviews/dwtc.jpg" alt="World trade center" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/animisha_lochana.jpg" alt="Animesh Lochana Temple" align="left" width="432" height="345" />
  </p>
 <p>
 Animesh Locahana Temple is a small white temple located to the right of the compound entrance. A miniature version of the main temple, Animesh Temple marks the spot where Lord Buddha stood and gazed upon the Bodhi Tree in gratitude for sheltering Lord Buddha in the time period of enlightenment. 
@@ -71,14 +71,14 @@ Animesh Locahana Temple is a small white temple located to the right of the comp
 </p>
 <h2>Archaeological Museum </h2>
 <p>
-  <img src="/img/dest_reviews/Heritage-Village.jpg" alt="Heritage village" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/Archaeological_Museum_Bodh_Gaya.jpg" alt="Archaeological Museum" align="left" width="432" height="345" />
   </p>
   <p>
   Bodhgaya's Archaeological Museum has a huge collection of stone sculptures and other valuable artifacts. The museum is maintained by Arhaeological survey of India and holds a collection of locally discovered sculpture and also the 19th century Pala bronzes of Hindu and Buddhist deities. The museum is open daily from 10 am to 5 pm, closed on Fridays, entrance is free.
   </p>
   <h2>Gelupa Monastery</h2>
   <p>
-  <img src="/img/dest_reviews/Camel-Racing-in-Dubai.jpg" alt="Camel racing" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/gelupa_monastery.jpg" alt="Gelupa Monastery" align="left" width="432" height="345" />
   </p>
   <p>
   The Tibetan monastery is situated within the Tibetan quarter northwest of the main shrine. Built around four decades back, the complex has a central prayer hall, a huge prayer wheel and residential buildings. Every winter, the Tibetans visit Bodhgaya in large number and set up a small market with restaurants and cafes.

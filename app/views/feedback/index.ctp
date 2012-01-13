@@ -6,7 +6,8 @@
 <div class="msg">
 <p><a href="<?= Configure::read('app.full_url_with_http'); ?>" style="text-decoration:none;color: #4996AD">&nbsp;&lt;&lt; Home</a>&nbsp;</p>
 <br /><br />
-<p>Dear Passenger,</p>
+<p>We value your opinion and welcome your feedback. Let us know if you have any comments or suggestions about what you've seen our services. We appreciate your input and look forward to hearing from you. Feel free to use the following form. </p>
+<!--<p>Dear Passenger,</p>
 <p>&nbsp;</p>
 <p>Thank you and welcome aboard. In order for us to continually improve our service
 rendered to you we need your support. I would like to take 10 minutes of your
@@ -35,7 +36,7 @@ box unless stated otherwise. If a
 service in question is not
 relevant to you, i.e. you did not
 use that please tick the "not
-applicable" column.</p>
+applicable" column.</p>-->
 
 </div>
 </div>
