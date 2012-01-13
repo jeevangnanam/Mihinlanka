@@ -26,7 +26,7 @@ a:hover{
     background-image:url(/img/background_header.gif);
     background-repeat: repeat-x;
     padding:0px 0px 0px 10px;
-    height:68px;
+    /*height:68px;*/
 
 }
 #main{
@@ -87,8 +87,9 @@ overflow:hidden;
 	width: 184px;
 	margin: auto;
 	float:right;
-        margin-right:5px;
+        margin-right:10px;
         z-index: 220;
+		/*margin-top:-67px;*/
 }
 
 #bookingEngine {
@@ -513,3 +514,12 @@ small{
 		color:#ffffff;
 		text-decoration:underline;
 		}
+
+.home_bottom_banners{
+	float:left; border-top:1px dotted #999999; margin-top:-17px; padding-top:10px;
+	width:302px;
+}
+
+#preFooter h4, #preFooter2 h4{
+	padding-bottom:5px;	
+}

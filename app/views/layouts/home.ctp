@@ -94,7 +94,7 @@
         
                 <div id="main">
                     <div id="header">
-                        <div id="logo" ><img src="/img/logo/logo.gif" /></div>
+                        <div id="logo" ><img src="/img/logo/logo.png" style="margin-top:1px;" /></div>
                 <?= $this->element('body/language'); ?>
             </div>
             <div style="clear:both"></div>
@@ -127,8 +127,6 @@
                     <!-- End Footer -->
 
                 </div>
-
-
 
 
 

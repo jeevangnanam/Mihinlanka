@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/ajaxtabs.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo $this->webroot;?>css/shopping_molls_popup.css" />
 
-<div id="contentInner" style="background-image:url(/img/mosque-sharjah.jpg);background-repeat:no-repeat">
+<div id="contentInner" style="background-image:url(/img/dest_reviews/mosque-sharjah.jpg);background-repeat:no-repeat">
 <br  /><br  /><br  /><br  /><br  /><br  />
 <h2>Shajah</h2>
 <div class='formatme'>
@@ -58,14 +58,14 @@ Public buses are by Sharjah Transport, There are seven local and three express r
 </p>
 <h2>Shopping in Sharjah </h2>
 <p>
-  <img src="/img/dest_reviews/dwtc.jpg" alt="World trade center" align="left" width="432" height="345" />The complex 
+  <img src="/img/dest_reviews/sharjah-shoping.jpg" alt="Shoping" align="left" width="432" height="345" />The complex 
  </p>
 <p>
 Dubai is well known for its huge themed shopping malls and traditional souks. The best time to bag a bargain is during the annual Dubai Shopping Festival. For those who love retail therapy Dubai, in the United Arab Emirates, is the ideal destination. Its tax free shopping and strategic geographical position as a main trading route means bargain prices and lots of choice. The emirate is known for its cut-price gold and electronic items but there is much more to shopping in Dubai. From its traditional gold souks to super-sized high-tech malls there is something to attract even the most reluctant of shoppers. 
 </p>
 <h2>Dubai and Sharjah Souks</h2>
 <p>
-  <img src="/img/dest_reviews/Heritage-Village.jpg" alt="Heritage village" align="left" width="432" height="345" />
+  <img src="/img/dest_reviews/Dubai_1_Sharjah_Souk_inside.jpg" alt="Dubai Sharjah Souk inside" align="left" width="432" height="345" />
 
   </p>
   <p>
@@ -74,11 +74,11 @@ Dubai is well known for its huge themed shopping malls and traditional souks. Th
 The neighboring (more sedate) emirate of Sharjah is definitely worth a visit for its architecturally picturesque souk on the edge of the Khalid lagoon. Known as the Central Souk or Blue Souk, prices are generally cheaper than in Dubai, especially for textiles and furniture. The amount of gold and jewelry sold here is not so mindboggling as in the Deira Gold Souk, making it easier to choose. It is also much less crowded, with airy areas to sit and relax.
 
   </p>
-  <h2>Camel racing</h2>
+<!--  <h2>Camel racing</h2>
 <p>
   <img src="/img/dest_reviews/Camel-Racing-in-Dubai.jpg" alt="Camel racing" align="left" width="432" height="345" />
 
-  </p>
+  </p>-->
   
   
   <div id="boxes">
@@ -107,7 +107,7 @@ The neighboring (more sedate) emirate of Sharjah is definitely worth a visit for
 
 <div id="tabs">
 	<ul>
-		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','shajah_shopping_popup')">Tiruchirapalli</a></li>
+		<li><a href="#tabs-1" id="tab_1" onclick="tabNavigation('tabs-1','shajah_shopping_popup')">Shajah</a></li>
 <!--		<li><a href="#tabs-2" id="tab_2" onclick="tabNavigation('tabs-2','dubai_shopping_popup')">TabTwo</a></li>
 		<li><a href="#tabs-3" id="tab_3" onclick="tabNavigation('tabs-3','dubai_shopping_popup')">TabThree</a></li>-->
 	</ul>

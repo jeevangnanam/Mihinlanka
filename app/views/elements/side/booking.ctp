@@ -1,3 +1,4 @@
+<div style="margin-top:-3px;">
 <form id="form1" name="form1" method="post" action="http://fly.mihinLanka.com/CAB/SessionHandler.aspx?target=%2fCAB%2fIBE.aspx&pub=%2flk%2fEnglish&Tab=1&s=&h=">
     <table width=280px" border="0" cellspacing="0" cellpadding="0">
         <tr>
@@ -120,10 +121,14 @@
             </td>
 
         </tr>
+        <?php if (isset($language) and !empty($language) and $language != 'eng'): ?>
         
+        <? else: ?>
         <tr>
             <td colspan="2"  style="border-top:dotted 1px #1b75bb;">&nbsp;</td>
         </tr>
+        <? endif; ?>
+        
 
 
         <tr>
@@ -146,5 +151,20 @@
 
           
         </tr>
+        <tr>
+          <td colspan="2" align="left" valign="top" style='padding:0px;margin:0px;height:1px'>
+          	<div align="center" style="width:150px; height:22px; margin:auto;">
+            <?php if (isset($language) and !empty($language) and $language == 'sin'){ ?>
+            <?php echo $this->Html->image("lettr.png", array(
+                        "alt" => "", "style" => "float:right;margin-right:10px;","border"=>"0",
+                        'url' => array('controller' => 'pages', 'action' => 'how_to_book_video')
+                    )); ?>
+            <?php }else{ ?>
+            	<a href="/how-to-book-mihin-lanka"><?= __("Guide to Booking Online");?></a>
+            <?php } ?>
+            </div>
+          </td>
+        </tr>
     </table>
 </form>
+</div>

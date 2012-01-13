@@ -34,7 +34,7 @@
 	width:100%;
 	/*background-image:url(../img/Mihin_Feedback_header3.jpg);*/
 	background-repeat:	no-repeat;
-	height:647px;
+	/*height:647px;*/
 }
 #fb_page2{
 	float:left;
@@ -90,7 +90,7 @@
 	height:60px;
 	/*padding-top:40px;*/
 	font-size:13px;
-	color:#B5BDC0;
+	color:#333;
 	/*border:solid #C30 1px;*/
 }
 
@@ -178,7 +178,7 @@
 .conent-text{
 	background-color:#FFF;
 	font-size:13px;
-	color:#B5BDC0;
+	color:#525252;
 	padding-left:55px;
 }
 .subForm{
@@ -241,7 +241,7 @@
 	/*width:46%;*/
 	width:auto;
 	font-size:12px;
-	color:#B5BDC0;
+	color:#666;
 }
 .page1_right_caps1{
 	float:left;
@@ -253,7 +253,7 @@
 	float:left;
 	width:42%;
 	font-size:10px;
-	color:#B5BDC0;
+	color:#666;
 	padding-left:10px;
 }
 
@@ -261,7 +261,7 @@
 	float:left;
 /*	width:42%;*/
 	font-size:10px;
-	color:#B5BDC0;
+	color:#666;
 	padding-right:10px;
 }
 .page1_right_capsp{
@@ -387,7 +387,7 @@ input{
     font-size: 13px;
     margin: 0 0 0 50px;
 	width:100%;
-	color: #B5BDC0;
+	color: #666;
 }
 .title-boxes{
 	color: #08468E;

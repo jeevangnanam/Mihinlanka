@@ -1,6 +1,7 @@
 @font-face {
-  font-family: 'malit';
-  src: url('/css/fonts/sinhala/Am_arjun.eot?') format('eot') , url('/css/fonts/sinhala/Am_arjun.TTF') format('truetype');
+	src: url('/css/fonts/sinhala/Am_arjun.eot?') format('eot') , url('/css/fonts/sinhala/Am_arjun.TTF') format('truetype');
+  	font-family: 'malit';
+  
 }
 *{outline: none;}
 img {border: 0;}
