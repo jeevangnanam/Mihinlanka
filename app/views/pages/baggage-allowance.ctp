@@ -26,7 +26,8 @@
                     <tbody>
                         <tr>
                             <td valign="top">Colombo (CMB)</td>
-                            <td>Dubai (DXB)<br>
+                            <td>Dubai (DXB)<br />
+                        Sharjah (SHJ) <br>
                                 Kuwait (KWI)<br>
                                 Tiruchirapalli (TRZ)<br>
                                 Gaya (GAY)<br>
@@ -34,7 +35,9 @@
                                 Male (MLE)<br>
                                 Dhaka (DAC)<br>
                                 Jakarta (CGK)          </td>
-                            <td>25<br>
+                            <td>25<br />
+                              25
+                          <br>
                                 25<br>
                                 25<br>
                                 25<br>
@@ -42,7 +45,8 @@
                                 25<br>
                                 25<br>
                                 25<br></td>
-                            <td>LKR 750<br>
+                            <td>LKR 750<br />
+                            LKR 750 <br>
                                 LKR 1200<br>
                                 LKR 150<br>
                                 LKR 150<br>
@@ -95,30 +99,24 @@
                         </tr>
                         <tr>
                             <td valign="top">Kuwait (KWI)</td>
-                            <td>Colombo (CMB)<br />
-                              Colombo (CMB)
-                              <br>
+                            <td>Colombo (CMB)<br>
                               Dubai (DXB)<br>
                               Tiruchirapalli (TRZ)<br>
                               Gaya (GAY)<br>
                               Varanasi&nbsp; (VNS)<br>
                               Male (MLE)<br>
                               Dhaka (DAC)<br>
-                              Jakarta (CGK)<br />
                               Jakarta (CGK)</td>
-                            <td><p>30<br />
-                              30
-                  <br>
+                            <td>30<br>
                                 20<br>
                                 30<br>
                                 30<br>
                                 30<br>
                                 25<br>
-                                30<br>
-                                <strong>30</strong><br />
+                                30<br />
                               40<br>
-                            </p></td>
-                            <td align="left" valign="top"><strong>KWD 3.5</strong><br />
+                          </td>
+                            <td align="left" valign="top"><br />
                               KWD 3
                               <br>
                                 KWD 2<br>
@@ -127,31 +125,33 @@
                                 KWD 3.5<br>
                                 KWD 4<br>
                                 KWD 4<br>
-                              <strong>KWD 8</strong><br>
-                          KWD 8</td>
-                            <td align="left" valign="top">01 Jun '11 - 31 Jul '11 <br />
-                    01 Aug '11 - 31 Oct '11 <br>
+                              KWD 8<br></td>
+                            <td align="left" valign="top"> <br />
+                    <br>
                                 <br>
                                 <br>
                                 <br>
                                 <br>
                                 <br>
                                 MJ TO MJ <br>
-                                MJ TO MJ / 01 Jun '11 - 31 Jul '11 <br />
-                                MJ TO MJ / 01 Aug '11 - 31 Oct '11 </td>
+                                MJ TO MJ <br />
+                                MJ TO MJ </td>
                         </tr>
                         <tr>
                             <td valign="top">Tiruchirapalli (TRZ)</td>
                             <td>Colombo (CMB)<br>
-                                Dubai (DXB)<br>
+                                Dubai (DXB)<br />
+                              Sharjah (SHJ) <br>
                                 Kuwait (KWI)<br>
                                 Male (MLE)<br>
                                 Dhaka (DAC)<br>
                                 Jakarta (CGK)<br></td>
-                            <td>30<br>
+                            <td>40<br>
 
                                 25
-                                <br>
+                                  <br />
+                                  25
+                              <br>
                                 25
                                 <br>
                                 25
@@ -160,12 +160,13 @@
                                 <br>
                                 25 </td>
                             <td>INR 75<br>
-                                INR 400 <br>
+                                INR 400 <br />
+                              INR 400 <br>
                                 INR 550 <br>
                                 INR 400 <br>
                                 INR 400 <br>
                                 INR 400 </td>
-                            <td align="left" valign="top"><br></td>
+                            <td align="left" valign="top"><span>MJ Operated Flight Only</span><br></td>
                         </tr>
                         <tr>
                             <td valign="top">Gaya (GAY)</td>
@@ -183,13 +184,17 @@
                         <tr>
                             <td valign="top">Varanasi&nbsp;  (VNS)</td>
                             <td>Colombo (CMB)<br>
-                                Dubai (DXB) <br>
+                                Dubai (DXB) <br />
+                              Sharjah (SHJ) <br>
                                 Kuwait (KWI) <br></td>
                             <td>20<br>
-                                20<br>
+                                20<br />
+                                20
+                              <br>
                                 20          <br></td>
                             <td>INR 50<br>
-                                INR 400<br>
+                                INR 400<br />
+                              INR 400 <br>
                                 INR 550</td>
                             <td>&nbsp;</td>
                         </tr>
@@ -217,7 +222,8 @@
                             <td>Colombo (CMB)<br>
                                 Male ( MLE )<br>
                                 Jakarta (CGK)<br>
-                                Dubai (DXB)<br>
+                                Dubai (DXB)<br />
+                              Sharjah (SHJ) <br>
                                 Kuwait (KWI)<br>
                                 Bahrain (BAH)<br>
                                 Doha (DOH)<br>
@@ -228,7 +234,9 @@
                                 25<br>
                                 25<br>
                                 25<br>
-                                25<br>
+                                25<br />
+                                25
+                              <br>
                                 25<br>
                                 25<br>
                                 25<br>
@@ -239,7 +247,8 @@
                                 USD 20<br>
                                 USD 20<br>
                                 USD 20<br>
-                                USD 20<br>
+                                USD 20<br />
+                              USD 20 <br>
                                 USD 20<br>
                                 USD 20<br>
                                 USD 20<br>
@@ -251,7 +260,8 @@
                             <td>Colombo<br>
                                 Male (MLE)<br>
                                 Tiruchirapalli (TRZ)<br>
-                                Dubai (DXB)<br>
+                                Dubai (DXB)<br />
+                              Sharjah (SHJ) <br>
                                 Kuwait (KWI)<br>
                                 Abu Dhabi (AUH)<br>
                                 Bahrain (BAH)<br>
@@ -261,7 +271,9 @@
                             <td>25<br>
                                 25<br>
                                 25<br>
-                                25<br>
+                                25<br />
+                                25
+                              <br>
                                 25<br>
                                 25<br>
                                 25<br>
@@ -271,7 +283,8 @@
                             <td>USD 18 <br>
                                 USD 25<br>
                                 USD 25<br>
-                                USD 25<br>
+                                USD 25<br />
+                              USD 25 <br>
                                 USD 25<br>
                                 USD 25<br>
                                 USD 25<br>
@@ -305,4 +318,3 @@
         <?endif;?>
     </div>
 </div>
-

@@ -155,6 +155,3 @@
         </tr>
     </table>
 </div>
-
-
-<div id="xmass_tree"></div>

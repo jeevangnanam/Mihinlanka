@@ -1,4 +1,4 @@
- <?if(!isset($language) or $language == 'eng'): ?>
+<?if(!isset($language) or $language == 'eng'): ?>
 <div id="contentInner">
     <div id="services">
     <h2>Payment Options</h2><br />
