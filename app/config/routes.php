@@ -56,8 +56,8 @@ Router::connect('/pages/travel-regulations/*', array('controller' => 'pages', 'a
 Router::connect('/pages/packages/*', array('controller' => 'pages', 'action' => 'packages'));
 Router::connect('/pages/duty-free-service-in-mihinlanka/*', array('controller' => 'pages', 'action' => 'duty_free'));
 Router::connect('/pages/duty-free/*', array('controller' => 'pages', 'action' => 'duty_free'));
-
-
+Router::connect('/sharjah10/*', array('controller' => 'pages', 'action' => 'sharjah10'));
+Router::connect('/pages/paybycash/*', array('controller' => 'pages', 'action' => 'paybycash'));
 
 
 Router::connect('/pages/mihinlanka-offices/*', array('controller' => 'pages', 'action' => 'offices'));

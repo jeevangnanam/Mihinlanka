@@ -486,5 +486,24 @@ function mc_remove($id="") {
         $this->set('banner', 'howtobook.jpg');
         //$this->render('how-to-book-in-mihinlanka');
     }
+    
+	function sharjah10() {
+		
+		$this->layout = 'home';
+		$this->set('title_for_layout', " Mihin Lanka Special Fares to Sharjah");
+		$this->set('banner', 'empty.jpg');
+		
+		$from = $this->LowfairSearch->find('list',array('fields' => array('from', 'from')));
+        $to = $this->LowfairSearch->find('list',array( 'fields' => array('to','to')));
+
+        $this->set('lowfairFrom', $from);
+        $this->set('lowfairTo', $to);
+	}
+	
+	function paybycash(){
+		$this->set('title_for_layout', "PayByCash");
+		$this->set('banner', 'boc.jpg');
+	}
+	
 
 }
