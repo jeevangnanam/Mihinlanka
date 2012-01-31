@@ -48,12 +48,12 @@
         <tr>
             <td  valign="top" style="border-right:dotted 1px #999;padding:5px;padding-left:20px;" WIDTH="33%">
             <div style="float:left;">
-            <h4 style="margin-bottom:5px;margin-left:5px"><?= __("Mihin Holidays");?></h4>
-                <img src="img/mihinholidays/logosmall_trans_home.png" hspace="0" vspace="10" align="left" style="" alt="mihin holidays"/><? //=__("baggage allawance det..");?><!--With our generous baggage allawance , you can shop till you drop during your holiday--><br />
+            <h4 style="margin-bottom:5px;margin-left:5px"><?= __("On-Board Service"); ?></h4>
+                <img src="img/meal_small.jpg" hspace="0" vspace="10" align="left" style="" alt="Upgrade your Meal "/><? //=__("baggage allawance det..");?><!--With our generous baggage allawance , you can shop till you drop during your holiday--><br />
              </div>    
                  
-                 <a href="/holidays" title="Mihin Holidays">
-                 	<img src="img/learnmore.png" width="82" height="19"  style="margin-top:0px;float:right;margin-right:10px;" border="0"/>
+                 <a href="/pages/on_board_service" title="Upgrade your Meal ">
+                 	<img src="img/learnmore.png" width="82" height="19"  style="margin-top:7px;float:right;margin-right:10px;" border="0"/>
                  </a>
                  
                  

@@ -53,7 +53,7 @@ function savefeedback(){
 			data+='&feedback_flight_a2='+document.getElementById('feedback_flight_a2').value;
 			data+='&feedback_flight_a3='+document.getElementById('feedback_flight_a3').value;
 			data+='&feedback_flight_a4='+document.getElementById('feedback_flight_a4').value;
-			
+			data+='&suggestion='+document.getElementById('suggestion').value;
 			
 			if($('#feedback_purpose_a1').is('.check')){//document.getElementById('feedback_purpose_a1').style.background!=""
 				data+='&feedback_purpose_a=Work';}

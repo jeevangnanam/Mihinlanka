@@ -1,3 +1,4 @@
+<?if(!isset($language) or $language == 'eng' or $language == 'tam'): ?>
 <style>
 #contentInner table{
 	margin-top:20px;
@@ -25,9 +26,14 @@
 
 <h2>Book online and pay by cash</h2>
 
-<div class="top_ul">
+<div class="top_ul" style="margin-top:10px;">
 Mihin Lanka has introduced an innovative facility where you can now book online without a credit card and enjoy the offers and promotions available online. This facility is the first of its kind in Sri Lanka which is launched in partnership with Bank of Ceylon
-    
+
+<ul><li>
+    	Currently facility is enabled only for Sri Lankan customers.</li>
+<li>	Booking option is activated only for the reservation made 7 days prior the flight departure date.</li>
+</ul>
+
 </div>
 
 <table width="100%" border="0" cellpadding="5" cellspacing="5">
@@ -65,3 +71,11 @@ Mihin Lanka has introduced an innovative facility where you can now book online 
 </table>
 
 </div>
+
+<?else: ?>
+<!--<link rel="stylesheet" href="/css/mega.css" />
+                <link href="/css/style.css" rel="stylesheet" type="text/css" />
+                <link rel="stylesheet" href="/css/main.css" />-->
+                
+<?= $this->element("translate/$language/pages/paybycash"); ?>
+    <?endif;?>

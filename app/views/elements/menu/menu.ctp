@@ -21,8 +21,9 @@
                 <ul style="width: 200px;">
                     <li><a href="/pages/how-to-book-in-mihinlanka"><?= __("How to book");?></a></li>
                     <li><a href="/pages/payment-options"><?= __("Payment options");?></a></li>
+                    <li><a href="/pages/paybycash"><?= __("Book Online &amp; Pay by Cash");?></a></li>
                     <li><a href="/pages/travelagents"><?= __("Travel Agents");?></a></li>
-                    
+                    <li><a href="/holidays"><?= __("Mihin Holidays");?></a></li>
                     <li><a href="/pages/travel-regulations"><?= __("Travel Regulations");?></a></li>
                     <li><a href="/pages/packages"><?= __("Packages");?></a></li>
                     <li><a href="/pages/mihinlanka-faq"><?= __("FAQ");?></a></li>

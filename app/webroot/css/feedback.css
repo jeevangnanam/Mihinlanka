@@ -356,6 +356,10 @@ input{
 	text-indent:-2px;
 	cursor: default;
 }
+
+textarea{
+	border:#BFE2FE 1px solid;
+}
 .spoff{
 	width:250px;
 	/*border-top:#FFF 1px solid;*/

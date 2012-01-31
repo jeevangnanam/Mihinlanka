@@ -123,6 +123,8 @@ class FeedbackController  extends AppController{
 		$feilds.="onboard_seventeen_rateovrep,"; 
 		$feilds.="onboard_eighteen_flyagain,";
 		$feilds.="onboard_nineteen_recommend,";
+		$feilds.="suggestion,";
+		
 		$feilds.="submitted_date"; /**/
 		
 		$data="";
@@ -227,10 +229,11 @@ class FeedbackController  extends AppController{
 		
 		$data.="'".$this->_myfilter($_POST['feedback_ovronboardexp_a'])."',";
 		$data.="'".$this->_myfilter($_POST['feedback_recommend'])."',";
-		$data.="'".$this->_myfilter($_POST['feedback_rec'])."'";/**/
+		$data.="'".$this->_myfilter($_POST['feedback_rec'])."',";/**/
+		$data.="'".$this->_myfilter($_POST['suggestion'])."'";/**/
 		
 		$queryString="insert into feedbacks($feilds) values($data,now())";
-		
+		//echo $queryString;
 		if(!$this->Session->check('done')){
 		if($this->Feedback->query($queryString)){
 			$this->Session->write('done',$this->_myfilter($_POST['feedback_email']));
